@@ -12,7 +12,7 @@ var passport = require('passport');
 var mongoose = require('mongoose');
 //mongoose.connect('mongodb://localhost/subzone3');
 //mongo "mongodb+srv://cluster0-fd2ni.mongodb.net/<dbname>" --username admin
-mongoose.connect('mongodb+srv://cluster0-fd2ni.mongodb.net/subzone3" --username admin');
+mongoose.connect("mongodb+srv://admin:pai_016903904@cluster0-fd2ni.mongodb.net/subzone3?retryWrites=true&w=majority");
 mongoose.Promise = global.Promise;
 
 
