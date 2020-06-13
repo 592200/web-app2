@@ -5,10 +5,14 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var logger = require('morgan');
 var favicon = require('serve-favicon');
+var session = require('express-session');
+var passport = require('passport');
 
 //mongoDB Connect
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/subzone3');
+//mongoose.connect('mongodb://localhost/subzone3');
+//mongo "mongodb+srv://cluster0-fd2ni.mongodb.net/<dbname>" --username admin
+mongoose.connect('mongodb+srv://cluster0-fd2ni.mongodb.net/subzone3" --username admin');
 mongoose.Promise = global.Promise;
 
 
@@ -26,15 +30,10 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(passport.initialize());
+app.use(passport.session());
 
-//session
-// var isLoggedIn = (req, res, next) => {
-//   if (!req.user) {
-//     res.redirect('login');
-//   };
-//   next();
-// };
-// app.use(isLoggedIn);
+
 
 //router
 var indexRouter = require('./routes/indexRouter');
