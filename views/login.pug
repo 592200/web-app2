@@ -1,0 +1,26 @@
+extends layout
+
+
+block content
+    div(class='body-0')
+        div(class='body')
+        div(class='grad')
+        div(class='header') 
+            div SUB
+                span Zone 3
+        br
+        div(class='login')
+            form(action="/users/login", method="post")
+                .form-group
+                    input(type='text' ,name='username' ,placeholder='username' )
+                .form-group
+                    input(type='password' ,name='password',placeholder='password')
+                    if(message)
+                        p(text-color='white')= (message? 'User or Password incorrect':'')
+                .form-group
+                    input(type="submit", value="login")
+
+
+
+
+
