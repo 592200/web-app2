@@ -7,6 +7,8 @@ var logger = require('morgan');
 var favicon = require('serve-favicon');
 var session = require('express-session');
 var passport = require('passport');
+const storage = require('node-sessionstorage')
+var loginToken = false;
 
 //mongoDB Connect
 var mongoose = require('mongoose');
@@ -17,6 +19,7 @@ mongoose.Promise = global.Promise;
 //editpai
 //editww
 
+storage.setItem("loginToken", loginToken);
 
 var app = express();
 
