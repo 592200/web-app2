@@ -1,0 +1,4223 @@
+{
+        "Costume Quest": {
+            "id": " Costume Quest",
+            "name": "Costume Quest",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "19/1/2020 23:33:41",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "A Short Hike": {
+            "id": "A Short Hike",
+            "name": "A Short Hike",
+            "platForm": "Other",
+            "reason": "DRM Free",
+            "createTime": "8/3/2020 22:43:9",
+            "updateTime": "4/6/2020 21:34:11",
+            "gameFree": false,
+            "gameReceiveFree": true
+        },
+        "A Story About My Uncle": {
+            "id": "A Story About My Uncle",
+            "name": "A Story About My Uncle",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "4/6/2020 20:24:54",
+            "updateTime": "4/6/2020 20:24:54",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "ABZU": {
+            "id": "ABZU",
+            "name": "ABZU",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "ADR1FT": {
+            "id": "ADR1FT",
+            "name": "ADR1FT",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Abyss The Wraiths of Eden": {
+            "id": "Abyss The Wraiths of Eden",
+            "name": "Abyss The Wraiths of Eden",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Adventures of Shuggy": {
+            "id": "Adventures of Shuggy",
+            "name": "Adventures of Shuggy",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Afterfall Insanity": {
+            "id": "Afterfall Insanity",
+            "name": "Afterfall Insanity",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Alan Wake": {
+            "id": "Alan Wake",
+            "name": "Alan Wake",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Alan Wake's American Nightmare": {
+            "id": "Alan Wake's American Nightmare",
+            "name": "Alan Wake's American Nightmare",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Alchemy Mysteries: Prague Legends": {
+            "id": "Alchemy Mysteries: Prague Legends",
+            "name": "Alchemy Mysteries: Prague Legends",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Alex Hunter - Lord of the Mind Platinum Edition": {
+            "id": "Alex Hunter - Lord of the Mind Platinum Edition",
+            "name": "Alex Hunter - Lord of the Mind Platinum Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Alien Breed 2: Assault": {
+            "id": "Alien Breed 2: Assault",
+            "name": "Alien Breed 2: Assault",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Alien Breed 3: Descent": {
+            "id": "Alien Breed 3: Descent",
+            "name": "Alien Breed 3: Descent",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Alien Breed: Impact": {
+            "id": "Alien Breed: Impact",
+            "name": "Alien Breed: Impact",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Alien Rage - Unlimited": {
+            "id": "Alien Rage - Unlimited",
+            "name": "Alien Rage - Unlimited",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Amnesia: A Machine for Pigs": {
+            "id": "Amnesia: A Machine for Pigs",
+            "name": "Amnesia: A Machine for Pigs",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Amnesia: The Dark Descent": {
+            "id": "Amnesia: The Dark Descent",
+            "name": "Amnesia: The Dark Descent",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Among the Sleep": {
+            "id": "Among the Sleep",
+            "name": "Among the Sleep",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Anomaly 2": {
+            "id": "Anomaly 2",
+            "name": "Anomaly 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Anomaly Korea": {
+            "id": "Anomaly Korea",
+            "name": "Anomaly Korea",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Anomaly Warzone Earth": {
+            "id": "Anomaly Warzone Earth",
+            "name": "Anomaly Warzone Earth",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Anomaly Warzone Earth Mobile Campaign": {
+            "id": "Anomaly Warzone Earth Mobile Campaign",
+            "name": "Anomaly Warzone Earth Mobile Campaign",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Another Perspective": {
+            "id": "Another Perspective",
+            "name": "Another Perspective",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Antichamber": {
+            "id": "Antichamber",
+            "name": "Antichamber",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Aporia: Beyond The Valley": {
+            "id": "Aporia: Beyond The Valley",
+            "name": "Aporia: Beyond The Valley",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Apothecarium: The Renaissance of Evil - Premium Edition": {
+            "id": "Apothecarium: The Renaissance of Evil - Premium Edition",
+            "name": "Apothecarium: The Renaissance of Evil - Premium Edition",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Archero": {
+            "id": "Archero",
+            "name": "Archero",
+            "platForm": "IOS",
+            "reason": "Level 13",
+            "createTime": "2/1/2020 12:23:44",
+            "updateTime": "2/1/2020 12:23:44",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Arrog": {
+            "id": "Arrog",
+            "name": "Arrog",
+            "platForm": "Other",
+            "reason": "DRM Free",
+            "createTime": "7/12/2019 23:28:38",
+            "updateTime": "4/6/2020 21:34:7",
+            "gameFree": false,
+            "gameReceiveFree": true
+        },
+        "Assassin's Creed": {
+            "id": "Assassin's Creed",
+            "name": "Assassin's Creed",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed 2": {
+            "id": "Assassin's Creed 2",
+            "name": "Assassin's Creed 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed 3": {
+            "id": "Assassin's Creed 3",
+            "name": "Assassin's Creed 3",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed 4 - Black Flag": {
+            "id": "Assassin's Creed 4 - Black Flag",
+            "name": "Assassin's Creed 4 - Black Flag",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed Brotherhood": {
+            "id": "Assassin's Creed Brotherhood",
+            "name": "Assassin's Creed Brotherhood",
+            "platForm": null,
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed Odyssey": {
+            "id": "Assassin's Creed Odyssey",
+            "name": "Assassin's Creed Odyssey",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed Origin": {
+            "id": "Assassin's Creed Origin",
+            "name": "Assassin's Creed Origin",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed Revelation": {
+            "id": "Assassin's Creed Revelation",
+            "name": "Assassin's Creed Revelation",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed Syndicate": {
+            "id": "Assassin's Creed Syndicate",
+            "name": "Assassin's Creed Syndicate",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed Unity": {
+            "id": "Assassin's Creed Unity",
+            "name": "Assassin's Creed Unity",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin's Creed Unity - Dead Kings": {
+            "id": "Assassin's Creed Unity - Dead Kings",
+            "name": "Assassin's Creed Unity - Dead Kings",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin’s Creed Chronicles: China": {
+            "id": "Assassin’s Creed Chronicles: China",
+            "name": "Assassin’s Creed Chronicles: China",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin’s Creed Chronicles: India": {
+            "id": "Assassin’s Creed Chronicles: India",
+            "name": "Assassin’s Creed Chronicles: India",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin’s Creed Chronicles: Russia": {
+            "id": "Assassin’s Creed Chronicles: Russia",
+            "name": "Assassin’s Creed Chronicles: Russia",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Assassin’s Creed Rogue": {
+            "id": "Assassin’s Creed Rogue",
+            "name": "Assassin’s Creed Rogue",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Attractio": {
+            "id": "Attractio",
+            "name": "Attractio",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Awkward Dimensions Redux": {
+            "id": "Awkward Dimensions Redux",
+            "name": "Awkward Dimensions Redux",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Axiom Verge": {
+            "id": "Axiom Verge",
+            "name": "Axiom Verge",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Bad Rats": {
+            "id": "Bad Rats",
+            "name": "Bad Rats",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Batman: Arkham Asylum Game of the Year Edition": {
+            "id": "Batman: Arkham Asylum Game of the Year Edition",
+            "name": "Batman: Arkham Asylum Game of the Year Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Batman: Arkham City - Game of the Year Edition": {
+            "id": "Batman: Arkham City - Game of the Year Edition",
+            "name": "Batman: Arkham City - Game of the Year Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Batman: Arkham Knight": {
+            "id": "Batman: Arkham Knight",
+            "name": "Batman: Arkham Knight",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Batman: Arkham Origins": {
+            "id": "Batman: Arkham Origins",
+            "name": "Batman: Arkham Origins",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Battlefield 1": {
+            "id": "Battlefield 1",
+            "name": "Battlefield 1",
+            "platForm": "Origin",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Bedlam": {
+            "id": "Bedlam",
+            "name": "Bedlam",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Behind Reflection 2": {
+            "id": "Behind Reflection 2",
+            "name": "Behind Reflection 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "BioShock Infinite": {
+            "id": "BioShock Infinite",
+            "name": "BioShock Infinite",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "BioShock Infinite: Burial at Sea EP1": {
+            "id": "BioShock Infinite: Burial at Sea EP1",
+            "name": "BioShock Infinite: Burial at Sea EP1",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "BioShock Infinite: Burial at Sea EP2": {
+            "id": "BioShock Infinite: Burial at Sea EP2",
+            "name": "BioShock Infinite: Burial at Sea EP2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Bioshock": {
+            "id": "Bioshock",
+            "name": "Bioshock",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Bioshock 2": {
+            "id": "Bioshock 2",
+            "name": "Bioshock 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "BirdGut": {
+            "id": "BirdGut",
+            "name": "BirdGut",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Bit Dungeon II": {
+            "id": "Bit Dungeon II",
+            "name": "Bit Dungeon II",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "13/12/2019 0:46:50",
+            "updateTime": "13/12/2019 0:46:50",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Boson X": {
+            "id": "Boson X",
+            "name": "Boson X",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Brink of Consciousness: Dorian Gray Syndrome Collector's Edition": {
+            "id": "Brink of Consciousness: Dorian Gray Syndrome Collector's Edition",
+            "name": "Brink of Consciousness: Dorian Gray Syndrome Collector's Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Brothers - A Tale of Two Sons": {
+            "id": "Brothers - A Tale of Two Sons",
+            "name": "Brothers - A Tale of Two Sons",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Brutal Legend": {
+            "id": "Brutal Legend",
+            "name": "Brutal Legend",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Bulletstorm": {
+            "id": "Bulletstorm",
+            "name": "Bulletstorm",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Burning Daylight": {
+            "id": "Burning Daylight",
+            "name": "Burning Daylight",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Burnout Paradise: The Ultimate Box": {
+            "id": "Burnout Paradise: The Ultimate Box",
+            "name": "Burnout Paradise: The Ultimate Box",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty": {
+            "id": "Call of Duty",
+            "name": "Call of Duty",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty 2": {
+            "id": "Call of Duty 2",
+            "name": "Call of Duty 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty 4 -Modern Warfare": {
+            "id": "Call of Duty 4 -Modern Warfare",
+            "name": "Call of Duty 4 -Modern Warfare",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty 4 -Modern Warfare 2": {
+            "id": "Call of Duty 4 -Modern Warfare 2",
+            "name": "Call of Duty 4 -Modern Warfare 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty 4 -Modern Warfare 3": {
+            "id": "Call of Duty 4 -Modern Warfare 3",
+            "name": "Call of Duty 4 -Modern Warfare 3",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty Advance Warfare": {
+            "id": "Call of Duty Advance Warfare",
+            "name": "Call of Duty Advance Warfare",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty Black Ops": {
+            "id": "Call of Duty Black Ops",
+            "name": "Call of Duty Black Ops",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty Black Ops 2": {
+            "id": "Call of Duty Black Ops 2",
+            "name": "Call of Duty Black Ops 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty Ghost": {
+            "id": "Call of Duty Ghost",
+            "name": "Call of Duty Ghost",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty World at War": {
+            "id": "Call of Duty World at War",
+            "name": "Call of Duty World at War",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Call of Duty: WWII": {
+            "id": "Call of Duty: WWII",
+            "name": "Call of Duty: WWII",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Cat Quest": {
+            "id": "Cat Quest",
+            "name": "Cat Quest",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "9/6/2020 12:13:23",
+            "updateTime": "9/6/2020 12:13:23",
+            "gameFree": false,
+            "gameReceiveFree": true
+        },
+        "Child of Light": {
+            "id": "Child of Light",
+            "name": "Child of Light",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Chronicles of Magic: Divided Kingdoms": {
+            "id": "Chronicles of Magic: Divided Kingdoms",
+            "name": "Chronicles of Magic: Divided Kingdoms",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "21/3/2020 20:47:15",
+            "updateTime": "21/3/2020 20:47:15",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Clockwork Tales: Of Glass and Ink": {
+            "id": "Clockwork Tales: Of Glass and Ink",
+            "name": "Clockwork Tales: Of Glass and Ink",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Close to the Sun": {
+            "id": "Close to the Sun",
+            "name": "Close to the Sun",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "21/4/2020 21:48:49",
+            "updateTime": "21/4/2020 21:48:49",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Command and Conquer 3": {
+            "id": "Command and Conquer 3",
+            "name": "Command and Conquer 3",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Conarium": {
+            "id": "Conarium",
+            "name": "Conarium",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Contrast": {
+            "id": "Contrast",
+            "name": "Contrast",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Corrupt": {
+            "id": "Corrupt",
+            "name": "Corrupt",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "4/6/2020 22:29:31",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Crysis": {
+            "id": "Crysis",
+            "name": "Crysis",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Crysis 2": {
+            "id": "Crysis 2",
+            "name": "Crysis 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Crystals of Time": {
+            "id": "Crystals of Time",
+            "name": "Crystals of Time",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "DISTRAINT": {
+            "id": "DISTRAINT",
+            "name": "DISTRAINT",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "DISTRAINT 2": {
+            "id": "DISTRAINT 2",
+            "name": "DISTRAINT 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "DMC": {
+            "id": "DMC",
+            "name": "DMC",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dark Arcana: The Carnival": {
+            "id": "Dark Arcana: The Carnival",
+            "name": "Dark Arcana: The Carnival",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Darksider": {
+            "id": "Darksider",
+            "name": "Darksider",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Darksider 2": {
+            "id": "Darksider 2",
+            "name": "Darksider 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dead Bits": {
+            "id": "Dead Bits",
+            "name": "Dead Bits",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dead Effect": {
+            "id": "Dead Effect",
+            "name": "Dead Effect",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dead Space": {
+            "id": "Dead Space",
+            "name": "Dead Space",
+            "platForm": "Origin",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dead Space 2": {
+            "id": "Dead Space 2",
+            "name": "Dead Space 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dead Space 3": {
+            "id": "Dead Space 3",
+            "name": "Dead Space 3",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Deadlight": {
+            "id": "Deadlight",
+            "name": "Deadlight",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Demon Hunter: Chronicles from Beyond": {
+            "id": "Demon Hunter: Chronicles from Beyond",
+            "name": "Demon Hunter: Chronicles from Beyond",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Deus Ex: Human Revolution - Director's Cut": {
+            "id": "Deus Ex: Human Revolution - Director's Cut",
+            "name": "Deus Ex: Human Revolution - Director's Cut",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dev Guy": {
+            "id": "Dev Guy",
+            "name": "Dev Guy",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "DiRT 3": {
+            "id": "DiRT 3",
+            "name": "DiRT 3",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "DiRT Showdown": {
+            "id": "DiRT Showdown",
+            "name": "DiRT Showdown",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dirt 2": {
+            "id": "Dirt 2",
+            "name": "Dirt 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dishonored": {
+            "id": "Dishonored",
+            "name": "Dishonored",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dishonored The Brigmore Witches": {
+            "id": "Dishonored The Brigmore Witches",
+            "name": "Dishonored The Brigmore Witches",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Dishonored The Knife of Dunwall": {
+            "id": "Dishonored The Knife of Dunwall",
+            "name": "Dishonored The Knife of Dunwall",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Doorways: Old Prototype": {
+            "id": "Doorways: Old Prototype",
+            "name": "Doorways: Old Prototype",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Drop Alive": {
+            "id": "Drop Alive",
+            "name": "Drop Alive",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Duke Nukem Forever": {
+            "id": "Duke Nukem Forever",
+            "name": "Duke Nukem Forever",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "EDGE": {
+            "id": "EDGE",
+            "name": "EDGE",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "ENSLAVED: Odyssey to the West Premium Edition": {
+            "id": "ENSLAVED: Odyssey to the West Premium Edition",
+            "name": "ENSLAVED: Odyssey to the West Premium Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Elementary My Dear Majesty!": {
+            "id": "Elementary My Dear Majesty!",
+            "name": "Elementary My Dear Majesty!",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Endless Fables 3: Dark Moor": {
+            "id": "Endless Fables 3: Dark Moor",
+            "name": "Endless Fables 3: Dark Moor",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "14/3/2020 21:54:22",
+            "updateTime": "14/3/2020 21:54:22",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Enigmatis: The Ghosts of Maple Creek": {
+            "id": "Enigmatis: The Ghosts of Maple Creek",
+            "name": "Enigmatis: The Ghosts of Maple Creek",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Epic Battle Fantasy 4": {
+            "id": "Epic Battle Fantasy 4",
+            "name": "Epic Battle Fantasy 4",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "14/1/2020 20:21:33",
+            "updateTime": "14/1/2020 20:21:33",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Epistory - Typing Chronicles": {
+            "id": "Epistory - Typing Chronicles",
+            "name": "Epistory - Typing Chronicles",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Etherborn": {
+            "id": "Etherborn",
+            "name": "Etherborn",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "15/4/2020 20:8:25",
+            "updateTime": "15/4/2020 20:8:25",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Evil Pumpkin: The Lost Halloween": {
+            "id": "Evil Pumpkin: The Lost Halloween",
+            "name": "Evil Pumpkin: The Lost Halloween",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Evoland": {
+            "id": "Evoland",
+            "name": "Evoland",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Evoland 2": {
+            "id": "Evoland 2",
+            "name": "Evoland 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "F.E.A.R.": {
+            "id": "F.E.A.R.",
+            "name": "F.E.A.R.",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "F.E.A.R. 2: Project Origin": {
+            "id": "F.E.A.R. 2: Project Origin",
+            "name": "F.E.A.R. 2: Project Origin",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "F.E.A.R. 3": {
+            "id": "F.E.A.R. 3",
+            "name": "F.E.A.R. 3",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "F.E.A.R. Extraction Point": {
+            "id": "F.E.A.R. Extraction Point",
+            "name": "F.E.A.R. Extraction Point",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "F.E.A.R.: Perseus Mandate": {
+            "id": "F.E.A.R.: Perseus Mandate",
+            "name": "F.E.A.R.: Perseus Mandate",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Fable 3": {
+            "id": "Fable 3",
+            "name": "Fable 3",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Far Cry 2": {
+            "id": "Far Cry 2",
+            "name": "Far Cry 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Far Cry 3": {
+            "id": "Far Cry 3",
+            "name": "Far Cry 3",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Far Cry 3 - Blood Dragon": {
+            "id": "Far Cry 3 - Blood Dragon",
+            "name": "Far Cry 3 - Blood Dragon",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Far Cry 4": {
+            "id": "Far Cry 4",
+            "name": "Far Cry 4",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Far Cry 5": {
+            "id": "Far Cry 5",
+            "name": "Far Cry 5",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Far Cry Primal": {
+            "id": "Far Cry Primal",
+            "name": "Far Cry Primal",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Figment": {
+            "id": "Figment",
+            "name": "Figment",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Finding Teddy": {
+            "id": "Finding Teddy",
+            "name": "Finding Teddy",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "FlatOut": {
+            "id": "FlatOut",
+            "name": "FlatOut",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "For Honor": {
+            "id": "For Honor",
+            "name": "For Honor",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Forward to the Sky": {
+            "id": "Forward to the Sky",
+            "name": "Forward to the Sky",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "4/1/2020 0:27:51",
+            "updateTime": "4/1/2020 0:27:51",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Frankenstein: Master of Death": {
+            "id": "Frankenstein: Master of Death",
+            "name": "Frankenstein: Master of Death",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Frederic: Evil Strikes Back": {
+            "id": "Frederic: Evil Strikes Back",
+            "name": "Frederic: Evil Strikes Back",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Frederic: Resurrection of Music": {
+            "id": "Frederic: Resurrection of Music",
+            "name": "Frederic: Resurrection of Music",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "GIGANTIC ARMY": {
+            "id": "GIGANTIC ARMY",
+            "name": "GIGANTIC ARMY",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "GNOG": {
+            "id": "GNOG",
+            "name": "GNOG",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "GRIS": {
+            "id": "GRIS",
+            "name": "GRIS",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "6/4/2020 13:46:3",
+            "updateTime": "6/4/2020 13:46:3",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Garden Rescue": {
+            "id": "Garden Rescue",
+            "name": "Garden Rescue",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Gears of war": {
+            "id": "Gears of war",
+            "name": "Gears of war",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Ghost Encounters: Deadwood - Collector's Edition": {
+            "id": "Ghost Encounters: Deadwood - Collector's Edition",
+            "name": "Ghost Encounters: Deadwood - Collector's Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Global Ops: Commando Libya": {
+            "id": "Global Ops: Commando Libya",
+            "name": "Global Ops: Commando Libya",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Gravitas": {
+            "id": "Gravitas",
+            "name": "Gravitas",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Grid": {
+            "id": "Grid",
+            "name": "Grid",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Grid 2": {
+            "id": "Grid 2",
+            "name": "Grid 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Grim Legends: The Forsaken Bride": {
+            "id": "Grim Legends: The Forsaken Bride",
+            "name": "Grim Legends: The Forsaken Bride",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Grimm": {
+            "id": "Grimm",
+            "name": "Grimm",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Grimm's Hollow": {
+            "id": "Grimm's Hollow",
+            "name": "Grimm's Hollow",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "15/12/2019 12:8:5",
+            "updateTime": "4/6/2020 21:32:50",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Grow home": {
+            "id": "Grow home",
+            "name": "Grow home",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Gunpoint": {
+            "id": "Gunpoint",
+            "name": "Gunpoint",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Half-Life 2": {
+            "id": "Half-Life 2",
+            "name": "Half-Life 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "9/4/2020 21:59:28",
+            "updateTime": "9/4/2020 21:59:28",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Half-Life 2: Episode One": {
+            "id": "Half-Life 2: Episode One",
+            "name": "Half-Life 2: Episode One",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "11/4/2020 23:26:15",
+            "updateTime": "11/4/2020 23:26:15",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Half-Life 2: Episode Two": {
+            "id": "Half-Life 2: Episode Two",
+            "name": "Half-Life 2: Episode Two",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "12/4/2020 22:11:6",
+            "updateTime": "12/4/2020 22:11:6",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Half-Life 2: Lost Coast": {
+            "id": "Half-Life 2: Lost Coast",
+            "name": "Half-Life 2: Lost Coast",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "12/4/2020 22:32:2",
+            "updateTime": "12/4/2020 22:32:2",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Hard Reset": {
+            "id": "Hard Reset",
+            "name": "Hard Reset",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Heavy Fire: Afghanistan\\": {
+            "id": "Heavy Fire: Afghanistan\\",
+            "name": "Heavy Fire: Afghanistan\\",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Hell Yeah!": {
+            "id": "Hell Yeah!",
+            "name": "Hell Yeah!",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Hellblade: Senua's Sacrifice": {
+            "id": "Hellblade: Senua's Sacrifice",
+            "name": "Hellblade: Senua's Sacrifice",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Helltaker": {
+            "id": "Helltaker",
+            "name": "Helltaker",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "2/6/2020 22:51:46",
+            "updateTime": "4/6/2020 21:35:37",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Hental Puzzle": {
+            "id": "Hental Puzzle",
+            "name": "Hental Puzzle",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Heroes of Hellas 3 : Athens": {
+            "id": "Heroes of Hellas 3 : Athens",
+            "name": "Heroes of Hellas 3 : Athens",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Hitman: Absolution": {
+            "id": "Hitman: Absolution",
+            "name": "Hitman: Absolution",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Hob": {
+            "id": "Hob",
+            "name": "Hob",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "24/4/2020 22:55:32",
+            "updateTime": "24/4/2020 22:55:32",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Hollow Knight": {
+            "id": "Hollow Knight",
+            "name": "Hollow Knight",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "11/12/2019 21:2:38",
+            "updateTime": "11/12/2019 21:2:38",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Horace": {
+            "id": "Horace",
+            "name": "Horace",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "5/5/2020 1:20:18",
+            "updateTime": "5/5/2020 1:20:18",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "House of 1,000 Doors: Family Secrets": {
+            "id": "House of 1,000 Doors: Family Secrets",
+            "name": "House of 1,000 Doors: Family Secrets",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "House of 1000 Doors: The Palm of Zoroaster": {
+            "id": "House of 1000 Doors: The Palm of Zoroaster",
+            "name": "House of 1000 Doors: The Palm of Zoroaster",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Hydrophobia Phophecy": {
+            "id": "Hydrophobia Phophecy",
+            "name": "Hydrophobia Phophecy",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "I Am Alive": {
+            "id": "I Am Alive",
+            "name": "I Am Alive",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "INSIDE": {
+            "id": "INSIDE",
+            "name": "INSIDE",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Inmost": {
+            "id": "Inmost",
+            "name": "Inmost",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "26/11/2019 16:44:15",
+            "updateTime": "26/11/2019 16:44:15",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Jotun: Valhalla Edition": {
+            "id": "Jotun: Valhalla Edition",
+            "name": "Jotun: Valhalla Edition",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "27/12/2019 0:0:27",
+            "updateTime": "27/12/2019 21:8:3",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Just Cause 2": {
+            "id": "Just Cause 2",
+            "name": "Just Cause 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Karu": {
+            "id": "Karu",
+            "name": "Karu",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "King's Heir: Rise to the Throne": {
+            "id": "King's Heir: Rise to the Throne",
+            "name": "King's Heir: Rise to the Throne",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "7/5/2020 16:31:34",
+            "updateTime": "7/5/2020 16:31:34",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Kingdom of Aurelia: Mystery of the Poisoned Dagger": {
+            "id": "Kingdom of Aurelia: Mystery of the Poisoned Dagger",
+            "name": "Kingdom of Aurelia: Mystery of the Poisoned Dagger",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "20/5/2020 17:26:41",
+            "updateTime": "20/5/2020 17:26:41",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "LEGO Harry Potter: Years 1-4": {
+            "id": "LEGO Harry Potter: Years 1-4",
+            "name": "LEGO Harry Potter: Years 1-4",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "LEGO The Hobbit": {
+            "id": "LEGO The Hobbit",
+            "name": "LEGO The Hobbit",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lara Croft and the Guardian of Light": {
+            "id": "Lara Croft and the Guardian of Light",
+            "name": "Lara Croft and the Guardian of Light",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lara Croft and the Temple of Osiris": {
+            "id": "Lara Croft and the Temple of Osiris",
+            "name": "Lara Croft and the Temple of Osiris",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "1/5/2020 21:33:37",
+            "updateTime": "1/5/2020 21:33:37",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Last Day of June": {
+            "id": "Last Day of June",
+            "name": "Last Day of June",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Layers of Fear": {
+            "id": "Layers of Fear",
+            "name": "Layers of Fear",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Learn Japanese To Survive! Hiragana Battle": {
+            "id": "Learn Japanese To Survive! Hiragana Battle",
+            "name": "Learn Japanese To Survive! Hiragana Battle",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Learn Japanese To Survive! Kanji Combat": {
+            "id": "Learn Japanese To Survive! Kanji Combat",
+            "name": "Learn Japanese To Survive! Kanji Combat",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Learn Japanese To Survive! Katakana War": {
+            "id": "Learn Japanese To Survive! Katakana War",
+            "name": "Learn Japanese To Survive! Katakana War",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Left 4 Dead 2": {
+            "id": "Left 4 Dead 2",
+            "name": "Left 4 Dead 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Legendary": {
+            "id": "Legendary",
+            "name": "Legendary",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Limbo": {
+            "id": "Limbo",
+            "name": "Limbo",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Little Nightmares": {
+            "id": "Little Nightmares",
+            "name": "Little Nightmares",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Living Legends Ice Rose": {
+            "id": "Living Legends Ice Rose",
+            "name": "Living Legends Ice Rose",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Living Legends: Frozen Beauty": {
+            "id": "Living Legends: Frozen Beauty",
+            "name": "Living Legends: Frozen Beauty",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lost Grimoires 3: The Forgotten Well": {
+            "id": "Lost Grimoires 3: The Forgotten Well",
+            "name": "Lost Grimoires 3: The Forgotten Well",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "21/5/2020 12:4:21",
+            "updateTime": "21/5/2020 12:4:21",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lost Legends: The Weeping Woman": {
+            "id": "Lost Legends: The Weeping Woman",
+            "name": "Lost Legends: The Weeping Woman",
+            "platForm": "Steam",
+            "reason": "Collector's Edition",
+            "createTime": "1/2/2020 20:26:46",
+            "updateTime": "1/2/2020 20:26:46",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lost planet": {
+            "id": "Lost planet",
+            "name": "Lost planet",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lost planet 2": {
+            "id": "Lost planet 2",
+            "name": "Lost planet 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lost planet 3": {
+            "id": "Lost planet 3",
+            "name": "Lost planet 3",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lucius": {
+            "id": "Lucius",
+            "name": "Lucius",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lumino City": {
+            "id": "Lumino City",
+            "name": "Lumino City",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Lust from Beyond: Prologue": {
+            "id": "Lust from Beyond: Prologue",
+            "name": "Lust from Beyond: Prologue",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Luxor": {
+            "id": "Luxor",
+            "name": "Luxor",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Luxor 2": {
+            "id": "Luxor 2",
+            "name": "Luxor 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Luxor 3": {
+            "id": "Luxor 3",
+            "name": "Luxor 3",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Luxor mahjong": {
+            "id": "Luxor mahjong",
+            "name": "Luxor mahjong",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Luxor: Quest for the Afterlife": {
+            "id": "Luxor: Quest for the Afterlife",
+            "name": "Luxor: Quest for the Afterlife",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "MO:Astray": {
+            "id": "MO:Astray",
+            "name": "MO:Astray",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "9/5/2020 23:2:12",
+            "updateTime": "9/5/2020 23:2:12",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Mad Max": {
+            "id": "Mad Max",
+            "name": "Mad Max",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Mafia 2": {
+            "id": "Mafia 2",
+            "name": "Mafia 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Mages of Mystralia": {
+            "id": "Mages of Mystralia",
+            "name": "Mages of Mystralia",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "28/3/2020 0:15:12",
+            "updateTime": "28/3/2020 0:15:12",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Major Stryker": {
+            "id": "Major Stryker",
+            "name": "Major Stryker",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Manual Samuel": {
+            "id": "Manual Samuel",
+            "name": "Manual Samuel",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "13/6/2020 22:10:5",
+            "updateTime": "13/6/2020 22:10:5",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Manuganu": {
+            "id": "Manuganu",
+            "name": "Manuganu",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Manuganu 2": {
+            "id": "Manuganu 2",
+            "name": "Manuganu 2",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Marie's Room": {
+            "id": "Marie's Room",
+            "name": "Marie's Room",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Mass Effect 2": {
+            "id": "Mass Effect 2",
+            "name": "Mass Effect 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Mass Effect 3": {
+            "id": "Mass Effect 3",
+            "name": "Mass Effect 3",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Medal of Honor 2010": {
+            "id": "Medal of Honor 2010",
+            "name": "Medal of Honor 2010",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Melissa K. and the Heart of Gold Collector's Edition": {
+            "id": "Melissa K. and the Heart of Gold Collector's Edition",
+            "name": "Melissa K. and the Heart of Gold Collector's Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metal Slug": {
+            "id": "Metal Slug",
+            "name": "Metal Slug",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metal Slug 2": {
+            "id": "Metal Slug 2",
+            "name": "Metal Slug 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metal Slug 3": {
+            "id": "Metal Slug 3",
+            "name": "Metal Slug 3",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metal Slug 4": {
+            "id": "Metal Slug 4",
+            "name": "Metal Slug 4",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metal Slug 5": {
+            "id": "Metal Slug 5",
+            "name": "Metal Slug 5",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metal Slug 6": {
+            "id": "Metal Slug 6",
+            "name": "Metal Slug 6",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metal Slug X": {
+            "id": "Metal Slug X",
+            "name": "Metal Slug X",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metrico+": {
+            "id": "Metrico+",
+            "name": "Metrico+",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metro 2033 Redex": {
+            "id": "Metro 2033 Redex",
+            "name": "Metro 2033 Redex",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Metro Last Light Redux": {
+            "id": "Metro Last Light Redux",
+            "name": "Metro Last Light Redux",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Middle-earth : Shadow of War": {
+            "id": "Middle-earth : Shadow of War",
+            "name": "Middle-earth : Shadow of War",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "14/2/2020 23:38:24",
+            "updateTime": "14/2/2020 23:38:24",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Middle-earth: Shadow of Mordor": {
+            "id": "Middle-earth: Shadow of Mordor",
+            "name": "Middle-earth: Shadow of Mordor",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Midnight Mysteries - Edgar Allan Poe Conspiracy": {
+            "id": "Midnight Mysteries - Edgar Allan Poe Conspiracy",
+            "name": "Midnight Mysteries - Edgar Allan Poe Conspiracy",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Minds Eyes": {
+            "id": "Minds Eyes",
+            "name": "Minds Eyes",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Mini Ninjas": {
+            "id": "Mini Ninjas",
+            "name": "Mini Ninjas",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Minit": {
+            "id": "Minit",
+            "name": "Minit",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Monument Valley 2": {
+            "id": "Monument Valley 2",
+            "name": "Monument Valley 2",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "3/4/2020 17:32:43",
+            "updateTime": "3/4/2020 17:32:43",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Moonlighter": {
+            "id": "Moonlighter",
+            "name": "Moonlighter",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Morphopolis": {
+            "id": "Morphopolis",
+            "name": "Morphopolis",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Mountain Crime Requital": {
+            "id": "Mountain Crime Requital",
+            "name": "Mountain Crime Requital",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Mountain Crime: Requital": {
+            "id": "Mountain Crime: Requital",
+            "name": "Mountain Crime: Requital",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "1/2/2020 23:18:35",
+            "updateTime": "1/2/2020 23:18:35",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "My Brother Rabbit": {
+            "id": "My Brother Rabbit",
+            "name": "My Brother Rabbit",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "7/3/2020 23:14:7",
+            "updateTime": "7/3/2020 23:14:7",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "My Friend Pedro": {
+            "id": "My Friend Pedro",
+            "name": "My Friend Pedro",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "7/4/2020 23:52:43",
+            "updateTime": "7/4/2020 23:52:43",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Naval Warfare": {
+            "id": "Naval Warfare",
+            "name": "Naval Warfare",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "NecroVision": {
+            "id": "NecroVision",
+            "name": "NecroVision",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "NecrovisioN: Lost Company": {
+            "id": "NecrovisioN: Lost Company",
+            "name": "NecrovisioN: Lost Company",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Need for Speed Carbon": {
+            "id": "Need for Speed Carbon",
+            "name": "Need for Speed Carbon",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Need for Speed Hot Pursuit 2": {
+            "id": "Need for Speed Hot Pursuit 2",
+            "name": "Need for Speed Hot Pursuit 2",
+            "platForm": null,
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Need for Speed Hot Pursuit 2010": {
+            "id": "Need for Speed Hot Pursuit 2010",
+            "name": "Need for Speed Hot Pursuit 2010",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Need for Speed The run": {
+            "id": "Need for Speed The run",
+            "name": "Need for Speed The run",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Need for Speed Undercover": {
+            "id": "Need for Speed Undercover",
+            "name": "Need for Speed Undercover",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "10/6/2020 22:7:19",
+            "updateTime": "10/6/2020 22:7:19",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Need for Speed Underground 2": {
+            "id": "Need for Speed Underground 2",
+            "name": "Need for Speed Underground 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Never Alone": {
+            "id": "Never Alone",
+            "name": "Never Alone",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Neverending Nightmares": {
+            "id": "Neverending Nightmares",
+            "name": "Neverending Nightmares",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Nightmares from the deep:The Cursed Heart": {
+            "id": "Nightmares from the deep:The Cursed Heart",
+            "name": "Nightmares from the deep:The Cursed Heart",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Nihilumbra": {
+            "id": "Nihilumbra",
+            "name": "Nihilumbra",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Nishan": {
+            "id": "Nishan",
+            "name": "Nishan",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "No Time To Explain Remastered": {
+            "id": "No Time To Explain Remastered",
+            "name": "No Time To Explain Remastered",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Nux": {
+            "id": "Nux",
+            "name": "Nux",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "OKAMI HD 大神 絶景版": {
+            "id": "OKAMI HD 大神 絶景版",
+            "name": "OKAMI HD 大神 絶景版",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "31/3/2020 22:40:38",
+            "updateTime": "31/3/2020 22:40:38",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Oceanhorn 2: Knights of the Lost Realm": {
+            "id": "Oceanhorn 2: Knights of the Lost Realm",
+            "name": "Oceanhorn 2: Knights of the Lost Realm",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "5/12/2019 14:46:51",
+            "updateTime": "5/12/2019 14:46:51",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Oceanhorn: Monster of Uncharted Seas": {
+            "id": "Oceanhorn: Monster of Uncharted Seas",
+            "name": "Oceanhorn: Monster of Uncharted Seas",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Odysseus: Long Way Home": {
+            "id": "Odysseus: Long Way Home",
+            "name": "Odysseus: Long Way Home",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "18/4/2020 19:4:10",
+            "updateTime": "18/4/2020 19:4:10",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Old Man's Journey": {
+            "id": "Old Man's Journey",
+            "name": "Old Man's Journey",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "11/1/2020 21:10:31",
+            "updateTime": "11/1/2020 21:10:31",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "On A Roll 3D": {
+            "id": "On A Roll 3D",
+            "name": "On A Roll 3D",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Operation flashpoint: Dragon Rising": {
+            "id": "Operation flashpoint: Dragon Rising",
+            "name": "Operation flashpoint: Dragon Rising",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Operation flashpoint: Red River": {
+            "id": "Operation flashpoint: Red River",
+            "name": "Operation flashpoint: Red River",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Ori and the Blind Forest: Definitive Edition": {
+            "id": "Ori and the Blind Forest: Definitive Edition",
+            "name": "Ori and the Blind Forest: Definitive Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "4/12/2019 0:18:56",
+            "updateTime": "4/12/2019 0:18:56",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Oscura: Lost Light": {
+            "id": "Oscura: Lost Light",
+            "name": "Oscura: Lost Light",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Outland": {
+            "id": "Outland",
+            "name": "Outland",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Outlast": {
+            "id": "Outlast",
+            "name": "Outlast",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Outlast Whistleblower": {
+            "id": "Outlast Whistleblower",
+            "name": "Outlast Whistleblower",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Overlord 2": {
+            "id": "Overlord 2",
+            "name": "Overlord 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Path of Sin: Greed": {
+            "id": "Path of Sin: Greed",
+            "name": "Path of Sin: Greed",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "18/4/2020 22:22:16",
+            "updateTime": "18/4/2020 22:22:16",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Peggle": {
+            "id": "Peggle",
+            "name": "Peggle",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Peggle 2": {
+            "id": "Peggle 2",
+            "name": "Peggle 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Pilgrims": {
+            "id": "Pilgrims",
+            "name": "Pilgrims",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "4/12/2019 22:41:51",
+            "updateTime": "4/12/2019 22:41:51",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Pinstripe": {
+            "id": "Pinstripe",
+            "name": "Pinstripe",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Pixel Puzzles: Japan": {
+            "id": "Pixel Puzzles: Japan",
+            "name": "Pixel Puzzles: Japan",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Platypus": {
+            "id": "Platypus",
+            "name": "Platypus",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Platypus 2": {
+            "id": "Platypus 2",
+            "name": "Platypus 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Polarity": {
+            "id": "Polarity",
+            "name": "Polarity",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Pony Island": {
+            "id": "Pony Island",
+            "name": "Pony Island",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Portal": {
+            "id": "Portal",
+            "name": "Portal",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Portal Stories: Mel": {
+            "id": "Portal Stories: Mel",
+            "name": "Portal Stories: Mel",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Portal of Evil: Stolen Runes Collector's Edition": {
+            "id": "Portal of Evil: Stolen Runes Collector's Edition",
+            "name": "Portal of Evil: Stolen Runes Collector's Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Prince of Persia": {
+            "id": "Prince of Persia",
+            "name": "Prince of Persia",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Prince of Persia - The Sands of Time": {
+            "id": "Prince of Persia - The Sands of Time",
+            "name": "Prince of Persia - The Sands of Time",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Princess Remedy 2: In A Heap of Trouble": {
+            "id": "Princess Remedy 2: In A Heap of Trouble",
+            "name": "Princess Remedy 2: In A Heap of Trouble",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Q.U.B.E. 2": {
+            "id": "Q.U.B.E. 2",
+            "name": "Q.U.B.E. 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Q.U.B.E: Director's Cut": {
+            "id": "Q.U.B.E: Director's Cut",
+            "name": "Q.U.B.E: Director's Cut",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Quantum Break": {
+            "id": "Quantum Break",
+            "name": "Quantum Break",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Queen's Quest 4: Sacred Truce": {
+            "id": "Queen's Quest 4: Sacred Truce",
+            "name": "Queen's Quest 4: Sacred Truce",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "4/4/2020 22:33:39",
+            "updateTime": "4/4/2020 22:33:39",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Rage": {
+            "id": "Rage",
+            "name": "Rage",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Rainy Season 梅雨の日": {
+            "id": "Rainy Season 梅雨の日",
+            "name": "Rainy Season 梅雨の日",
+            "platForm": "Other",
+            "reason": "DRM Free",
+            "createTime": "5/5/2020 1:22:41",
+            "updateTime": "4/6/2020 21:36:34",
+            "gameFree": false,
+            "gameReceiveFree": true
+        },
+        "Raptor: Call of the Shadows (1994 Classic Edition)": {
+            "id": "Raptor: Call of the Shadows (1994 Classic Edition)",
+            "name": "Raptor: Call of the Shadows (1994 Classic Edition)",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Red Trigger": {
+            "id": "Red Trigger",
+            "name": "Red Trigger",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Remember Me": {
+            "id": "Remember Me",
+            "name": "Remember Me",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Renegade Ops": {
+            "id": "Renegade Ops",
+            "name": "Renegade Ops",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Resident Evil 4": {
+            "id": "Resident Evil 4",
+            "name": "Resident Evil 4",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Resident Evil 5": {
+            "id": "Resident Evil 5",
+            "name": "Resident Evil 5",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Resident Evil 6": {
+            "id": "Resident Evil 6",
+            "name": "Resident Evil 6",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Resident Evil Revelations": {
+            "id": "Resident Evil Revelations",
+            "name": "Resident Evil Revelations",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Revolution Ace": {
+            "id": "Revolution Ace",
+            "name": "Revolution Ace",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Rexaura": {
+            "id": "Rexaura",
+            "name": "Rexaura",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "4/6/2020 21:34:44",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Rime": {
+            "id": "Rime",
+            "name": "Rime",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Rise & Shine": {
+            "id": "Rise & Shine",
+            "name": "Rise & Shine",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Rise of the Tomb Raider": {
+            "id": "Rise of the Tomb Raider",
+            "name": "Rise of the Tomb Raider",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Rogue Reaper": {
+            "id": "Rogue Reaper",
+            "name": "Rogue Reaper",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "4/6/2020 21:33:51",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Rolling Sun": {
+            "id": "Rolling Sun",
+            "name": "Rolling Sun",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Rusty Lake Paradise": {
+            "id": "Rusty Lake Paradise",
+            "name": "Rusty Lake Paradise",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Ryse: Son of Rome": {
+            "id": "Ryse: Son of Rome",
+            "name": "Ryse: Son of Rome",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "STAR WARS Jedi Knight - Jedi Academy": {
+            "id": "STAR WARS Jedi Knight - Jedi Academy",
+            "name": "STAR WARS Jedi Knight - Jedi Academy",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Samantha Swift and the Hidden Roses of Athena": {
+            "id": "Samantha Swift and the Hidden Roses of Athena",
+            "name": "Samantha Swift and the Hidden Roses of Athena",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "4/4/2020 18:0:54",
+            "updateTime": "4/4/2020 18:0:54",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Samsara Room": {
+            "id": "Samsara Room",
+            "name": "Samsara Room",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "6/6/2020 9:32:45",
+            "updateTime": "6/6/2020 9:32:45",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Saw": {
+            "id": "Saw",
+            "name": "Saw",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Scanner Sombre": {
+            "id": "Scanner Sombre",
+            "name": "Scanner Sombre",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Scourge: Outbreak": {
+            "id": "Scourge: Outbreak",
+            "name": "Scourge: Outbreak",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Scrap Garden - The Day Before": {
+            "id": "Scrap Garden - The Day Before",
+            "name": "Scrap Garden - The Day Before",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Seasons after Fall": {
+            "id": "Seasons after Fall",
+            "name": "Seasons after Fall",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Shadow Complex Remastered": {
+            "id": "Shadow Complex Remastered",
+            "name": "Shadow Complex Remastered",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Shadow Warrior": {
+            "id": "Shadow Warrior",
+            "name": "Shadow Warrior",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Shadow Warrior 2": {
+            "id": "Shadow Warrior 2",
+            "name": "Shadow Warrior 2",
+            "platForm": "GOG",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Shadow of the Tomb Raider": {
+            "id": "Shadow of the Tomb Raider",
+            "name": "Shadow of the Tomb Raider",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "23/1/2020 22:50:36",
+            "updateTime": "23/1/2020 22:50:36",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Shinsekai: Into The Depths": {
+            "id": "Shinsekai: Into The Depths",
+            "name": "Shinsekai: Into The Depths",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Showdown Bandit": {
+            "id": "Showdown Bandit",
+            "name": "Showdown Bandit",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "3/6/2020 21:33:38",
+            "updateTime": "3/6/2020 21:33:38",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Showing Tonight: Mindhunters Incident": {
+            "id": "Showing Tonight: Mindhunters Incident",
+            "name": "Showing Tonight: Mindhunters Incident",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Skyborn": {
+            "id": "Skyborn",
+            "name": "Skyborn",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Slender: The Arrival": {
+            "id": "Slender: The Arrival",
+            "name": "Slender: The Arrival",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Small Town Terrors Pilgrim's Hook Collector's Edition": {
+            "id": "Small Town Terrors Pilgrim's Hook Collector's Edition",
+            "name": "Small Town Terrors Pilgrim's Hook Collector's Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "14/5/2020 11:33:5",
+            "updateTime": "14/5/2020 11:33:5",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Small Town Terrors: Livingston": {
+            "id": "Small Town Terrors: Livingston",
+            "name": "Small Town Terrors: Livingston",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "24/4/2020 23:25:35",
+            "updateTime": "24/4/2020 23:25:35",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Sniper Elite 2": {
+            "id": "Sniper Elite 2",
+            "name": "Sniper Elite 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Sniper Elite 3": {
+            "id": "Sniper Elite 3",
+            "name": "Sniper Elite 3",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Sniper Ghost Warrior": {
+            "id": "Sniper Ghost Warrior",
+            "name": "Sniper Ghost Warrior",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Sniper Ghost Warrior 2": {
+            "id": "Sniper Ghost Warrior 2",
+            "name": "Sniper Ghost Warrior 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Sparkle": {
+            "id": "Sparkle",
+            "name": "Sparkle",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Sparkle 2": {
+            "id": "Sparkle 2",
+            "name": "Sparkle 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Spec Ops: The Line": {
+            "id": "Spec Ops: The Line",
+            "name": "Spec Ops: The Line",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Spoiler Alert": {
+            "id": "Spoiler Alert",
+            "name": "Spoiler Alert",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Stacking": {
+            "id": "Stacking",
+            "name": "Stacking",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Star Wars The Force Unleash 2": {
+            "id": "Star Wars The Force Unleash 2",
+            "name": "Star Wars The Force Unleash 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Stela": {
+            "id": "Stela",
+            "name": "Stela",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "27/11/2019 13:19:50",
+            "updateTime": "27/11/2019 13:19:50",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Stick it to The Man!": {
+            "id": "Stick it to The Man!",
+            "name": "Stick it to The Man!",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Strider": {
+            "id": "Strider",
+            "name": "Strider",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Stumblehill": {
+            "id": "Stumblehill",
+            "name": "Stumblehill",
+            "platForm": "Other",
+            "reason": "DRM Free",
+            "createTime": "8/3/2020 17:34:27",
+            "updateTime": "4/6/2020 21:36:15",
+            "gameFree": false,
+            "gameReceiveFree": true
+        },
+        "Super Killer Hornet: Resurrection": {
+            "id": "Super Killer Hornet: Resurrection",
+            "name": "Super Killer Hornet: Resurrection",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Sword of xolan": {
+            "id": "Sword of xolan",
+            "name": "Sword of xolan",
+            "platForm": "IOS",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tales of Berseria": {
+            "id": "Tales of Berseria",
+            "name": "Tales of Berseria",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "26/2/2020 23:26:42",
+            "updateTime": "26/2/2020 23:26:42",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Teddy Floppy Ear - Kayaking": {
+            "id": "Teddy Floppy Ear - Kayaking",
+            "name": "Teddy Floppy Ear - Kayaking",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Teddy Floppy Ear - Mountain Adventure": {
+            "id": "Teddy Floppy Ear - Mountain Adventure",
+            "name": "Teddy Floppy Ear - Mountain Adventure",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Temper Tantrum": {
+            "id": "Temper Tantrum",
+            "name": "Temper Tantrum",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tengami": {
+            "id": "Tengami",
+            "name": "Tengami",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Test Drive Unlimited 2": {
+            "id": "Test Drive Unlimited 2",
+            "name": "Test Drive Unlimited 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "27/5/2020 23:49:10",
+            "updateTime": "27/5/2020 23:49:10",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Ball": {
+            "id": "The Ball",
+            "name": "The Ball",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Bridge": {
+            "id": "The Bridge",
+            "name": "The Bridge",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Bureau: XCOM Declassified": {
+            "id": "The Bureau: XCOM Declassified",
+            "name": "The Bureau: XCOM Declassified",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Darkness 2": {
+            "id": "The Darkness 2",
+            "name": "The Darkness 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Dreamatorium of Dr. Magnus 2": {
+            "id": "The Dreamatorium of Dr. Magnus 2",
+            "name": "The Dreamatorium of Dr. Magnus 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Evil Within": {
+            "id": "The Evil Within",
+            "name": "The Evil Within",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The First Tree": {
+            "id": "The First Tree",
+            "name": "The First Tree",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "19/3/2020 23:20:40",
+            "updateTime": "19/3/2020 23:20:40",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Hex": {
+            "id": "The Hex",
+            "name": "The Hex",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "26/4/2020 0:11:46",
+            "updateTime": "26/4/2020 0:12:5",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "LEGO NINJAGO Movie Video Game": {
+            "id": "The LEGO NINJAGO Movie Video Game",
+            "name": "LEGO NINJAGO Movie Video Game",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "1/6/2020 23:25:13",
+            "updateTime": "4/6/2020 20:51:52",
+            "gameFree": false,
+            "gameReceiveFree": true
+        },
+        "The Messenger": {
+            "id": "The Messenger",
+            "name": "The Messenger",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "28/11/2019 19:54:31",
+            "updateTime": "28/11/2019 19:54:31",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Mooseman": {
+            "id": "The Mooseman",
+            "name": "The Mooseman",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Old City: Leviathan": {
+            "id": "The Old City: Leviathan",
+            "name": "The Old City: Leviathan",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Room": {
+            "id": "The Room",
+            "name": "The Room",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Room 2": {
+            "id": "The Room 2",
+            "name": "The Room 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Room 3": {
+            "id": "The Room 3",
+            "name": "The Room 3",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Search": {
+            "id": "The Search",
+            "name": "The Search",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "15/4/2020 15:50:22",
+            "updateTime": "15/4/2020 15:50:22",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Stanley Parable": {
+            "id": "The Stanley Parable",
+            "name": "The Stanley Parable",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Town of Light": {
+            "id": "The Town of Light",
+            "name": "The Town of Light",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "28/3/2020 14:49:32",
+            "updateTime": "28/3/2020 14:49:32",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Turing Test": {
+            "id": "The Turing Test",
+            "name": "The Turing Test",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "The Uncertain: Last Quiet Day": {
+            "id": "The Uncertain: Last Quiet Day",
+            "name": "The Uncertain: Last Quiet Day",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "2/4/2020 21:23:46",
+            "updateTime": "2/4/2020 21:23:46",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "There is no game : Jam Edition 2015": {
+            "id": "There is no game : Jam Edition 2015",
+            "name": "There is no game : Jam Edition 2015",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "22/3/2020 20:56:25",
+            "updateTime": "4/6/2020 21:33:20",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Tick Tock Isle": {
+            "id": "Tick Tock Isle",
+            "name": "Tick Tock Isle",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Time Mysteries 2: The Ancient Spectres": {
+            "id": "Time Mysteries 2: The Ancient Spectres",
+            "name": "Time Mysteries 2: The Ancient Spectres",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Time Mysteries 3: The Final Enigma": {
+            "id": "Time Mysteries 3: The Final Enigma",
+            "name": "Time Mysteries 3: The Final Enigma",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Time Mysteries: Inheritance - Remastered": {
+            "id": "Time Mysteries: Inheritance - Remastered",
+            "name": "Time Mysteries: Inheritance - Remastered",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tiny Brains": {
+            "id": "Tiny Brains",
+            "name": "Tiny Brains",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "To The Moon": {
+            "id": "To The Moon",
+            "name": "To The Moon",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Toki Tori 2+": {
+            "id": "Toki Tori 2+",
+            "name": "Toki Tori 2+",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tom Clancy's Ghost Recon Future Soilder": {
+            "id": "Tom Clancy's Ghost Recon Future Soilder",
+            "name": "Tom Clancy's Ghost Recon Future Soilder",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tom Clancy's Hawx 2": {
+            "id": "Tom Clancy's Hawx 2",
+            "name": "Tom Clancy's Hawx 2",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tom Clancy's Rainbow Six Vegas ": {
+            "id": "Tom Clancy's Rainbow Six Vegas ",
+            "name": "Tom Clancy's Rainbow Six Vegas ",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tom Clancy's Splinter Cell: Blacklist": {
+            "id": "Tom Clancy's Splinter Cell: Blacklist",
+            "name": "Tom Clancy's Splinter Cell: Blacklist",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tom Clancy's Splinter Cell: Conviction": {
+            "id": "Tom Clancy's Splinter Cell: Conviction",
+            "name": "Tom Clancy's Splinter Cell: Conviction",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Tomb Raider": {
+            "id": "Tomb Raider",
+            "name": "Tomb Raider",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Toren": {
+            "id": "Toren",
+            "name": "Toren",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Trine 2": {
+            "id": "Trine 2",
+            "name": "Trine 2",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Twisted Lands Shadow Town": {
+            "id": "Twisted Lands Shadow Town",
+            "name": "Twisted Lands Shadow Town",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Unparallel": {
+            "id": "Unparallel",
+            "name": "Unparallel",
+            "platForm": "Other",
+            "reason": "DRM Free",
+            "createTime": "4/1/2020 20:56:31",
+            "updateTime": "4/6/2020 21:36:22",
+            "gameFree": false,
+            "gameReceiveFree": true
+        },
+        "Unravel": {
+            "id": "Unravel",
+            "name": "Unravel",
+            "platForm": "Origin",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Vampire Saga Pandora's Box": {
+            "id": "Vampire Saga Pandora's Box",
+            "name": "Vampire Saga Pandora's Box",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Wall E": {
+            "id": "Wall E",
+            "name": "Wall E",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Warcraft 3: Reign of Chaos": {
+            "id": "Warcraft 3: Reign of Chaos",
+            "name": "Warcraft 3: Reign of Chaos",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Warcraft 3: The Frozen Thone": {
+            "id": "Warcraft 3: The Frozen Thone",
+            "name": "Warcraft 3: The Frozen Thone",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Warhammer 40,000: Space Marine": {
+            "id": "Warhammer 40,000: Space Marine",
+            "name": "Warhammer 40,000: Space Marine",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Watch Dogs": {
+            "id": "Watch Dogs",
+            "name": "Watch Dogs",
+            "platForm": "Uplay",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "We Went Back": {
+            "id": "We Went Back",
+            "name": "We Went Back",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "6/4/2020 22:26:23",
+            "updateTime": "4/6/2020 21:33:5",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Weird Park Broken Tune": {
+            "id": "Weird Park Broken Tune",
+            "name": "Weird Park Broken Tune",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "What Never Was": {
+            "id": "What Never Was",
+            "name": "What Never Was",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "What Remains of Edith Finch": {
+            "id": "What Remains of Edith Finch",
+            "name": "What Remains of Edith Finch",
+            "platForm": "Epic Games",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "When the Darkness comes": {
+            "id": "When the Darkness comes",
+            "name": "When the Darkness comes",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Witch's Pranks: Frog's Fortune Collector's Edition": {
+            "id": "Witch's Pranks: Frog's Fortune Collector's Edition",
+            "name": "Witch's Pranks: Frog's Fortune Collector's Edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "19/1/2020 23:32:19",
+            "updateTime": "19/1/2020 23:32:19",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Wonder Boy: The Dragon's Trap": {
+            "id": "Wonder Boy: The Dragon's Trap",
+            "name": "Wonder Boy: The Dragon's Trap",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "14/4/2020 20:27:1",
+            "updateTime": "14/4/2020 20:27:1",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "X-Men Origins Wolverine": {
+            "id": "X-Men Origins Wolverine",
+            "name": "X-Men Origins Wolverine",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "XCOM: Enemy Unknown": {
+            "id": "XCOM: Enemy Unknown",
+            "name": "XCOM: Enemy Unknown",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Year Walk": {
+            "id": "Year Walk",
+            "name": "Year Walk",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "You Have 10 Seconds": {
+            "id": "You Have 10 Seconds",
+            "name": "You Have 10 Seconds",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "8/3/2020 0:15:22",
+            "updateTime": "4/6/2020 21:33:31",
+            "gameFree": true,
+            "gameReceiveFree": false
+        },
+        "Zack Zero": {
+            "id": "Zack Zero",
+            "name": "Zack Zero",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Zuma": {
+            "id": "Zuma",
+            "name": "Zuma",
+            "platForm": "",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Zuma Revange": {
+            "id": "Zuma Revange",
+            "name": "Zuma Revange",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "25/11/2019 21:36:59",
+            "updateTime": "25/11/2019 21:36:59",
+            "gameFree": false,
+            "gameReceiveFree": false
+        },
+        "Small Town Terrors galdor's bluff collector's edition": {
+            "id": "small town terrors galdor's bluff collector's edition",
+            "name": "Small Town Terrors galdor's bluff collector's edition",
+            "platForm": "Steam",
+            "reason": "",
+            "createTime": "13/5/2020 18:5:0",
+            "updateTime": "13/5/2020 18:5:33",
+            "gameFree": false,
+            "gameReceiveFree": false
+        }
+    }
+}

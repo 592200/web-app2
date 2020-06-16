@@ -1,5 +1,6 @@
 var mongoose = require('mongoose');
 
+
 // Schema Validation
 var userSchema = mongoose.Schema({
     username: {type: String, unique: true},

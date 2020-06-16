@@ -20,16 +20,13 @@ router.post('/login', (req ,res ,next)=>{
   //var search = _.omitBy(req.body ,_.isEmpty)
   User.findOne(req.body ,(err,data)=>{
     if(err) console.log(err)
-    console.log('data is' + data)
-    storage.setItem("loginToken", true);
-    loginToken = true;
     if(data){
-      if(loginToken){
+      //console.log('data is' + data)
+      storage.setItem("loginToken", true);
+      storage.setItem("loginUserData", data);
       res.render('index',{user : data})
-      }else{
-        res.render('login');
-      }
     }
+     
     else{
       res.render('login',{message : 'Email or Password incorrect'})
     }

@@ -1,14 +1,117 @@
 doctype html
 html
   head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css')
-  
+    meta(charset="utf-8")
+    meta(http-equiv="X-UA-Compatible" content="IE=edge")
+    title subzone3
+    meta(name="description" content="")
+    meta(name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no")
+    meta(name="robots" content="all,follow")
 
+    link(rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css")
+
+
+    //link(rel='stylesheet' href='stylesheets/style.css')
+    link(rel='stylesheet' href='font-awesome/css/font-awesome.min.css')
+    link(rel='stylesheet' href='css/fontastic.css')
+    link(rel='stylesheet' href="https://fonts.googleapis.com/css?family=Poppins:300,400,700")
+    link(href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,200;0,300;0,400;1,200&display=swap" rel="stylesheet")
+    
+    link(rel='stylesheet' href='css/style.default.css' id= "theme-stylesheet")
+    link(rel='stylesheet' href='css/custom.css')
+    link(rel='shortcut icon' href='images/favicon.ico')
+    script(defer src='https://use.fontawesome.com/releases/v5.0.13/js/solid.js' integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous")
+    script(defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous")
+    
   body
-    block content
 
-    script(src="https://code.jquery.com/jquery-3.2.1.slim.min.js")
-    script(src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js")
-    script(src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js")
+    .page
+      // Main Navbar
+      header.header
+        nav.navbar
+          // Search Box
+          .container-fluid
+            .navbar-holder.d-flex.align-items-center.justify-content-between
+              // Navbar Header
+              .navbar-header
+                // Navbar Brand
+                a.navbar-brand.d-none.d-sm-inline-block(href="/")
+                  .brand-text.d-none.d-lg-inline-block
+                    span SUB
+                    strong Zone3
+                  .brand-text.d-none.d-sm-inline-block.d-lg-none
+                    strong BD
+                // Toggle Button
+                a#toggle-btn.menu-btn.active(href="#")
+                  span
+                  span
+                  span
+              // Navbar Menu
+              ul.nav-menu.list-unstyled.d-flex.flex-md-row.align-items-md-center
+                // Logout
+                li.nav-item
+                  a.nav-link.logout(href="/login")
+                    span.d-none.d-sm-inline Logout &nbsp;
+                    i.fas.fa-sign-out-alt
+      .page-content.d-flex.align-items-stretch
+        // Side Navbar
+        nav.side-navbar
+          // Sidebar Header
+          .sidebar-header.d-flex.align-items-center
+            .title
+              h1.h4 Welcome
+              p Planer
+          // Sidebar Navidation Menus
+          span.heading(style="font-size:14px") หัวข้อ
+            ul.list-unstyled
+              li.active
+                a(href="/")
+                  span(style="font-size: 16px")
+                    i.fas.fa-home
+                  |   &nbsp; หน้าหลัก
+              li
+                a(href="/")
+                  span(style="font-size: 16px")
+                    i.fas.fa-calendar-alt
+                  |   &nbsp; จัดการปฏิทิน
+              li
+                a(href="#exampledropdownDropdown" aria-expanded="false" data-toggle="collapse")
+                  span(style="font-size: 16px")
+                    i.fas.fa-database
+                  |   &nbsp; บริหารจัดการข้อมูลแผนก
+                ul#exampledropdownDropdown.collapse.list-unstyled
+                  li
+                    a(href="#") 
+                      span(style="font-size: 14px")
+                        i.fas.fa-user-edit
+                      |   &nbsp; ข้อมูลบุคลากร
+                  li
+                    a(href="#") 
+                      span(style="font-size: 14px")
+                        i.fas.fa-wrench
+                      |   &nbsp; ข้อมูลอุปกรณ์
+
+              li
+                a(href="#")
+                  span(style="font-size: 16px")
+                    i.fas.fa-shopping-cart
+                  |   &nbsp; ระบบยืมครุภัณฑ์ pool
+              li
+                a(href="#")
+                  span(style="font-size: 16px")
+                    i.fas.fa-file-powerpoint
+                  |   &nbsp; รายงานประจำสัปดาห์
+              
+
+        
+        block content
+
+    script(src="https://code.jquery.com/jquery-3.5.1.slim.min.js")
+    script(src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js")
+    script(src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js")
+    script(src='vendor/jquery.cookie/jquery.cookie.js')
+    script(src='vendor/chart.js/Chart.min.js')
+    script(src='vendor/jquery-validation/jquery.validate.min.js')
+    script(src='js/charts-home.js')
+    script(src='js/front.js')
+    
