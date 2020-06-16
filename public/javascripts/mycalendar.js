@@ -7,25 +7,25 @@ var calendarEl = document.getElementById('mycalendar');
 // });
 
 var calendar = new FullCalendar.Calendar(calendarEl, {
-  //plugins: [ 'interaction', 'dayGrid','momentTimezone','moment','bootstrap','list','timeGrid' ],
-  schedulerLicenseKey: 'GPL-My-Project-Is-Open-Source',
-  plugins: [ 'interaction', 'resourceTimeline' ],
+  plugins: [ 'interaction', 'dayGrid','momentTimezone','moment','bootstrap','list','timeGrid' ],
+  //schedulerLicenseKey: 'GPL-My-Project-Is-Open-Source',
+  //plugins: [ 'interaction', 'resourceTimeline' ],
   aspectRatio: 1.5,
   header:{
     left: 'prev,next today',
     center: 'title',
-    //right: 'dayGridMonth,listMonth,timeGridWeek'
-    right: 'resourceTimelineDay,resourceTimelineWeek,resourceTimelineMonth'
+    right: 'dayGridMonth,listMonth,timeGridWeek'
+    //right: 'resourceTimelineDay,resourceTimelineWeek,resourceTimelineMonth'
   },
-  //defaultView: 'dayGridMonth',
-  defaultView: 'resourceTimelineDay',
+  defaultView: 'dayGridMonth',
+  //defaultView: 'resourceTimelineDay',
   selectable: true,
   editable: true,
   resourceLabelText: 'Rooms',
   timezone: "Asia/Bangkok",
-  //locale:'th',
-  resources: 'https://fullcalendar.io/demo-resources.json?with-nesting&with-colors',
-  events: 'https://fullcalendar.io/demo-events.json?single-day&for-resource-timeline',
+  locale:'th',
+  //resources: 'https://fullcalendar.io/demo-resources.json?with-nesting&with-colors',
+  //events: 'https://fullcalendar.io/demo-events.json?single-day&for-resource-timeline',
   eventClick: function(info) {
     info.jsEvent.preventDefault(); // don't let the browser navigate
 

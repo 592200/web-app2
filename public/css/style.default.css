@@ -36,7 +36,7 @@ span:focus {
 }
 
 section {
-  padding: 50px 0;
+  padding: 30px 0;
 }
 
 canvas {
@@ -416,7 +416,7 @@ nav.side-navbar a[data-toggle="collapse"]::before {
   font-family: 'FontAwesome';
   position: absolute;
   top: 50%;
-  right: 20px;
+  right: 5px;
 }
 
 nav.side-navbar a[aria-expanded="true"] {
@@ -1545,7 +1545,9 @@ footer.main-footer {
   width: 100%;
   background: #2f333e;
   color: #fff;
-  padding: 20px 10px;
+  padding: 10px;
+  height: 40px;
+  margin-top: 10px;
 }
 
 footer.main-footer a {

@@ -1,9 +1,65 @@
 extend layout
 
+block script
+  script(src='/javascripts/mycalendar.js')
+
 block content
   .content-inner
     header.page-header
       .container-fluid
         h2(style='font-family: Kanit, sans-serif').no-margin-bottom ปฏิทินงานประจำเดือน
   
-      
+    section.dashboard-counts.no-padding-bottom
+      .container-fluid
+        .row.bg-white.has-shadow
+          //-calendar
+          .col-xl-9.col-sm-6
+            #mycalendar
+          //- Item
+          .col-xl-3.col-sm-6
+            .item.d-flex.align-items-center
+              .icon.bg-yellow
+                i(style="font-size:16px").fas.fa-wrench
+              .title
+                span
+                  | จำนวน
+                  br
+                  | ใบแจ้งซ่อม
+              .number
+                strong 4
+
+            .item.d-flex.align-items-center
+              .icon.bg-red
+                i(style="font-size:16px").fas.fa-exclamation-circle
+              .title
+                span
+                  | จำนวน
+                  br
+                  | Outage
+                //- .progress
+                //-   .progress-bar.bg-violet(role="progressbar" style="width: 25%; height: 4px;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100")
+              .number
+                strong 1
+
+            .item.d-flex.align-items-center
+              .icon.bg-green
+                i(style="font-size:16px").fas.fa-paw
+              .title
+                span
+                  | สถิติ
+                  br
+                  | ดักจับสัตว์
+                //- .progress
+                //-   .progress-bar.bg-violet(role="progressbar" style="width: 25%; height: 4px;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100")
+              .number
+                strong 1
+
+    footer.main-footer
+      .container-fluid
+        .row
+          .col-sm-6
+            p(style='font-family: Kanit, sans-serif') แผนกบำรุงรักษาสถานีไฟฟ้า3  กองบำรุงรักษาสถานีไฟฟ้าแรงสูง &copy; 2020
+          .col-sm-6.text-right
+            p
+              | Design by 
+              a.external(href="https://bootstrapious.com/p/admin-template") Bootstrapious
