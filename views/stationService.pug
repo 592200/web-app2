@@ -1,0 +1,70 @@
+extend layout
+
+
+
+block content
+    .content-inner
+        header.page-header
+            .container-fluid
+                h2(style='font-family: Kanit, sans-serif').no-margin-bottom รายงาน Station Service
+
+        section.dashboard-counts.no-padding-bottom
+            .container-fluid
+                .row.bg-white.has-shadow
+                    //- table 
+                    .col-lg-5.col-sm-12
+                        
+                        h4(style='font-family: Kanit, sans-serif').text-center บันทึกการใช้ไฟฟ้ารายเดือน
+                        div(style="justify-content: center")
+                            form(action="/", method="post").form-inline
+                                .form-group.mx-sm-3.mb-2
+                                    select(name="year").form-control
+                                        option 2563
+                                        option 2564
+                                        option 2565
+                                        option 2566
+                                        option 2567
+                                button.btn.btn-primary.mb-2(type="submit") 
+                                    i.fas.fa-search
+
+                
+                        
+                        .table-responsive
+                            table.table
+                                thead.text-center
+                                    tr
+                                        th เดือน
+                                        th สถานะการบันทึกข้อมูล
+                                        th แก้ไขข้อมูล
+                                tbody.text-center
+                                    - var month_list = ["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."]
+                                    - for(var i=0;i<12;i++)
+                                        tr
+                                            th(scope="row")= month_list[i]
+                                            td 
+                                                span(style= "color:green")
+                                                    i.fas.fa-check
+                                            td
+                                                a(href="#").btn.btn-warning.btn-sm EDIT
+                                        
+                                 
+                                     
+
+
+                    .col-lg-7.col-sm-12
+                        div(style = "padding-left:10px")
+                            canvas#lineCahrt
+
+        
+
+
+
+        footer.main-footer
+            .container-fluid
+                .row
+                    .col-lg-6.col-sm-12
+                        p(style='font-family: Kanit, sans-serif') แผนกบำรุงรักษาสถานีไฟฟ้า3  กองบำรุงรักษาสถานีไฟฟ้าแรงสูง &copy; 2020
+                    .col-lg-6.col-sm-6.text-right
+                        p
+                            | Design by 
+                            a.external(href="#") Tawat Rattana

@@ -35,51 +35,51 @@ html
   body
 
     .page
-      // Main Navbar
+      //- Main Navbar
       header.header
         nav.navbar
-          // Search Box
+          //- Search Box
           .container-fluid
             .navbar-holder.d-flex.align-items-center.justify-content-between
-              // Navbar Header
+              //- Navbar Header
               .navbar-header
-                // Navbar Brand
+                //- Navbar Brand
                 a.navbar-brand.d-none.d-sm-inline-block(href="/")
                   .brand-text.d-none.d-lg-inline-block
                     span SUB
                     strong Zone3
                   .brand-text.d-none.d-sm-inline-block.d-lg-none
                     strong BD
-                // Toggle Button
+                //- Toggle Button
                 a#toggle-btn.menu-btn.active(href="#")
                   span
                   span
                   span
-              // Navbar Menu
+              //- Navbar Menu
               ul.nav-menu.list-unstyled.d-flex.flex-md-row.align-items-md-center
-                // Logout
+                //- Logout
                 li.nav-item
                   a.nav-link.logout(href="/login")
                     span.d-none.d-sm-inline Logout &nbsp;
                     i.fas.fa-sign-out-alt
       .page-content.d-flex.align-items-stretch
-        // Side Navbar
+        //- Side Navbar
         nav.side-navbar
-          // Sidebar Header
+          //- Sidebar Header
           .sidebar-header.d-flex.align-items-center
             .title
               h1.h4 Welcome
               p Planer
-          // Sidebar Navidation Menus
+          //- Sidebar Navidation Menus
           span.heading(style="font-size:14px") หัวข้อ
             ul.list-unstyled
-              li.active
+              li(class=(page=='1'? 'active':''))
                 a(href="/")
                   span(style="font-size: 16px")
                     i.fas.fa-home
                   |   &nbsp; หน้าหลัก
-              li
-                a(href="/")
+              li(class=(page=='2'? 'active':''))
+                a(href="/calendarEdit")
                   span(style="font-size: 16px")
                     i.fas.fa-calendar-alt
                   |   &nbsp; จัดการปฏิทิน
@@ -99,18 +99,34 @@ html
                       span(style="font-size: 14px")
                         i.fas.fa-wrench
                       |   &nbsp; ข้อมูลอุปกรณ์
+              li
+                a(href="#exampledropdownDropdown2" aria-expanded= "false" data-toggle="collapse")
+                  span(style="font-size: 16px")
+                    i.fas.fa-file-alt
+                  |   &nbsp; รายงาน
+                ul#exampledropdownDropdown2(class= (page=='sta_ser'? "collapse list-unstyled show" : "collapse list-unstyled"))
+                  li(class=(page=='sta_ser'? 'active':''))
+                    a(href="/station_service") 
+                      span(style="font-size: 14px")
+                        i.fas.fa-chart-bar
+                      |   &nbsp; รายงาน Station Service
+                  li
+                    a(href="#") 
+                      span(style="font-size: 14px")
+                        i.fas.fa-file-word
+                      |   &nbsp; รายงานประจำสัปดาห์
 
               li
                 a(href="#")
                   span(style="font-size: 16px")
                     i.fas.fa-shopping-cart
                   |   &nbsp; ระบบยืมครุภัณฑ์ pool
+         
               li
                 a(href="#")
                   span(style="font-size: 16px")
-                    i.fas.fa-file-powerpoint
-                  |   &nbsp; รายงานประจำสัปดาห์
-              
+                    i.fas.fa-tachometer-alt
+                  |   &nbsp; งานทดสอบ
 
         
         block content

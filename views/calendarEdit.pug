@@ -1,0 +1,25 @@
+extend layout
+
+block script
+  script(src='/javascripts/mycalendarEdit.js')
+
+block content
+    .content-inner
+        header.page-header
+            .container-fluid
+                h2(style='font-family: Kanit, sans-serif').no-margin-bottom จัดการปฏิทิน
+        section.dashboard-counts.no-padding-bottom
+            .container-fluid
+                .row.bg-white.has-shadow
+                    .col-xl-12.col-sm-12
+                        #mycalendarEdit
+
+        footer.main-footer
+            .container-fluid
+                .row
+                    .col-sm-6
+                        p(style='font-family: Kanit, sans-serif') แผนกบำรุงรักษาสถานีไฟฟ้า3  กองบำรุงรักษาสถานีไฟฟ้าแรงสูง &copy; 2020
+                    .col-sm-6.text-right
+                        p
+                            | Design by 
+                            a.external(href="#") Tawat Rattana
