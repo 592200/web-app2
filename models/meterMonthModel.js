@@ -5,7 +5,7 @@ var mongoose = require('mongoose');
 var meterMonthSchema = mongoose.Schema({
     meter_id : Number,
     month : Number,
-    year : Number,
+    year : String,
     meter_value : Number,
     kWH_house : Number,
     kWH_trans_office : Number,

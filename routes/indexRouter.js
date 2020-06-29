@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 const storage = require('node-sessionstorage');
+var _ = require('lodash');
 var CalendarModel = require('../models/calendarsModel');
 var Meter = require('../models/meterModel');
 var MeterMonth = require('../models/meterMonthModel');
@@ -118,17 +119,28 @@ router.post('/station_service', function(req, res, next) {
 });
 
 // Station service detail get param from edit
-router.get('/station_service_detail/:month:year', function(req, res, next) {
-  console.log("params : " + req.params.month)
-  console.log("year : " + req.params.year)
+router.get('/station_service_detail/:_month:_year', function(req, res, next) {
+  console.log("params : " + req.params._month)
+  console.log("year : " + req.params._year)
+ 
+  MeterMonth.find({year:req.params._year,month:req.params._month},(err,meterMonth_data)=>{
+      if(err) console.log(err)
+      console.log("find : "+ meterMonth_data)
+      Meter.find().exec((err,meter_data) =>{
+        if(err) console.log(err)
+        console.log(meter_data.length)
 
-  res.render('stationServiceDetail',{obj : 
-    {
-      month : req.params.month,
-      year : req.params.year,
-      page : "sta_ser"
-    }
-  })
+        res.render('stationServiceDetail',{obj : 
+          {
+            month : req.params._month,
+            year : req.params._year,
+            meter_datas : meter_data,
+            meterMonth_datas : meterMonth_data,
+            page : "sta_ser"
+          }
+        })
+      })
+    })
   
 });
 
