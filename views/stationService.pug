@@ -1,52 +1,74 @@
 extend layout
 
-
+block script2
+    - var pageNo = obj.page
 
 block content
+    
     .content-inner
         header.page-header
             .container-fluid
                 h2(style='font-family: Kanit, sans-serif').no-margin-bottom รายงาน Station Service
-
+                //- p= pageNo
         section.dashboard-counts.no-padding-bottom
             .container-fluid
                 .row.bg-white.has-shadow
                     //- table 
-                    .col-lg-5.col-sm-12
-                        
-                        h4(style='font-family: Kanit, sans-serif').text-center บันทึกการใช้ไฟฟ้ารายเดือน
-                        div(style="justify-content: center")
-                            form(action="/", method="post").form-inline
-                                .form-group.mx-sm-3.mb-2
-                                    select(name="year").form-control
-                                        option 2563
-                                        option 2564
-                                        option 2565
-                                        option 2566
-                                        option 2567
-                                button.btn.btn-primary.mb-2(type="submit") 
-                                    i.fas.fa-search
-
-                
-                        
-                        .table-responsive
-                            table.table
-                                thead.text-center
-                                    tr
-                                        th เดือน
-                                        th สถานะการบันทึกข้อมูล
-                                        th แก้ไขข้อมูล
-                                tbody.text-center
-                                    - var month_list = ["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."]
-                                    - for(var i=0;i<12;i++)
+                    div(style="text-align: center").col-lg-5.col-sm-12
+                        .row.no-padding
+                            .col
+                                h4(style='font-family: Kanit, sans-serif ; text-align: center') บันทึกการใช้ไฟฟ้ารายเดือน
+                        div(style="text-align: center").row.no-padding
+                            .col(style="justify-content:center")
+                                form(action="/station_service", method="post").form-inline
+                                    .col-8
+                                        .form-group.mx-sm-3.mb-2
+                                            select(name="year" style="width:100%" ).form-control
+                                                option(value="none" selected disabled hidden) เลื่อกปี
+                                                option(value="2563" ) 2563
+                                                option(value="2564" ) 2564
+                                                option(value="2565" ) 2565
+                                                option(value="2566" ) 2566
+                                                option(value="2567" ) 2567
+                                    .col-4
+                                        .form-group
+                                            button.btn.btn-primary.mb-2(type="submit") 
+                                                i.fas.fa-search
+                        .row.no-padding
+                            .table-responsive
+                                table.table
+                                    thead.text-center
                                         tr
-                                            th(scope="row")= month_list[i]
-                                            td 
-                                                span(style= "color:green")
-                                                    i.fas.fa-check
-                                            td
-                                                a(href="#").btn.btn-warning.btn-sm EDIT
-                                        
+                                            th(style="border-top:none")
+                                            th(style="font-size:16px ; padding-bottom:5px; border-top:none").text-primary= 'ปี พ.ศ. ' + obj.year
+                                            th(style="border-top:none")
+                                    thead.text-center
+                                        tr
+                                            th เดือน
+                                            th สถานะการบันทึกข้อมูล
+                                            th แก้ไขข้อมูล
+                                    tbody.text-center
+                                        - var month_list = ["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."]
+                                        - var i=1 //for check month in month_datas
+                                        - var checkMonth = false
+                                        each month in month_list
+                                            
+                                            tr
+                                                th(scope="row")= month
+                                                td 
+                                                    each month_data in obj.month_datas
+                                                        if i==month_data._id
+                                                            span= month_data.total + '/'+ obj.meter_length
+                                                            - checkMonth = true
+                                                    if !checkMonth
+                                                        span= 0+ '/'+ obj.meter_length
+                                                    - checkMonth = false
+                                                    //- span(style= "color:green")
+                                                    //-     i.fas.fa-check
+                                                td
+                                                    a(href="/station_service_detail/"+ i+obj.year).btn.btn-warning.btn-sm EDIT
+                                            
+                                            - i++
                                  
                                      
 
@@ -54,10 +76,8 @@ block content
                     .col-lg-7.col-sm-12
                         div(style = "padding-left:10px")
                             canvas#lineCahrt
-
-        
-
-
+                        
+       
 
         footer.main-footer
             .container-fluid

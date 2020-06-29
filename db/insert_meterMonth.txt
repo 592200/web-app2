@@ -1,0 +1,14 @@
+db.meter_months.insertOne(
+ {
+    "meter_id" : 1.0,
+    "month" : 1.0,
+    "year" : "2565",
+    "meter_value" : 1651.25,
+    "kWH_house" : 0.0,
+    "kWH_trans_office" : 0.0,
+    "kWH_outside_person" : 0.0,
+    "kWH_other" : 0.0,
+    "update_date" : ""
+}
+   
+  )

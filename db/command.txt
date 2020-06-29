@@ -1,0 +1,36 @@
+//join
+db.meter_months.aggregate([
+    {
+      $lookup:
+        {
+          from: "meters",
+          localField: "meter_id",
+          foreignField: "_id",
+          as: "meters"
+        }
+   }
+]).pretty()
+
+//group by
+db.meter_months.aggregate([
+  {
+    $group: {
+      _id: "$month",
+      total: { $sum:1}
+    }
+  }
+])
+
+//macth & group
+db.meter_months.aggregate([
+  {
+    $match: { year: 2563 }
+  },
+  {
+    $group: {
+      _id: "$month",
+      total: { $sum:1}
+    }
+  },
+  
+])

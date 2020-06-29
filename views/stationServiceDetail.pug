@@ -1,0 +1,37 @@
+extend layout
+
+block script2
+    - var pageNo = obj.page
+
+block content
+    
+    .content-inner
+        header.page-header
+            .container-fluid
+                h2(style='font-family: Kanit, sans-serif').no-margin-bottom รายงาน Station Service
+                //- p= pageNo
+
+        //- Breadcrumb
+        .breadcrumb-holder.container-fluid
+            ul.breadcrumb
+                li.breadcrumb-item
+                    a(href="/station_service") รายงาน Station Service
+                li.breadcrumb-item= obj.year
+                - var month_list = ["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."]
+                li.breadcrumb-item.active= month_list[obj.month-1]
+
+        //- content
+        section.dashboard-counts.no-padding-bottom
+            .container-fluid
+                .row.bg-white.has-shadow
+                  
+
+        footer.main-footer
+            .container-fluid
+                .row
+                    .col-lg-6.col-sm-12
+                        p(style='font-family: Kanit, sans-serif') แผนกบำรุงรักษาสถานีไฟฟ้า3  กองบำรุงรักษาสถานีไฟฟ้าแรงสูง &copy; 2020
+                    .col-lg-6.col-sm-6.text-right
+                        p
+                            | Design by 
+                            a.external(href="#") Tawat Rattana

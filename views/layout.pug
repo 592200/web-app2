@@ -10,10 +10,9 @@ html
 
     link(rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css")
 
-
     //- //link(rel='stylesheet' href='stylesheets/style.css')
-    link(rel='stylesheet' href='vendor/font-awesome/css/font-awesome.css')
-    link(rel='stylesheet' href='css/fontastic.css')
+    link(rel='stylesheet' href='/vendor/font-awesome/css/font-awesome.css')
+    link(rel='stylesheet' href='/css/fontastic.css')
     link(rel='stylesheet' href="https://fonts.googleapis.com/css?family=Poppins:300,400,700")
     link(href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,200;0,300;0,400;1,200&display=swap" rel="stylesheet")
     //- //Calendar
@@ -26,14 +25,19 @@ html
     link(href='/javascripts/fullcalendar/timeline/main.css' rel='stylesheet')
     link(href='/javascripts/fullcalendar/resource-timeline/main.css' rel='stylesheet')
 
-    link(rel='stylesheet' href='css/style.default.css' id= "theme-stylesheet")
-    link(rel='stylesheet' href='css/custom.css')
+    link(rel='stylesheet' href='/css/style.default.css' id= "theme-stylesheet")
+    link(rel='stylesheet' href='/css/custom.css')
     link(rel='shortcut icon' href='images/favicon.ico')
     script(defer src='https://use.fontawesome.com/releases/v5.0.13/js/solid.js' integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous")
     script(defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous")
+    //- script.
+    //-   var pageNo = obj.page;
+    block script2
+  
     
   body
-
+    
+    
     .page
       //- Main Navbar
       header.header
@@ -73,12 +77,12 @@ html
           //- Sidebar Navidation Menus
           span.heading(style="font-size:14px") หัวข้อ
             ul.list-unstyled
-              li(class=(page=='1'? 'active':''))
+              li(class=(pageNo=='index'? 'active':''))
                 a(href="/")
                   span(style="font-size: 16px")
                     i.fas.fa-home
                   |   &nbsp; หน้าหลัก
-              li(class=(page=='2'? 'active':''))
+              li(class=(pageNo=='calenEdit'? 'active':''))
                 a(href="/calendarEdit")
                   span(style="font-size: 16px")
                     i.fas.fa-calendar-alt
@@ -104,8 +108,8 @@ html
                   span(style="font-size: 16px")
                     i.fas.fa-file-alt
                   |   &nbsp; รายงาน
-                ul#exampledropdownDropdown2(class= (page=='sta_ser'? "collapse list-unstyled show" : "collapse list-unstyled"))
-                  li(class=(page=='sta_ser'? 'active':''))
+                ul#exampledropdownDropdown2(class= (pageNo =='sta_ser'? "collapse list-unstyled show" : "collapse list-unstyled"))
+                  li(class=(pageNo=='sta_ser'? 'active':''))
                     a(href="/station_service") 
                       span(style="font-size: 14px")
                         i.fas.fa-chart-bar
@@ -138,12 +142,13 @@ html
     script(src="https://code.jquery.com/jquery-3.5.1.slim.min.js")
     script(src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js")
     script(src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js")
-    script(src='vendor/jquery.cookie/jquery.cookie.js')
-    script(src='vendor/chart.js/Chart.min.js')
-    script(src='vendor/jquery-validation/jquery.validate.min.js')
-    script(src='js/charts-home.js')
-    script(src='js/front.js')
-    //calendar
+    
+    script(src='/vendor/jquery.cookie/jquery.cookie.js')
+    script(src='/vendor/chart.js/Chart.min.js')
+    script(src='/vendor/jquery-validation/jquery.validate.min.js')
+    script(src='/js/charts-home.js')
+    script(src='/js/front.js')
+    //- //calendar
     script(src='/javascripts/fullcalendar/core/main.js')
     script(src='/javascripts/fullcalendar/daygrid/main.js')
     script(src='/javascripts/fullcalendar/bootstrap/main.js')
