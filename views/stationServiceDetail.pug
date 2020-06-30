@@ -24,6 +24,35 @@ block content
         section.dashboard-counts.no-padding-bottom
             .container-fluid
                 .row.bg-white.has-shadow
+                     div(style="text-align: center").col-12
+                        .table-responsive
+                            table.table.table-striped
+                                    thead.text-center
+                                        tr
+                                            th(colspan="10" style="font-size:16px ;font-family: Kanit, sans-serif; padding-bottom:5px; border-top:none").text-primary= 'รายงาน Station Service ประจำเดือน '+month_list[obj.month-1] + ' ปี พ.ศ. ' + obj.year
+                                        tr(style="font-size:12px")
+                                            th(scope="col") Meter
+                                            th(scope="col") เดือนนี้
+                                            th(scope="col") เดือนก่อน
+                                            th(scope="col") ผลต่าง
+                                            th(scope="col") ตัวคูณ
+                                            th(scope="col") kWH รวม
+                                            th(scope="col") kWH บ้านพัก
+                                            th(scope="col") kWH บสส.
+                                            th(scope="col") kWH ผู้รับเหมา
+                                            th(scope="col") kWH อื่นๆ
+                                            th(scope="col") ADD/EDIT
+                                    tbody(style="font-size:12px").text-center
+                                        each meter_data in obj.meter_datas
+                                            tr
+                                                th(scope="row")= meter_data.name
+                                                each meterMonth_data in obj.meterMonth_datas
+                                                    if meter_data._id == meterMonth_data.meter_id
+                                                        td= meterMonth_data.meter_value
+
+                                        
+
+
                   
 
         footer.main-footer

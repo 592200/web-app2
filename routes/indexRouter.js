@@ -128,7 +128,7 @@ router.get('/station_service_detail/:_month:_year', function(req, res, next) {
       console.log("find : "+ meterMonth_data)
       Meter.find().exec((err,meter_data) =>{
         if(err) console.log(err)
-        console.log(meter_data.length)
+        console.log(meter_data)
 
         res.render('stationServiceDetail',{obj : 
           {
