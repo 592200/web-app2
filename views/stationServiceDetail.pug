@@ -3,13 +3,138 @@ extend layout
 block script2
     - var pageNo = obj.page
 
+block script
+    script.
+        //-add
+        $(document).ready(function(){
+            $('.addbtn').on('click',function(){
+                $('#addModal').modal('show');
+                    
+                    var data = $(this).closest('tr').children('input').map(function(){
+                        return $(this).val();
+                    }).get();
+                    console.log(data);
+                    //- set parameter
+                    $('#meterName').val(data[4])
+                    $('#meterID').val(data[3])
+                    $('#month').val(data[0])
+                    $('#year').val(data[2])
+
+            });
+
+        });
+        //-edit
+        $(document).ready(function(){
+            $('.editbtn').on('click',function(){
+                $('#editModal').modal('show');
+                    
+                    var data = $(this).closest('tr').children('input').map(function(){
+                        return $(this).val();
+                    }).get();
+                    console.log(data);
+                    //- set parameter
+                    $('#meterName2').val(data[4])
+                    $('#meterID2').val(data[3])
+                    $('#month2').val(data[0])
+                    $('#year2').val(data[2])
+                    $('#meterMonthID').val(data[5])
+                    $('#meterValue').val(data[6])
+                    $('#kwhHouse').val(data[7])
+                    $('#kwhTransOffice').val(data[8])
+                    $('#kwhOutsidePerson').val(data[9])
+                    $('#kwhOther').val(data[10])
+
+            });
+
+        });
+
 block content
     
+    //- Modal ADD DATA
+    #addModal.modal.fade(tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true")
+      .modal-dialog.modal-dialog-centered
+        .modal-content
+          .modal-header
+            h5#exampleModalLabel.modal-title บันทึกค่า Meter
+            button.close(type="button" data-dismiss="modal" aria-label="Close")
+              span(aria-hidden="true") ×
+          .modal-body
+            .container
+                form(action="/station_service_detail/add/", method="post")
+                    .form-group.row
+                        label.col-5.col-form-label(for="") Meter Name
+                        input#meterName.form-control-plaintext.col-6(type="text" readonly="" value="")
+                        input#meterID(type="hidden", name="meterID")
+                        input#month(type="hidden", name="month")
+                        input#year(type="hidden", name="year")
+                    .form-group.row
+                        label.col-5.col-form-label(for="") ค่า Meter เดือนนี้
+                        input.col-6(type="text", name="meterValue",class="form-control",value=0)
+                    .form-group.row
+                        label.col-5.col-form-label(for="") kWH บ้านพัก
+                        input.col-6(type="text", name="kwhHouse",class="form-control",value=0)
+                    .form-group.row
+                        label.col-5.col-form-label(for="") kWH อาคาร บสส.
+                        input.col-6(type="text", name="kwhTransOffice",class="form-control",value=0)
+                    .form-group.row
+                        label.col-5.col-form-label(for="") kWH ผู้รับเหมา
+                        input.col-6(type="text", name="kwhOutsidePerson",class="form-control",value=0)
+                    .form-group.row
+                        label.col-5.col-form-label(for="") kWH อื่นๆ
+                        input.col-6(type="text", name="kwhOther",class="form-control",value=0)
+
+                    .modal-footer
+                        button.btn.btn-danger(type="button" data-dismiss="modal") Close
+                        button.btn.btn-success(type="submit") ADD
+
+    //- Modal EDIT DATA
+    #editModal.modal.fade(tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true")
+      .modal-dialog.modal-dialog-centered
+        .modal-content
+          .modal-header
+            h5#exampleModalLabel.modal-title แก้ไขค่า Meter
+            button.close(type="button" data-dismiss="modal" aria-label="Close")
+              span(aria-hidden="true") ×
+          .modal-body
+            .container
+                form(action="/station_service_detail/edit/", method="post")
+                    .form-group.row
+                        label.col-5.col-form-label(for="") Meter Name
+                        input#meterName2.form-control-plaintext.col-6(type="text" readonly="" value="")
+                        input#meterID2(type="hidden", name="meterID")
+                        input#month2(type="hidden", name="month")
+                        input#year2(type="hidden", name="year")
+                        input#meterMonthID(type="hidden", name="meterMonthID")
+                    .form-group.row
+                        label.col-5.col-form-label(for="") ค่า Meter เดือนนี้
+                        input#meterValue.col-6(type="text", name="meterValue",class="form-control",value=0)
+                    .form-group.row
+                        label.col-5.col-form-label(for="") kWH บ้านพัก
+                        input#kwhHouse.col-6(type="text", name="kwhHouse",class="form-control",value=0)
+                    .form-group.row
+                        label.col-5.col-form-label(for="") kWH อาคาร บสส.
+                        input#kwhTransOffice.col-6(type="text", name="kwhTransOffice",class="form-control",value=0)
+                    .form-group.row
+                        label.col-5.col-form-label(for="") kWH ผู้รับเหมา
+                        input#kwhOutsidePerson.col-6(type="text", name="kwhOutsidePerson",class="form-control",value=0)
+                    .form-group.row
+                        label.col-5.col-form-label(for="") kWH อื่นๆ
+                        input#kwhOther.col-6(type="text", name="kwhOther",class="form-control",value=0)
+
+                    .modal-footer
+                        button.btn.btn-danger(type="button" data-dismiss="modal") Close
+                        button.btn.btn-success(type="submit") EDIT
+
+
+
+
+
     .content-inner
         header.page-header
             .container-fluid
                 h2(style='font-family: Kanit, sans-serif').no-margin-bottom รายงาน Station Service
-                //- p= pageNo
+                //- Button trigger modal
+               
 
         //- Breadcrumb
         .breadcrumb-holder.container-fluid
@@ -43,13 +168,96 @@ block content
                                             th(scope="col") kWH อื่นๆ
                                             th(scope="col") ADD/EDIT
                                     tbody(style="font-size:12px").text-center
+                                        - var check_data = false
+                                        - var old_value = 0
+                                        - var new_value = 0
                                         each meter_data in obj.meter_datas
                                             tr
+                                                //-meter name
                                                 th(scope="row")= meter_data.name
+                                                input(type="hidden", name="monthID", value=obj.month)
+                                                input(type="hidden", name="month", value=month_list[obj.month-1])
+                                                input(type="hidden", name="year", value=obj.year)
+                                                input(type="hidden", name="meterID",value=meter_data._id)
+                                                input(type="hidden", name="meterName", value=meter_data.name)
+                                                //-meter value this month
                                                 each meterMonth_data in obj.meterMonth_datas
                                                     if meter_data._id == meterMonth_data.meter_id
                                                         td= meterMonth_data.meter_value
+                                                        - check_data = true
+                                                        - new_value = meterMonth_data.meter_value
+                                                        input(type="hidden", name="meterMonthID", value=meterMonth_data._id)
+                                                        input(type="hidden", name="meterValue", value=new_value)
+                                                if !check_data
+                                                    td.table-warning -
+                                                    //- new_value for calculate diff  
+                                                    - new_value = 0
+                                                     
+                                                - check_data = false
+                                                //-meter value last month
+                                                each old_meterMonth_data in obj.old_meterMonth_datas
+                                                    if meter_data._id == old_meterMonth_data.meter_id
+                                                        td= old_meterMonth_data.meter_value
+                                                        - check_data = true
+                                                        - old_value = old_meterMonth_data.meter_value
+                                                if !check_data
+                                                    td.table-warning -
+                                                    //- old_value for calculate diff
+                                                    - old_value = 0
+                                                - check_data = false
+                                                //-diff
+                                                - var result_diff = new_value-old_value
+                                                if (result_diff>=0)
+                                                    td= result_diff.toFixed(2)
+                                                else
+                                                    td.table-warning -
+                                                //-Multiplier
+                                                td= meter_data.multiplier
+                                                //-total kWH
+                                                - var result_kWH = result_diff*meter_data.multiplier
+                                                if (result_kWH>=0)
+                                                    td= result_kWH.toFixed(2)
+                                                else
+                                                    td.table-warning -
 
+                                                //- House trans_office Other
+                                                each meterMonth_data in obj.meterMonth_datas
+                                                    if meter_data._id == meterMonth_data.meter_id
+                                                        //- kWH_house
+                                                        td= meterMonth_data.kWH_house
+                                                        input(type="hidden", name="kWH_house", value=meterMonth_data.kWH_house)
+                                                        //- kWH_trans_office
+                                                        td= meterMonth_data.kWH_trans_office
+                                                        input(type="hidden", name="kWH_trans_office", value=meterMonth_data.kWH_trans_office)
+                                                        //- kWH_outside_person
+                                                        td= meterMonth_data.kWH_outside_person
+                                                        input(type="hidden", name="kWH_outside_person", value=meterMonth_data.kWH_outside_person)
+                                                        //- kWH_other
+                                                        td= meterMonth_data.kWH_other
+                                                        input(type="hidden", name="kWH_other", value=meterMonth_data.kWH_other)
+                                                        - check_data = true
+                                                if !check_data
+                                                    //- kWH_house
+                                                    td.table-warning -
+                                                    //- kWH_trans_office
+                                                    td.table-warning -
+                                                    //- kWH_outside_person
+                                                    td.table-warning -
+                                                    //- kWH_other
+                                                    td.table-warning -
+                                                - check_data = false
+
+                                                //- edit/add
+                                                each meterMonth_data in obj.meterMonth_datas
+                                                    if meter_data._id == meterMonth_data.meter_id
+                                                        td
+                                                            button(type="button").btn.btn-warning.btn-sm.editbtn EDIT
+                                                            - check_data = true
+                                                if !check_data
+                                                     td
+                                                        button(type="button").btn.btn-success.btn-sm.addbtn ADD
+                                                - check_data = false
+                                                
                                         
 
 

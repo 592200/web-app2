@@ -1,0 +1,109 @@
+[{
+  "_id": 1,
+  "name": "SKL2-1",
+  "multiplier": 556.5
+},{
+  "_id": 2,
+  "name": "SKL2-2",
+  "multiplier": 556.5
+},{
+  "_id": 3,
+  "name": "SKL",
+  "multiplier": 10.1
+},{
+  "_id": 4,
+  "name": "บ้านพัก SKL",
+  "multiplier": 1
+},{
+  "_id": 5,
+  "name": "HY1-1",
+  "multiplier": 1
+},{
+  "_id": 6,
+  "name": "HY1-2",
+  "multiplier": 1
+},{
+  "_id": 7,
+  "name": "HY1-3",
+  "multiplier": 1
+},{
+  "_id": 8,
+  "name": "HY1-4 สนง.หาดใหญ่",
+  "multiplier": 100
+},{
+  "_id": 9,
+  "name": "HY1-5",
+  "multiplier": 1
+},{
+  "_id": 10,
+  "name": "HY1-6",
+  "multiplier": 1
+},{
+  "_id": 11,
+  "name": "HY1-7",
+  "multiplier": 1
+},{
+  "_id": 12,
+  "name": "HY1-8",
+  "multiplier": 1
+},{
+  "_id": 13,
+  "name": "HY1-9",
+  "multiplier": 1
+},{
+  "_id": 14,
+  "name": "HY1-10",
+  "multiplier": 1
+},{
+  "_id": 15,
+  "name": "HY1-6.1 บ้านพัก HY1",
+  "multiplier": 1
+},{
+  "_id": 16,
+  "name": "HY2-1",
+  "multiplier": 1
+},{
+  "_id": 17,
+  "name": "HY2-2",
+  "multiplier": 1
+},{
+  "_id": 18,
+  "name": "STU",
+  "multiplier": 1
+},{
+  "_id": 19,
+  "name": "PTN",
+  "multiplier": 10
+},{
+  "_id": 20,
+  "name": "BLG-1",
+  "multiplier": 681.82
+},{
+  "_id": 21,
+  "name": "BLG-2",
+  "multiplier": 15
+},{
+  "_id": 22,
+  "name": "YL1-1",
+  "multiplier": 1
+},{
+  "_id": 23,
+  "name": "YL1-2",
+  "multiplier": 50
+},{
+  "_id": 24,
+  "name": "YL2-1",
+  "multiplier": 556.5
+},{
+  "_id": 25,
+  "name": "YL2-2",
+  "multiplier": 556.5
+},{
+  "_id": 26,
+  "name": "NW",
+  "multiplier": 1
+},{
+  "_id": 27,
+  "name": "SUK",
+  "multiplier": 10
+}]
