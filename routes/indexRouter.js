@@ -120,7 +120,8 @@ router.post('/station_service', function(req, res, next) {
 });
 
 // Station service detail get param from edit
-router.get('/station_service_detail/:_month:_year', function(req, res, next) {
+router.get('/station_service_detail/:_year/month/:_month', function(req, res, next) {
+  console.log(req.params)
   console.log("params : " + req.params._month)
   console.log("year : " + req.params._year)
  
@@ -190,7 +191,7 @@ router.post('/station_service_detail/add', function(req, res, next) {
     });
   doc.save((err,data)=>{
     if(err) console.log(err)
-    res.redirect("/station_service_detail/"+ req.body.month+req.body.year)
+    res.redirect("/station_service_detail/"+req.body.year+"/month/" + req.body.month)
   })
 
 })
@@ -211,7 +212,7 @@ router.post('/station_service_detail/edit', function(req, res, next) {
       update_date : Date.now()
     }, (err,data)=>{
     if(err) console.log(err)
-    res.redirect("/station_service_detail/"+ req.body.month+req.body.year)
+    res.redirect("/station_service_detail/"+req.body.year +"/month/" + req.body.month)
   })
 
 })
