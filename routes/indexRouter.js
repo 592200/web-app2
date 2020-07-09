@@ -70,15 +70,92 @@ router.get('/station_service', function(req, res, next) {
     Meter.find().exec((err,meter_data) =>{
       if(err) console.log(err)
       console.log(meter_data.length)
-
-      res.render('stationService',{obj : 
-          {
-          year:"2563",
-          page:"sta_ser",
-          meter_length: meter_data.length,
-          month_datas : meterMonth_data
+      //find data for kwhHouse
+      MeterMonth.find({year:"2563"},(err,data_meterMonth_all)=>{
+        if(err) console.log(err)
+        //console.log(data_meterMonth_all)
+        var kwhHouse_SKL =[]
+        var kwhHouse_HY1 =[]
+        var kwhHouse_HY2 =[]
+        var kwhHouse_STU =[]
+        var kwhHouse_YL1 =[]
+        var kwhHouse_NW =[]
+        var kwhHouse_SUK =[]
+        for (var i=0;i<data_meterMonth_all.length;i++){
+          // meter SKL
+          if(data_meterMonth_all[i].meter_id==4){
+            kwhHouse_SKL[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
           }
-        })
+          // meter HY1
+          else if(data_meterMonth_all[i].meter_id==15){
+            kwhHouse_HY1[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter HY2
+          else if(data_meterMonth_all[i].meter_id==17){
+            kwhHouse_HY2[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter STU
+          else if(data_meterMonth_all[i].meter_id==18){
+            kwhHouse_STU[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter YL1
+          else if(data_meterMonth_all[i].meter_id==22){
+            kwhHouse_YL1[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter NW
+          else if(data_meterMonth_all[i].meter_id==26){
+            kwhHouse_NW[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter SUK
+          else if(data_meterMonth_all[i].meter_id==27){
+            kwhHouse_SUK[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+
+        }
+        //loop for check array kwh to input 0 to NULL
+        for (var i=0;i<12;i++){
+          if (kwhHouse_SKL[i]==null){
+            kwhHouse_SKL[i]=0;
+          }
+          if (kwhHouse_HY1[i]==null){
+            kwhHouse_HY1[i]=0;
+          }
+          if (kwhHouse_HY2[i]==null){
+            kwhHouse_HY2[i]=0;
+          }
+          if (kwhHouse_STU[i]==null){
+            kwhHouse_STU[i]=0;
+          }
+          if (kwhHouse_YL1[i]==null){
+            kwhHouse_YL1[i]=0;
+          }
+          if (kwhHouse_NW[i]==null){
+            kwhHouse_NW[i]=0;
+          }
+          if (kwhHouse_SUK[i]==null){
+            kwhHouse_SUK[i]=0;
+          }
+        }
+
+        console.log(kwhHouse_SKL)
+
+        res.render('stationService',{obj : 
+            {
+            year:"2563",
+            page:"sta_ser",
+            meter_length: meter_data.length,
+            month_datas : meterMonth_data,
+            kwhHouse_SKL : kwhHouse_SKL,
+            kwhHouse_HY1 : kwhHouse_HY1,
+            kwhHouse_HY2 : kwhHouse_HY2,
+            kwhHouse_STU : kwhHouse_STU,
+            kwhHouse_YL1 : kwhHouse_YL1,
+            kwhHouse_NW : kwhHouse_NW,
+            kwhHouse_SUK : kwhHouse_SUK
+
+            }
+          })
+      })
     })
   })
 
@@ -106,15 +183,87 @@ router.post('/station_service', function(req, res, next) {
     Meter.find().exec((err,meter_data) =>{
       if(err) console.log(err)
       console.log(meter_data.length)
-
-      res.render('stationService',{obj : 
-          {
-          year: year,
-          page:"sta_ser",
-          meter_length: meter_data.length,
-          month_datas : meterMonth_data
+      MeterMonth.find({year:year},(err,data_meterMonth_all)=>{
+        if(err) console.log(err)
+        //console.log(data_meterMonth_all)
+        var kwhHouse_SKL =[]
+        var kwhHouse_HY1 =[]
+        var kwhHouse_HY2 =[]
+        var kwhHouse_STU =[]
+        var kwhHouse_YL1 =[]
+        var kwhHouse_NW =[]
+        var kwhHouse_SUK =[]
+        for (var i=0;i<data_meterMonth_all.length;i++){
+          // meter SKL
+          if(data_meterMonth_all[i].meter_id==4){
+            kwhHouse_SKL[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
           }
-        })
+          // meter HY1
+          else if(data_meterMonth_all[i].meter_id==15){
+            kwhHouse_HY1[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter HY2
+          else if(data_meterMonth_all[i].meter_id==17){
+            kwhHouse_HY2[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter STU
+          else if(data_meterMonth_all[i].meter_id==18){
+            kwhHouse_STU[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter YL1
+          else if(data_meterMonth_all[i].meter_id==22){
+            kwhHouse_YL1[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter NW
+          else if(data_meterMonth_all[i].meter_id==26){
+            kwhHouse_NW[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+          // meter SUK
+          else if(data_meterMonth_all[i].meter_id==27){
+            kwhHouse_SUK[data_meterMonth_all[i].month-1]=data_meterMonth_all[i].kWH_house
+          }
+
+        }
+        //loop for check array kwh to input 0 to NULL
+        for (var i=0;i<12;i++){
+          if (kwhHouse_SKL[i]==null){
+            kwhHouse_SKL[i]=0;
+          }
+          if (kwhHouse_HY1[i]==null){
+            kwhHouse_HY1[i]=0;
+          }
+          if (kwhHouse_HY2[i]==null){
+            kwhHouse_HY2[i]=0;
+          }
+          if (kwhHouse_STU[i]==null){
+            kwhHouse_STU[i]=0;
+          }
+          if (kwhHouse_YL1[i]==null){
+            kwhHouse_YL1[i]=0;
+          }
+          if (kwhHouse_NW[i]==null){
+            kwhHouse_NW[i]=0;
+          }
+          if (kwhHouse_SUK[i]==null){
+            kwhHouse_SUK[i]=0;
+          }
+        }
+        res.render('stationService',{obj : 
+            {
+            year: year,
+            page:"sta_ser",
+            meter_length: meter_data.length,
+            month_datas : meterMonth_data,
+            kwhHouse_SKL : kwhHouse_SKL,
+            kwhHouse_HY1 : kwhHouse_HY1,
+            kwhHouse_HY2 : kwhHouse_HY2,
+            kwhHouse_STU : kwhHouse_STU,
+            kwhHouse_YL1 : kwhHouse_YL1,
+            kwhHouse_NW : kwhHouse_NW,
+            kwhHouse_SUK : kwhHouse_SUK
+            }
+          })
+      })
     })
   })
 });

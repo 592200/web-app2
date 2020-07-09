@@ -1,0 +1,703 @@
+[{
+  "_id": {
+    "$oid": "5efadb589fbf28bab497927a"
+  },
+  "meter_id": 1,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 1651.25,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadb739fbf28bab497927b"
+  },
+  "meter_id": 2,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 827.5,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadb989fbf28bab497927c"
+  },
+  "meter_id": 3,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 547967,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadbd09fbf28bab497927d"
+  },
+  "meter_id": 4,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 0,
+  "kWH_house": 2158,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadc999fbf28bab497927e"
+  },
+  "meter_id": 5,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 149599,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadcc19fbf28bab497927f"
+  },
+  "meter_id": 6,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 2278,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadccf9fbf28bab4979280"
+  },
+  "meter_id": 7,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 234406,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadd3f9fbf28bab4979281"
+  },
+  "meter_id": 8,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 2452,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efaddad9fbf28bab4979282"
+  },
+  "meter_id": 9,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 67927,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efaddbd9fbf28bab4979283"
+  },
+  "meter_id": 10,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 5959,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efaddf39fbf28bab4979284"
+  },
+  "meter_id": 13,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 22279,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efade059fbf28bab4979285"
+  },
+  "meter_id": 15,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 2010,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efade299fbf28bab4979286"
+  },
+  "meter_id": 16,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 5624780,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efade3a9fbf28bab4979287"
+  },
+  "meter_id": 17,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 3513570,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efade6e9fbf28bab4979288"
+  },
+  "meter_id": 18,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 3220260,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efade7b9fbf28bab4979289"
+  },
+  "meter_id": 19,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 445555,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efade889fbf28bab497928a"
+  },
+  "meter_id": 20,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 79268,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efade989fbf28bab497928b"
+  },
+  "meter_id": 21,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 60753,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadead9fbf28bab497928c"
+  },
+  "meter_id": 22,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 23100,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadeba9fbf28bab497928d"
+  },
+  "meter_id": 23,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 1857,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efaded39fbf28bab497928e"
+  },
+  "meter_id": 24,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 4987.365,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadee39fbf28bab497928f"
+  },
+  "meter_id": 25,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 3298.77,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadef79fbf28bab4979290"
+  },
+  "meter_id": 26,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 0,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5efadf049fbf28bab4979291"
+  },
+  "meter_id": 27,
+  "month": 12,
+  "year": "2562",
+  "meter_value": 276779,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": ""
+},{
+  "_id": {
+    "$oid": "5f042cfaeb27e53f172f5579"
+  },
+  "meter_id": 5,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 152649,
+  "kWH_house": 0,
+  "kWH_trans_office": 1133,
+  "kWH_outside_person": 176,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:36:44.445Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f042d82eb27e53f172f557a"
+  },
+  "meter_id": 15,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 0,
+  "kWH_house": 2010,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:51:32.752Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f042df0eb27e53f172f557b"
+  },
+  "meter_id": 26,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 12942,
+  "kWH_house": 456,
+  "kWH_trans_office": 691,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T08:00:25.763Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f043f28eb27e53f172f557c"
+  },
+  "meter_id": 6,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 2278,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:37:22.975Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f043f33eb27e53f172f557d"
+  },
+  "meter_id": 7,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 248368,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:38:04.403Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f043f3deb27e53f172f557e"
+  },
+  "meter_id": 8,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 2504,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:39:25.596Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f0575a5eb2f2032bfdcb971"
+  },
+  "meter_id": 1,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 1651.25,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:28:37.808Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f0575bbeb2f2032bfdcb972"
+  },
+  "meter_id": 2,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 843.38,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:28:59.534Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f0575d5eb2f2032bfdcb973"
+  },
+  "meter_id": 3,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 548822,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:29:25.525Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057751eb2f2032bfdcb974"
+  },
+  "meter_id": 4,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 0,
+  "kWH_house": 2158,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:35:45.085Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f05784eeb2f2032bfdcb975"
+  },
+  "meter_id": 9,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 69290,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:39:58.610Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057860eb2f2032bfdcb976"
+  },
+  "meter_id": 10,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 6541,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:40:16.488Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057ae9eb2f2032bfdcb977"
+  },
+  "meter_id": 13,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 22463,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:51:05.831Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057b50eb2f2032bfdcb978"
+  },
+  "meter_id": 16,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 5624780,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:52:48.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057b62eb2f2032bfdcb979"
+  },
+  "meter_id": 17,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 3536940,
+  "kWH_house": 911,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 1542,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:53:47.675Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057ba1eb2f2032bfdcb97a"
+  },
+  "meter_id": 18,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 3225140,
+  "kWH_house": 227,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:54:28.599Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057bcfeb2f2032bfdcb97b"
+  },
+  "meter_id": 19,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 446888,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:54:55.140Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057bedeb2f2032bfdcb97c"
+  },
+  "meter_id": 20,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 79357,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:55:25.003Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057bf6eb2f2032bfdcb97d"
+  },
+  "meter_id": 21,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 60989,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:55:34.205Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057c8ceb2f2032bfdcb97e"
+  },
+  "meter_id": 22,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 32407,
+  "kWH_house": 244,
+  "kWH_trans_office": 1552,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:58:40.296Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057c96eb2f2032bfdcb97f"
+  },
+  "meter_id": 23,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 1886,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:58:14.886Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057cd3eb2f2032bfdcb980"
+  },
+  "meter_id": 24,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 5010.7,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:59:28.248Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057cedeb2f2032bfdcb981"
+  },
+  "meter_id": 25,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 3298.77,
+  "kWH_house": 0,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T07:59:41.226Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f057d03eb2f2032bfdcb982"
+  },
+  "meter_id": 27,
+  "month": 1,
+  "year": "2563",
+  "meter_value": 277796,
+  "kWH_house": 63,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-08T08:00:33.218Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f06c890e5f082876b7118dc"
+  },
+  "meter_id": 4,
+  "month": 2,
+  "year": "2563",
+  "meter_value": 0,
+  "kWH_house": 1500,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-09T07:34:40.869Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f06c9c1cf200e987b27e759"
+  },
+  "meter_id": 4,
+  "month": 3,
+  "year": "2563",
+  "meter_value": 0,
+  "kWH_house": 500,
+  "kWH_trans_office": 0,
+  "kWH_outside_person": 0,
+  "kWH_other": 0,
+  "update_date": {
+    "$date": "2020-07-09T07:39:45.172Z"
+  }
+}]

@@ -1,8 +1,31 @@
 /*global $, document, Chart, LINECHART, data, options, window*/
+
 $(document).ready(function () {
 
     'use strict';
 
+    var kwhHouse_SKL = $('.getHouseSKL').map(function(){
+        return $(this).val();
+    }).get();
+    var kwhHouse_HY1 = $('.getHouseHY1').map(function(){
+        return $(this).val();
+    }).get();
+    var kwhHouse_HY2 = $('.getHouseHY2').map(function(){
+        return $(this).val();
+    }).get();
+    var kwhHouse_STU = $('.getHouseSTU').map(function(){
+        return $(this).val();
+    }).get();
+    var kwhHouse_YL1 = $('.getHouseYL1').map(function(){
+        return $(this).val();
+    }).get();
+    var kwhHouse_NW = $('.getHouseNW').map(function(){
+        return $(this).val();
+    }).get();
+    var kwhHouse_SUK = $('.getHouseSUK').map(function(){
+        return $(this).val();
+    }).get();
+    console.log(kwhHouse_SKL);
     // ------------------------------------------------------- //
     // Line Chart
     // ------------------------------------------------------ //
@@ -10,8 +33,8 @@ $(document).ready(function () {
     if ($(window).outerWidth() < 576) {
         legendState = false;
     }
-
-    var LINECHART = $('#lineCahrt');
+    // kwH House chart
+    var LINECHART = $('#lineChartHouse');
     var myLineChart = new Chart(LINECHART, {
         type: 'line',
         options: {
@@ -34,33 +57,33 @@ $(document).ready(function () {
             }
         },
         data: {
-            labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+            labels: ["ม.ค.", "ก.พ.", "มี.ค.", "เม.ย.", "พ.ค.", "มิ.ย.", "ก.ค.", "ส.ค.", "ก.ย.", "ต.ค.", "พ.ย.", "ธ.ค."],
             datasets: [
                 {
-                    label: "Page Visitors",
+                    label: "บ้านพัก SKL",
                     fill: true,
                     lineTension: 0,
                     backgroundColor: "transparent",
                     borderColor: '#f15765',
-                    pointBorderColor: '#da4c59',
+                    pointBorderColor: '#f15765',
                     pointHoverBackgroundColor: '#da4c59',
                     borderCapStyle: 'butt',
                     borderDash: [],
                     borderDashOffset: 0.0,
                     borderJoinStyle: 'miter',
                     borderWidth: 1,
-                    pointBackgroundColor: "#fff",
+                    pointBackgroundColor: "white",
                     pointBorderWidth: 1,
                     pointHoverRadius: 5,
                     pointHoverBorderColor: "#fff",
                     pointHoverBorderWidth: 2,
-                    pointRadius: 1,
+                    pointRadius: 3,
                     pointHitRadius: 0,
-                    data: [50, 20, 60, 31, 52, 22, 40, 25, 30, 68, 56, 40, 60, 43, 55, 39, 47],
+                    data: kwhHouse_SKL,
                     spanGaps: false
                 },
                 {
-                    label: "Page Views",
+                    label: "บ้านพัก HY1",
                     fill: true,
                     lineTension: 0,
                     backgroundColor: "transparent",
@@ -71,21 +94,136 @@ $(document).ready(function () {
                     borderDashOffset: 0.0,
                     borderJoinStyle: 'miter',
                     borderWidth: 1,
-                    pointBorderColor: "#44c384",
-                    pointBackgroundColor: "#fff",
+                    pointBorderColor: "#54e69d",
+                    pointBackgroundColor: "white",
                     pointBorderWidth: 1,
                     pointHoverRadius: 5,
-                    pointHoverBorderColor: "#fff",
+                    pointHoverBorderColor: "#54e69d",
                     pointHoverBorderWidth: 2,
-                    pointRadius: 1,
+                    pointRadius: 3,
                     pointHitRadius: 10,
-                    data: [20, 7, 35, 17, 26, 8, 18, 10, 14, 46, 30, 30, 14, 28, 17, 25, 17, 40],
+                    data: kwhHouse_HY1,
+                    spanGaps: false
+                },
+                {
+                    label: "บ้านพัก HY2",
+                    fill: true,
+                    lineTension: 0,
+                    backgroundColor: "transparent",
+                    borderColor: "blue",
+                    pointHoverBackgroundColor: "#44c384",
+                    borderCapStyle: 'butt',
+                    borderDash: [],
+                    borderDashOffset: 0.0,
+                    borderJoinStyle: 'miter',
+                    borderWidth: 1,
+                    pointBorderColor: "blue",
+                    pointBackgroundColor: "white",
+                    pointBorderWidth: 1,
+                    pointHoverRadius: 5,
+                    pointHoverBorderColor: "blue",
+                    pointHoverBorderWidth: 2,
+                    pointRadius: 3,
+                    pointHitRadius: 10,
+                    data: kwhHouse_HY2,
+                    spanGaps: false
+                },
+                {
+                    label: "บ้านพัก STU",
+                    fill: true,
+                    lineTension: 0,
+                    backgroundColor: "transparent",
+                    borderColor: "orange",
+                    pointHoverBackgroundColor: "orange",
+                    borderCapStyle: 'butt',
+                    borderDash: [],
+                    borderDashOffset: 0.0,
+                    borderJoinStyle: 'miter',
+                    borderWidth: 1,
+                    pointBorderColor: "orange",
+                    pointBackgroundColor: "white",
+                    pointBorderWidth: 1,
+                    pointHoverRadius: 5,
+                    pointHoverBorderColor: "blue",
+                    pointHoverBorderWidth: 2,
+                    pointRadius: 3,
+                    pointHitRadius: 10,
+                    data: kwhHouse_STU,
+                    spanGaps: false
+                },
+                {
+                    label: "บ้านพัก YL1",
+                    fill: true,
+                    lineTension: 0,
+                    backgroundColor: "transparent",
+                    borderColor: "#CC6600",
+                    pointHoverBackgroundColor: "#CC6600",
+                    borderCapStyle: 'butt',
+                    borderDash: [],
+                    borderDashOffset: 0.0,
+                    borderJoinStyle: 'miter',
+                    borderWidth: 1,
+                    pointBorderColor: "#CC6600",
+                    pointBackgroundColor: "white",
+                    pointBorderWidth: 1,
+                    pointHoverRadius: 5,
+                    pointHoverBorderColor: "#CC6600",
+                    pointHoverBorderWidth: 2,
+                    pointRadius: 3,
+                    pointHitRadius: 10,
+                    data: kwhHouse_YL1,
+                    spanGaps: false
+                },
+                {
+                    label: "บ้านพัก NW",
+                    fill: true,
+                    lineTension: 0,
+                    backgroundColor: "transparent",
+                    borderColor: "green",
+                    pointHoverBackgroundColor: "green",
+                    borderCapStyle: 'butt',
+                    borderDash: [],
+                    borderDashOffset: 0.0,
+                    borderJoinStyle: 'miter',
+                    borderWidth: 1,
+                    pointBorderColor: "blue",
+                    pointBackgroundColor: "white",
+                    pointBorderWidth: 1,
+                    pointHoverRadius: 5,
+                    pointHoverBorderColor: "green",
+                    pointHoverBorderWidth: 2,
+                    pointRadius: 3,
+                    pointHitRadius: 10,
+                    data: kwhHouse_NW,
+                    spanGaps: false
+                },
+                {
+                    label: "บ้านพัก SUK",
+                    fill: true,
+                    lineTension: 0,
+                    backgroundColor: "transparent",
+                    borderColor: "black",
+                    pointHoverBackgroundColor: "black",
+                    borderCapStyle: 'butt',
+                    borderDash: [],
+                    borderDashOffset: 0.0,
+                    borderJoinStyle: 'miter',
+                    borderWidth: 1,
+                    pointBorderColor: "black",
+                    pointBackgroundColor: "white",
+                    pointBorderWidth: 1,
+                    pointHoverRadius: 5,
+                    pointHoverBorderColor: "black",
+                    pointHoverBorderWidth: 2,
+                    pointRadius: 3,
+                    pointHitRadius: 10,
+                    data: kwhHouse_SUK,
                     spanGaps: false
                 }
             ]
         }
     });
-
+   
 
 
     // ------------------------------------------------------- //

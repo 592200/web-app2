@@ -3,13 +3,21 @@ extend layout
 block script2
     - var pageNo = obj.page
 
+    //- - var kwhHouse_SKL = obj.kwhHouse_SKL
+    //- - var kwhHouse_HY1 = obj.kwhHouse_HY1
+    //- - var kwhHouse_HY2 = obj.kwhHouse_HY2
+    //- - var kwhHouse_STU = obj.kwhHouse_STU
+    //- - var kwhHouse_YL1 = obj.kwhHouse_YL1
+    //- - var kwhHouse_NW = obj.kwhHouse_NW
+    //- - var kwhHouse_SUK = obj.kwhHouse_SUK
+    
 block content
     
     .content-inner
         header.page-header
             .container-fluid
                 h2(style='font-family: Kanit, sans-serif').no-margin-bottom รายงาน Station Service
-                //- p= pageNo
+                //- p= kwhHouse_SKL
         section.dashboard-counts.no-padding-bottom
             .container-fluid
                 .row.bg-white.has-shadow
@@ -75,8 +83,26 @@ block content
 
 
                     .col-lg-7.col-sm-12
-                        div(style = "padding-left:10px")
-                            canvas#lineCahrt
+                        each kwhHouse_SKL in obj.kwhHouse_SKL
+                            input.getHouseSKL(type="hidden", name="kwhHouse_SKL" ,value=kwhHouse_SKL)
+                        each kwhHouse_HY1 in obj.kwhHouse_HY1
+                            input.getHouseHY1(type="hidden", name="kwhHouse_HY1" ,value=kwhHouse_HY1)
+                        each kwhHouse_HY2 in obj.kwhHouse_HY2
+                            input.getHouseHY2(type="hidden", name="kwhHouse_HY2" ,value=kwhHouse_HY2)
+                        each kwhHouse_STU in obj.kwhHouse_STU
+                            input.getHouseSTU(type="hidden", name="kwhHouse_STU" ,value=kwhHouse_STU)
+                        each kwhHouse_YL1 in obj.kwhHouse_YL1
+                            input.getHouseYL1(type="hidden", name="kwhHouse_YL1" ,value=kwhHouse_YL1)
+                        each kwhHouse_NW in obj.kwhHouse_NW
+                            input.getHouseNW(type="hidden", name="kwhHouse_NW" ,value=kwhHouse_NW)
+                        each kwhHouse_SUK in obj.kwhHouse_SUK
+                            input.getHouseSUK(type="hidden", name="kwhHouse_SUK" ,value=kwhHouse_SUK)
+
+                        .line-chart-example.card
+                            .card-header.d-flex.align-items-center(style="justify-content:center")
+                                h4(style='font-family: Kanit, sans-serif ; text-align: center') กราฟ kWH บ้านพัก
+                            .card-body
+                                canvas#lineChartHouse
                         
        
 
