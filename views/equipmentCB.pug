@@ -1,0 +1,184 @@
+extend layout
+
+block script2
+    
+    - var pageNo = obj.page
+
+block script
+
+    script.
+        (function() {
+            'use strict';
+            window.addEventListener('load', function() {
+                // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                var forms = document.getElementsByClassName('needs-validation');
+                // Loop over them and prevent submission
+                var validation = Array.prototype.filter.call(forms, function(form) {
+                    form.addEventListener('submit', function(event) {
+                        if (form.checkValidity() === false) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                            
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                
+                });
+            }, false);
+            
+        })();
+
+        
+
+        //date picker
+        $.datetimepicker.setLocale('th');
+        $('#picker').datetimepicker({
+        timepicker: false,
+        datepicker: true,
+        format: 'd/m/Y',
+        formatDate: 'd.m.Y',
+        defaultDate: '+01.01.1970',
+        weeks: true
+        });
+
+
+
+block content
+ 
+    .content-inner
+        header.page-header
+            .container-fluid
+                h2(style='font-family: Kanit, sans-serif').no-margin-bottom เพิ่มข้อมูล Circuit Breaker
+                //- p= obj.CB_datas[0].nameOfSub[0].sub_name
+
+        //- Breadcrumb
+        .breadcrumb-holder.container-fluid
+            ul.breadcrumb
+                li.breadcrumb-item
+                    a(href="/equipment") ข้อมูลอุปกรณ์
+                li.breadcrumb-item CB
+                li.breadcrumb-item.active= (obj.CB_datas? 'EDIT DATA':'ADD DATA') 
+
+        section.dashboard-counts.no-padding-bottom
+            .container-fluid
+                .row.bg-white.has-shadow
+                    .col-12
+                        form#formAddCB.needs-validation(novalidate="" action=(obj.CB_datas? '/equipment/editCB/'+obj.CB_datas._id:'/equipment/addCB') method="post")
+                            .row.no-padding
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") EquipmentID
+                                        input.col-6(type="text" name="equipment_id" class="form-control" required value=(obj.CB_datas? obj.CB_datas.equipment_id:''))
+
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Serial number
+                                        input.col-6(type="text" name="serial_number" class="form-control" required value=(obj.CB_datas? obj.CB_datas.serial_number:''))
+                            .row.no-padding
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Substastion
+                                        select(name="sub_id" ).form-control.col-6
+                                            each sub_data in obj.sub_datas
+                                                option(value=sub_data.id selected=(obj.CB_datas && obj.CB_datas.sub_id==sub_data.id))= sub_data.sub_name
+
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Functional Location
+                                        input.col-6(type="text" name="functional_location" class="form-control" value=(obj.CB_datas? obj.CB_datas.functional_location:''))
+                            .row.no-padding
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Manufacturer
+                                        input.col-6(type="text" name="manufacturer" class="form-control" required value=(obj.CB_datas? obj.CB_datas.manufacturer:''))
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Model No.
+                                        input.col-6(type="text" name="model_number" class="form-control" required value=(obj.CB_datas? obj.CB_datas.model_number:''))
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Mechanism
+                                        input.col-6(type="text" name="mechanical_model" class="form-control" value=(obj.CB_datas? obj.CB_datas.mechanical_model:''))
+                            .row.no-padding
+                                .col-4
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-8.col-form-label(for="") System Voltage
+                                        input.col-4(type="number" name="system_voltage" class="form-control" required value=(obj.CB_datas? obj.CB_datas.system_voltage:''))
+                                .col-4
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-8.col-form-label(for="") Rated voltage
+                                        input.col-4(type="text" name="rated_voltage" class="form-control" required value=(obj.CB_datas? obj.CB_datas.rated_voltage:''))
+                                .col-4
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-8.col-form-label(for="") Rated current
+                                        input.col-4(type="text" name="rated_current" class="form-control" required value=(obj.CB_datas? obj.CB_datas.rated_current:''))
+                            .row.no-padding
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Interrupter type
+                                        input.col-6(type="text" name="interrupter_type" class="form-control" required value=(obj.CB_datas? obj.CB_datas.interrupter_type:''))
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Single or Three pole
+                                        select(name="single_or_three_pole" ).form-control.col-6
+                                            option(value="3" selected=(obj.CB_datas && obj.CB_datas.single_or_three_pole =="3")) 3 pole operate
+                                            option(value="1" selected=(obj.CB_datas && obj.CB_datas.single_or_three_pole =="1")) 1 pole operate
+                            .row.no-padding
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Closing device
+                                        input.col-6(type="text" name="closing_device" class="form-control" required value=(obj.CB_datas? obj.CB_datas.closing_device:''))
+
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") Tripping device
+                                        input.col-6(type="text" name="tripping_device" class="form-control" required value=(obj.CB_datas? obj.CB_datas.tripping_device:''))
+                            .row.no-padding
+                                .col-12
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-3.col-form-label(for="") Description 1
+                                        textarea.form-control(name="description1" rows="3" style="resize:none" ).col-9= (obj.CB_datas? obj.CB_datas.description1:'')
+                                            
+                                .col-12
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-3.col-form-label(for="") Description 2
+                                        textarea.form-control(name="description2" rows="3" style="resize:none" ).col-9= (obj.CB_datas? obj.CB_datas.description2:'')
+                                .col-12
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-3.col-form-label(for="") Description (ไทย)
+                                        textarea.form-control(name="descriptionTH" rows="3" style="resize:none" ).col-9= (obj.CB_datas? obj.CB_datas.descriptionTH:'')
+                            .row.no-padding
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-6.col-form-label(for="") ปีที่ผลิต(ค.ศ.)
+                                        input.col-6(type="text" name="constructYear" class="form-control" value=(obj.CB_datas? obj.CB_datas.constructYear:''))
+                                .col-6
+                                    .form-group.row(style="padding:15px 15px")
+                                        label.col-4.col-form-label(for="") วันที่ติดตั้ง
+                                        input#picker.col-8(type="text" name="start_date" class="form-control" value=(obj.CB_datas? obj.CB_datas.start_date:''))
+                            
+
+                            .row
+                                .form-group.col-6
+                                    button(type="submit").btn.btn-block.btn-success SUBMIT
+                                .form-group.col-6
+                                    button(type="reset").btn.btn-block.btn-danger RESET
+                                
+
+
+
+
+
+
+
+
+
+        footer.main-footer
+            .container-fluid
+                .row
+                    .col-lg-6.col-sm-12
+                        p(style='font-family: Kanit, sans-serif') แผนกบำรุงรักษาสถานีไฟฟ้า3  กองบำรุงรักษาสถานีไฟฟ้าแรงสูง &copy; 2020
+                    .col-lg-6.col-sm-6.text-right
+                        p
+                            | Design by 
+                            a.external(href="#") Tawat Rattana

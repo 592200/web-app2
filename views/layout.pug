@@ -15,16 +15,8 @@ html
     link(rel='stylesheet' href='/css/fontastic.css')
     link(rel='stylesheet' href="https://fonts.googleapis.com/css?family=Poppins:300,400,700")
     link(href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,200;0,300;0,400;1,200&display=swap" rel="stylesheet")
-    //- //Calendar
-    link(href='/javascripts/fullcalendar/core/main.css' rel='stylesheet')
-    link(href='/javascripts/fullcalendar/daygrid/main.css' rel='stylesheet')
-    link(href='/javascripts/fullcalendar/interaction/main.css' rel='stylesheet')
-    link(href='/javascripts/fullcalendar/bootstrap/main.css' rel='stylesheet')
-    link(href='/javascripts/fullcalendar/list/main.css' rel='stylesheet')
-    link(href='/javascripts/fullcalendar/timegrid/main.css' rel='stylesheet')
-    link(href='/javascripts/fullcalendar/timeline/main.css' rel='stylesheet')
-    link(href='/javascripts/fullcalendar/resource-timeline/main.css' rel='stylesheet')
-
+    
+    link(rel='stylesheet' href='/datetimePicker/jquery.datetimepicker.min.css')
     link(rel='stylesheet' href='/css/style.default.css' id= "theme-stylesheet")
     link(rel='stylesheet' href='/css/custom.css')
     link(rel='shortcut icon' href='images/favicon.ico')
@@ -92,14 +84,14 @@ html
                   span(style="font-size: 16px")
                     i.fas.fa-database
                   |   &nbsp; บริหารจัดการข้อมูลแผนก
-                ul#exampledropdownDropdown.collapse.list-unstyled
-                  li
+                ul#exampledropdownDropdown(class= ((pageNo =='data_z3'||pageNo =='data_z3_eq')? "collapse list-unstyled show" : "collapse list-unstyled"))
+                  li(class=(pageNo=='data_z3'? 'active':''))
                     a(href="#") 
                       span(style="font-size: 14px")
                         i.fas.fa-user-edit
                       |   &nbsp; ข้อมูลบุคลากร
-                  li
-                    a(href="#") 
+                  li(class=(pageNo=='data_z3_eq'? 'active':''))
+                    a(href="/equipment") 
                       span(style="font-size: 14px")
                         i.fas.fa-wrench
                       |   &nbsp; ข้อมูลอุปกรณ์
@@ -108,13 +100,13 @@ html
                   span(style="font-size: 16px")
                     i.fas.fa-file-alt
                   |   &nbsp; รายงาน
-                ul#exampledropdownDropdown2(class= (pageNo =='sta_ser'? "collapse list-unstyled show" : "collapse list-unstyled"))
+                ul#exampledropdownDropdown2(class= ((pageNo =='sta_ser'||pageNo =='report_week')? "collapse list-unstyled show" : "collapse list-unstyled"))
                   li(class=(pageNo=='sta_ser'? 'active':''))
                     a(href="/station_service") 
                       span(style="font-size: 14px")
                         i.fas.fa-chart-bar
                       |   &nbsp; รายงาน Station Service
-                  li
+                  li(class=(pageNo=='report_week'? 'active':''))
                     a(href="#") 
                       span(style="font-size: 14px")
                         i.fas.fa-file-word
@@ -148,19 +140,10 @@ html
     script(src='/vendor/jquery-validation/jquery.validate.min.js')
     script(src='/js/charts-home.js')
     script(src='/js/front.js')
-    //- //calendar
-    script(src='/javascripts/fullcalendar/core/main.js')
-    script(src='/javascripts/fullcalendar/daygrid/main.js')
-    script(src='/javascripts/fullcalendar/bootstrap/main.js')
-    script(src='/javascripts/fullcalendar/interaction/main.js')
-    script(src='/javascripts/fullcalendar/timegrid/main.js')
-    script(src='/javascripts/fullcalendar/list/main.js')
-    script(src='/javascripts/fullcalendar/moment/main.js')
-    script(src='/javascripts/fullcalendar/moment-timezone/main.js')
-    script(src='/javascripts/fullcalendar/timeline/main.js')
-    script(src='/javascripts/fullcalendar/resource-common/main.js')
-    script(src='/javascripts/fullcalendar/resource-timeline/main.js')
+    script(src='/datetimePicker/jquery.datetimepicker.full.min.js')
     
+    
+
     block script
 
   

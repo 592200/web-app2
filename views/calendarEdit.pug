@@ -1,10 +1,32 @@
 extend layout
 
 block script2
+    //- //Calendar
+    link(href='/javascripts/fullcalendar/core/main.css' rel='stylesheet')
+    link(href='/javascripts/fullcalendar/daygrid/main.css' rel='stylesheet')
+    link(href='/javascripts/fullcalendar/interaction/main.css' rel='stylesheet')
+    link(href='/javascripts/fullcalendar/bootstrap/main.css' rel='stylesheet')
+    link(href='/javascripts/fullcalendar/list/main.css' rel='stylesheet')
+    link(href='/javascripts/fullcalendar/timegrid/main.css' rel='stylesheet')
+    link(href='/javascripts/fullcalendar/timeline/main.css' rel='stylesheet')
+    link(href='/javascripts/fullcalendar/resource-timeline/main.css' rel='stylesheet')
     - var pageNo = obj.page
 
 block script
-  script(src='/javascripts/mycalendarEdit.js')
+    //- //calendar
+    script(src='/javascripts/fullcalendar/core/main.js')
+    script(src='/javascripts/fullcalendar/daygrid/main.js')
+    script(src='/javascripts/fullcalendar/bootstrap/main.js')
+    script(src='/javascripts/fullcalendar/interaction/main.js')
+    script(src='/javascripts/fullcalendar/timegrid/main.js')
+    script(src='/javascripts/fullcalendar/list/main.js')
+    script(src='/javascripts/fullcalendar/moment/main.js')
+    script(src='/javascripts/fullcalendar/moment-timezone/main.js')
+    script(src='/javascripts/fullcalendar/timeline/main.js')
+    script(src='/javascripts/fullcalendar/resource-common/main.js')
+    script(src='/javascripts/fullcalendar/resource-timeline/main.js')
+
+    script(src='/javascripts/mycalendarEdit.js')
 
 block content
     .content-inner

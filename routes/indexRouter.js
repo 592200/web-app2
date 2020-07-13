@@ -6,6 +6,8 @@ var CalendarModel = require('../models/calendarsModel');
 var Meter = require('../models/meterModel');
 var MeterMonth = require('../models/meterMonthModel');
 var YearData = require('../models/yearsModel');
+var LineMessage = require('../models/lineMessageModel');
+var CBModel = require('../models/cbModel');
 
 
 /* GET home page. */
@@ -367,11 +369,64 @@ router.post('/station_service_detail/edit', function(req, res, next) {
 })
 
 
-
-router.post('/test', function(req, res, next) {
-  console.log(req.body.firstname)
-  res.render('stationService',{page : 'sta_ser'} )
+// add CBdata to lineMessage
+router.get('/addLine', function(req, res, next) {
+  
+   
+  CBModel.find().exec((err,CB_data)=>{
+    if(err) console.log(err)
+    console.log(CB_data)
+    for(let i=0;i<CB_data.length;i++){
+      var lineMessageDoc = new LineMessage(
+        {
+          id : CB_data[i].functional_location,
+          type : "text",
+          name : "info("+CB_data[i].functional_location+")",
+          message : "FL : "+CB_data[i].functional_location+"\n"+"Manufacturer : "+CB_data[i].manufacturer+"\n"+"Model No. : "+CB_data[i].model_number+"\n"+"Mechanism : "+CB_data[i].mechanical_model+"\n"+"วันที่เริ่มใช้งาน : "+CB_data[i].start_date+"\n"+"Description : "+CB_data[i].description2,
+          data : "",
+          createTime : Date.now(),
+          updateTime : Date.now(),
+          packageId : "",
+          stickerId : "",
+          originalContentUrl : "",
+          previewImageUrl : "",
+          duration : "0",
+          title : "",
+          address : "",
+          latitude : "0",
+          longitude : "0",
+          continue : "",
+          status : "Active"
+        });
+        lineMessageDoc.save((err,dataLine)=>{
+          if(err) console.log(err)
+          console.log(dataLine)
+        })
+    }
+    
+    
+     res.render('addLinePage',{ obj:
+      {
+        page : 'data_z3_eq'
+      }
+    })
+  })
 
 });
+
+// //equipment home page
+// router.get('/equipment', function(req, res, next) {
+
+//     res.render('equipment',{obj : 
+//       {
+//       page : 'data_z3_eq'
+//       }
+//     })
+
+//   })
+
+
+
+
 
 module.exports = router;

@@ -1,0 +1,104 @@
+extend layout
+
+block script2
+
+    link(rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.17.0/dist/bootstrap-table.min.css")
+    
+    - var pageNo = obj.page
+    
+block script
+    script(src="https://unpkg.com/bootstrap-table@1.17.0/dist/bootstrap-table.min.js")
+    script(src="https://unpkg.com/bootstrap-table@1.17.1/dist/bootstrap-table-locale-all.min.js")
+    
+
+        
+
+block content
+
+    .content-inner
+        header.page-header
+            .container-fluid
+                h2(style='font-family: Kanit, sans-serif').no-margin-bottom ข้อมูลอุปกรณ์
+                //- p= obj.CB_datas[0].nameOfSub[0].sub_name
+        section.dashboard-counts.no-padding-bottom
+            .container-fluid
+                .row.bg-white.has-shadow
+                    .col-12
+                        nav
+                            #pills-tab.nav.nav-pills(role="tablist")
+                                a#nav-cb-tab.nav-item.nav-link.active(data-toggle="tab" href="#nav-cb" role="tab" aria-controls="nav-cb" aria-selected="true") Circuit Breaker
+                                a#nav-ct-tab.nav-item.nav-link(data-toggle="tab" href="#nav-ct" role="tab" aria-controls="nav-ct" aria-selected="false") CT
+                                a#nav-pt-tab.nav-item.nav-link(data-toggle="tab" href="#nav-pt" role="tab" aria-controls="nav-pt" aria-selected="false") PT
+                                a#nav-ds-tab.nav-item.nav-link(data-toggle="tab" href="#nav-ds" role="tab" aria-controls="nav-ds" aria-selected="false") Disconnecting Switch
+                                a#nav-tx-tab.nav-item.nav-link(data-toggle="tab" href="#nav-tx" role="tab" aria-controls="nav-tx" aria-selected="false") Transformer
+                            hr
+                        #pills-tabContent.tab-content
+                            //- Circuit Breaker
+                            #nav-cb.tab-pane.fade.show.active(role="tabpanel" aria-labelledby="nav-cb-tab")
+                                .container-fluid.no-padding
+                                    .row.no-padding-top
+                                        .col-12
+                                            a#addCB(href="/equipment/CB/") 
+                                                button.btn.btn-success ADD
+                                            table.CB(
+                                                data-toggle="table"
+                                                data-pagination="true"
+                                                data-search="true"
+                                                data-locale="th-TH"
+                                                data-toolbar="#addCB"
+                                                data-pagination-pre-text="Previous"
+                                                data-pagination-next-text="Next"
+                                                data-pagination-h-align="left"
+                                                data-pagination-detail-h-align="right"
+                                                data-page-list="[10,20,30,40,50,All]"
+                                                
+                                                )
+                                                thead
+                                                    tr
+                                                        th(data-field="sub_name" data-sortable="true" ) Sub.
+                                                        th(data-field="FL" data-sortable="true" ) FL
+                                                        th(data-field="Manufacturer" data-sortable="true" ) Manufacturer
+                                                        th(data-field="Model" data-sortable="true" ) Model
+                                                        th(data-field="Mechanism" data-sortable="true" ) Mechanism
+                                                        th(data-field="Voltage" data-sortable="true" ) Voltage
+                                                        th(data-field="Action"  ) Action
+                                                tbody
+                                                    each CB_data in obj.CB_datas
+                                                        tr
+                                                            td= CB_data.nameOfSub[0].sub_name
+                                                            td= CB_data.functional_location
+                                                            td= CB_data.manufacturer
+                                                            td= CB_data.model_number
+                                                            td= CB_data.mechanical_model
+                                                            td= CB_data.system_voltage
+                                                            td
+                                                                span(style="font-size: 10px")
+                                                                    a(href="equipment/editCB/"+CB_data._id).btn.btn-warning.btn-sm.editCB
+                                                                        i.fas.fa-edit
+                                                                span
+                                                                span(style="font-size: 10px")
+                                                                    form(action="/equipment/deleteCB/" + CB_data._id, method="post")
+                                                                        button(type="submit").btn.btn-danger.btn-sm.deleteCB
+                                                                            i.fas.fa-trash-alt
+                                                                            
+
+
+                            #nav-ct.tab-pane.fade(role="tabpanel" aria-labelledby="nav-ct-tab")
+                                p tap2
+                            #nav-pt.tab-pane.fade(role="tabpanel" aria-labelledby="nav-pt-tab")
+                                p tap3
+                            #nav-ds.tab-pane.fade(role="tabpanel" aria-labelledby="nav-ds-tab")
+                                p tap4
+                            #nav-tx.tab-pane.fade(role="tabpanel" aria-labelledby="nav-tx-tab")
+                                p tap5
+
+
+        footer.main-footer
+            .container-fluid
+                .row
+                    .col-lg-6.col-sm-12
+                        p(style='font-family: Kanit, sans-serif') แผนกบำรุงรักษาสถานีไฟฟ้า3  กองบำรุงรักษาสถานีไฟฟ้าแรงสูง &copy; 2020
+                    .col-lg-6.col-sm-6.text-right
+                        p
+                            | Design by 
+                            a.external(href="#") Tawat Rattana

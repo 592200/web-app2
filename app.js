@@ -12,9 +12,9 @@ var loginToken = false;
 
 //mongoDB Connect
 var mongoose = require('mongoose');
-//mongoose.connect('mongodb://localhost/subzone3');
+mongoose.connect('mongodb://localhost/subzone3');
 //mongo "mongodb+srv://cluster0-fd2ni.mongodb.net/<dbname>" --username admin
-mongoose.connect("mongodb+srv://admin:pai_016903904@cluster0-fd2ni.mongodb.net/subzone3?retryWrites=true&w=majority");
+//mongoose.connect("mongodb+srv://admin:pai_016903904@cluster0-fd2ni.mongodb.net/subzone3?retryWrites=true&w=majority");
 mongoose.Promise = global.Promise;
 //editpai
 //editww
@@ -43,8 +43,10 @@ app.use(passport.session());
 //router
 var indexRouter = require('./routes/indexRouter');
 var usersRouter = require('./routes/usersRouter');
+var equipmentRouter = require('./routes/equipmentRouter');
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
+app.use('/equipment',equipmentRouter);
 
 
 
