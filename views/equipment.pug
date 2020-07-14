@@ -3,15 +3,15 @@ extend layout
 block script2
 
     link(rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.17.0/dist/bootstrap-table.min.css")
-    
+    link(rel="stylesheet" href="/table/extensions/filter-control/bootstrap-table-filter-control.min.css")
     - var pageNo = obj.page
     
 block script
     script(src="https://unpkg.com/bootstrap-table@1.17.0/dist/bootstrap-table.min.js")
     script(src="https://unpkg.com/bootstrap-table@1.17.1/dist/bootstrap-table-locale-all.min.js")
-    
-
-        
+    script(src="/table/extensions/toolbar/bootstrap-table-toolbar.min.js")
+    script(src="/table/extensions/filter-control/bootstrap-table-filter-control.min.js")
+            
 
 block content
 
@@ -21,7 +21,7 @@ block content
                 h2(style='font-family: Kanit, sans-serif').no-margin-bottom ข้อมูลอุปกรณ์
                 //- p= obj.CB_datas[0].nameOfSub[0].sub_name
         section.dashboard-counts.no-padding-bottom
-            .container-fluid
+            .container-fluid.no-padding
                 .row.bg-white.has-shadow
                     .col-12
                         nav
@@ -44,6 +44,10 @@ block content
                                                 data-toggle="table"
                                                 data-pagination="true"
                                                 data-search="true"
+                                                data-advanced-search="true"
+                                                data-id-table="advancedTable"
+                                                data-filter-control="true"
+                                                data-filter-show-clear="true"
                                                 data-locale="th-TH"
                                                 data-toolbar="#addCB"
                                                 data-pagination-pre-text="Previous"
@@ -55,13 +59,13 @@ block content
                                                 )
                                                 thead
                                                     tr
-                                                        th(data-field="sub_name" data-sortable="true" ) Sub.
-                                                        th(data-field="FL" data-sortable="true" ) FL
-                                                        th(data-field="Manufacturer" data-sortable="true" ) Manufacturer
+                                                        th(data-field="sub_name" data-sortable="true" data-filter-control="select" ) Sub.
+                                                        th(data-field="FL" data-sortable="true" data-filter-control="input") FL
+                                                        th(data-field="Manufacturer" data-sortable="true"  ) Manufacturer
                                                         th(data-field="Model" data-sortable="true" ) Model
                                                         th(data-field="Mechanism" data-sortable="true" ) Mechanism
                                                         th(data-field="Voltage" data-sortable="true" ) Voltage
-                                                        th(data-field="Action"  ) Action
+                                                        th(data-field="Action" ) Action
                                                 tbody
                                                     each CB_data in obj.CB_datas
                                                         tr
@@ -72,11 +76,11 @@ block content
                                                             td= CB_data.mechanical_model
                                                             td= CB_data.system_voltage
                                                             td
-                                                                span(style="font-size: 10px")
+                                                                span(style="font-size: 4px")
                                                                     a(href="equipment/editCB/"+CB_data._id).btn.btn-warning.btn-sm.editCB
                                                                         i.fas.fa-edit
                                                                 span
-                                                                span(style="font-size: 10px")
+                                                                span(style="font-size: 4px")
                                                                     form(action="/equipment/deleteCB/" + CB_data._id, method="post")
                                                                         button(type="submit").btn.btn-danger.btn-sm.deleteCB
                                                                             i.fas.fa-trash-alt
@@ -84,7 +88,57 @@ block content
 
 
                             #nav-ct.tab-pane.fade(role="tabpanel" aria-labelledby="nav-ct-tab")
-                                p tap2
+                                .container-fluid.no-padding
+                                    .row.no-padding-top
+                                        .col-12
+                                            a#addCT(href="/equipment/CB/") 
+                                                button.btn.btn-success ADD
+                                            table.CT(
+                                                data-toggle="table"
+                                                data-pagination="true"
+                                                data-search="true"
+                                                data-advanced-search="true"
+                                                data-id-table="advancedTable"
+                                                data-filter-control="true"
+                                                data-filter-show-clear="true"
+                                                data-locale="th-TH"
+                                                data-toolbar="#addCT"
+                                                data-pagination-pre-text="Previous"
+                                                data-pagination-next-text="Next"
+                                                data-pagination-h-align="left"
+                                                data-pagination-detail-h-align="right"
+                                                data-page-list="[10,20,30,40,50,All]"
+                                                
+                                                )
+                                                thead
+                                                    tr
+                                                        th(data-field="sub_name" data-sortable="true" data-filter-control="select" ) Sub.
+                                                        th(data-field="FL" data-sortable="true" data-filter-control="input") FL
+                                                        th(data-field="Phase" data-sortable="true" ) Phase
+                                                        th(data-field="Manufacturer" data-sortable="true"  ) Manufacturer
+                                                        th(data-field="Model" data-sortable="true" ) Model
+                                                        th(data-field="Ratio" data-sortable="true" ) Ratio
+                                                        th(data-field="Voltage" data-sortable="true" ) Voltage
+                                                        th(data-field="Action" ) Action
+                                                tbody
+                                                    each CT_data in obj.CT_datas
+                                                        tr
+                                                            td= CT_data.nameOfSub[0].sub_name
+                                                            td= CT_data.functional_location
+                                                            td= CT_data.phase_position
+                                                            td= CT_data.manufacturer
+                                                            td= CT_data.model_number
+                                                            td= CT_data.current_ratio
+                                                            td= CT_data.system_voltage
+                                                            td
+                                                                span(style="font-size: 4px")
+                                                                    a(href="#").btn.btn-warning.btn-sm.editCT
+                                                                        i.fas.fa-edit
+                                                                span
+                                                                span(style="font-size: 4px")
+                                                                    form(action="#" method="post")
+                                                                        button(type="submit").btn.btn-danger.btn-sm.deleteCT
+                                                                            i.fas.fa-trash-alt
                             #nav-pt.tab-pane.fade(role="tabpanel" aria-labelledby="nav-pt-tab")
                                 p tap3
                             #nav-ds.tab-pane.fade(role="tabpanel" aria-labelledby="nav-ds-tab")

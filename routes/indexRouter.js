@@ -8,6 +8,7 @@ var MeterMonth = require('../models/meterMonthModel');
 var YearData = require('../models/yearsModel');
 var LineMessage = require('../models/lineMessageModel');
 var CBModel = require('../models/cbModel');
+var CTModel = require('../models/ctModel');
 
 
 /* GET home page. */
@@ -414,16 +415,50 @@ router.get('/addLine', function(req, res, next) {
 
 });
 
-// //equipment home page
-// router.get('/equipment', function(req, res, next) {
+// add CTdata to lineMessage
+router.get('/addLineCT', function(req, res, next) {
+  
+   
+  CTModel.find().exec((err,CT_data)=>{
+    if(err) console.log(err)
+    console.log(CT_data)
+    for(let i=0;i<CT_data.length;i++){
+      var lineMessageDoc = new LineMessage(
+        {
+          id : CT_data[i]._id,
+          type : "text",
+          name : "info("+CT_data[i].functional_location+")",
+          message : "FL : "+CT_data[i].functional_location+"\n"+"Manufacturer : "+CT_data[i].manufacturer+"\n"+"Model No. : "+CT_data[i].model_number+"\n"+"Ratio : "+CT_data[i].current_ratio+"\n"+"วันที่เริ่มใช้งาน : "+CT_data[i].start_date+"\n"+"Description : "+CT_data[i].description2+"\n"+"Core : "+CT_data[i].core,
+          data : "",
+          createTime : Date.now(),
+          updateTime : Date.now(),
+          packageId : "",
+          stickerId : "",
+          originalContentUrl : "",
+          previewImageUrl : "",
+          duration : "0",
+          title : "",
+          address : "",
+          latitude : "0",
+          longitude : "0",
+          continue : "",
+          status : "Active"
+        });
+        lineMessageDoc.save((err,dataLine)=>{
+          if(err) console.log(err)
+          console.log(dataLine)
+        })
+    }
+    
+    
+     res.render('addLinePage',{ obj:
+      {
+        page : 'data_z3_eq'
+      }
+    })
+  })
 
-//     res.render('equipment',{obj : 
-//       {
-//       page : 'data_z3_eq'
-//       }
-//     })
-
-//   })
+});
 
 
 
