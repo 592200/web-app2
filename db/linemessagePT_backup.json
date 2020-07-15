@@ -1,0 +1,6238 @@
+[{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951881"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd24",
+  "type": "text",
+  "name": "info(BLG-VW1A)",
+  "message": "FL : BLG-VW1A\nManufacturer : NISSIN\nModel No. : FIE-30E\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1977\nDescription : CT, RELAYING 33KV 1250<A≤1600\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.697Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.697Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951882"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd25",
+  "type": "text",
+  "name": "info(BLG-VW1A)",
+  "message": "FL : BLG-VW1A\nManufacturer : NISSIN\nModel No. : FIE-30E\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1977\nDescription : CT, RELAYING 33KV 1250<A≤1600\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.699Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.699Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951880"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd23",
+  "type": "text",
+  "name": "info(BLG-VW1A)",
+  "message": "FL : BLG-VW1A\nManufacturer : NISSIN\nModel No. : FIE-30E\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1977\nDescription : CT, RELAYING 33KV 1250<A≤1600\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.693Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.693Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951883"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd26",
+  "type": "text",
+  "name": "info(BLG-VW3A)",
+  "message": "FL : BLG-VW3A\nManufacturer : Precise\nModel No. : VOG-36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 1/1/2012\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.699Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.699Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951884"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd27",
+  "type": "text",
+  "name": "info(BLG-VY2AA)",
+  "message": "FL : BLG-VY2AA\nManufacturer : RITZ\nModel No. : OTCF-123.SR\nRatio : \nวันที่เริ่มใช้งาน : 15/10/2004\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.700Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.700Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951885"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd28",
+  "type": "text",
+  "name": "info(BLG-VY3AA)",
+  "message": "FL : BLG-VY3AA\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 11/9/2015\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.700Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.700Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951886"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd29",
+  "type": "text",
+  "name": "info(BLG-VY3AA)",
+  "message": "FL : BLG-VY3AA\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 13/9/2015\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.701Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.701Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951887"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd2a",
+  "type": "text",
+  "name": "info(BLG-VY3AA)",
+  "message": "FL : BLG-VY3AA\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 1/6/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.702Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.702Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951888"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd2b",
+  "type": "text",
+  "name": "info(HY1-VW1A)",
+  "message": "FL : HY1-VW1A\nManufacturer : ABB\nModel No. : EMFC36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 1/1/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.704Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.704Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951889"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd2c",
+  "type": "text",
+  "name": "info(HY1-VW1A)",
+  "message": "FL : HY1-VW1A\nManufacturer : ABB\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 9/6/2000\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.707Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.707Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695188a"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd2d",
+  "type": "text",
+  "name": "info(HY1-VW1A)",
+  "message": "FL : HY1-VW1A\nManufacturer : GENNERAL GE\nModel No. : ES200Y\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 9/6/2000\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.709Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.709Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695188b"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd2e",
+  "type": "text",
+  "name": "info(HY1-VY2A)",
+  "message": "FL : HY1-VY2A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.711Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.711Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695188c"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd2f",
+  "type": "text",
+  "name": "info(HY1-VY3A)",
+  "message": "FL : HY1-VY3A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.712Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.712Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695188d"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd30",
+  "type": "text",
+  "name": "info(HY1-VY3A)",
+  "message": "FL : HY1-VY3A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.712Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.712Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695188e"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd31",
+  "type": "text",
+  "name": "info(HY1-VY3A)",
+  "message": "FL : HY1-VY3A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.713Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.713Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695188f"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd32",
+  "type": "text",
+  "name": "info(HY1-VY4A)",
+  "message": "FL : HY1-VY4A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.714Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.714Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951890"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd33",
+  "type": "text",
+  "name": "info(HY1-VY4A)",
+  "message": "FL : HY1-VY4A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.715Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.715Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951891"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd34",
+  "type": "text",
+  "name": "info(HY1-VY4A)",
+  "message": "FL : HY1-VY4A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.716Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.716Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951892"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd35",
+  "type": "text",
+  "name": "info(HY1-VY5A)",
+  "message": "FL : HY1-VY5A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.717Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.717Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951893"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd36",
+  "type": "text",
+  "name": "info(HY1-VY5A)",
+  "message": "FL : HY1-VY5A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.719Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.719Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951894"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd37",
+  "type": "text",
+  "name": "info(HY1-VY5A)",
+  "message": "FL : HY1-VY5A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.720Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.720Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951895"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd38",
+  "type": "text",
+  "name": "info(HY1-VY6A)",
+  "message": "FL : HY1-VY6A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.720Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.720Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951896"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd39",
+  "type": "text",
+  "name": "info(HY1-VY8A)",
+  "message": "FL : HY1-VY8A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.721Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.721Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951897"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd3a",
+  "type": "text",
+  "name": "info(HY1-VY8A)",
+  "message": "FL : HY1-VY8A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.723Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.723Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951898"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd3b",
+  "type": "text",
+  "name": "info(HY1-VY8A)",
+  "message": "FL : HY1-VY8A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.724Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.724Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951899"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd3c",
+  "type": "text",
+  "name": "info(HY1-VY9A)",
+  "message": "FL : HY1-VY9A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.724Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.724Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695189a"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd3d",
+  "type": "text",
+  "name": "info(HY1-VY9A)",
+  "message": "FL : HY1-VY9A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.725Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.725Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695189b"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd3e",
+  "type": "text",
+  "name": "info(HY1-VY9A)",
+  "message": "FL : HY1-VY9A\nManufacturer : Trench  Italia\nModel No. : TCVT123\nRatio : 11500:115-66.4\nวันที่เริ่มใช้งาน : 24/4/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : 56",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.726Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.726Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695189c"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd3f",
+  "type": "text",
+  "name": "info(HY2-VW1A)",
+  "message": "FL : HY2-VW1A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 9/12/1999\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.726Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.726Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695189d"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd40",
+  "type": "text",
+  "name": "info(HY2-VW1A)",
+  "message": "FL : HY2-VW1A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 9/12/1999\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.727Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.727Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695189e"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd41",
+  "type": "text",
+  "name": "info(HY2-VW1A)",
+  "message": "FL : HY2-VW1A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 9/12/1999\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.728Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.728Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695189f"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd42",
+  "type": "text",
+  "name": "info(HY2-VW2A)",
+  "message": "FL : HY2-VW2A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 23/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.729Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.729Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a0"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd43",
+  "type": "text",
+  "name": "info(HY2-VW2A)",
+  "message": "FL : HY2-VW2A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 23/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.730Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.730Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a1"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd44",
+  "type": "text",
+  "name": "info(HY2-VW2A)",
+  "message": "FL : HY2-VW2A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 23/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.731Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.731Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a2"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd45",
+  "type": "text",
+  "name": "info(HY2-VY11A)",
+  "message": "FL : HY2-VY11A\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/1/1985\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.735Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.735Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a3"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd46",
+  "type": "text",
+  "name": "info(HY2-VY12A)",
+  "message": "FL : HY2-VY12A\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 95\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.735Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.735Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a4"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd47",
+  "type": "text",
+  "name": "info(HY2-VY13A)",
+  "message": "FL : HY2-VY13A\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/C 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 83\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.736Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.736Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a5"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd48",
+  "type": "text",
+  "name": "info(HY2-VY13B)",
+  "message": "FL : HY2-VY13B\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 1/10/1992\nDescription : CVT, W/O 115KV VA>500\nCore : 2\nTotal Cap. : 84\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.737Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.737Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a6"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd49",
+  "type": "text",
+  "name": "info(HY2-VY13B)",
+  "message": "FL : HY2-VY13B\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 1/10/1992\nDescription : CVT, W/O 115KV VA>500\nCore : 2\nTotal Cap. : 83\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.742Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.742Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a7"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd4a",
+  "type": "text",
+  "name": "info(HY2-VY13B)",
+  "message": "FL : HY2-VY13B\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : \nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.742Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.742Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a8"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd4b",
+  "type": "text",
+  "name": "info(HY2-VY14A)",
+  "message": "FL : HY2-VY14A\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 600/1000/577/1000:1\nวันที่เริ่มใช้งาน : 25/5/1991\nDescription : CVT, W/C 115KV 150<VA≤300\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.743Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.743Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518a9"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd4c",
+  "type": "text",
+  "name": "info(HY2-VY15B)",
+  "message": "FL : HY2-VY15B\nManufacturer : RITZ\nModel No. : OTCF-123.SR\nRatio : 69:119.5/69\nวันที่เริ่มใช้งาน : \nDescription : 115kV CVT 69000:119.5/69V 2 wdg PD 700J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.744Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.744Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518aa"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd4d",
+  "type": "text",
+  "name": "info(HY2-VY15B)",
+  "message": "FL : HY2-VY15B\nManufacturer : RITZ\nModel No. : OTCF-123.SR\nRatio : 69:119.5/69\nวันที่เริ่มใช้งาน : \nDescription : 115kV CVT 69000:119.5/69V 2 wdg PD 700J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.745Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.745Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ab"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd4e",
+  "type": "text",
+  "name": "info(HY2-VY15B)",
+  "message": "FL : HY2-VY15B\nManufacturer : RITZ\nModel No. : OTCF-123.SR\nRatio : 69:119.5/69\nวันที่เริ่มใช้งาน : \nDescription : 115kV CVT 69000:119.5/69V 2 wdg PD 700J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.745Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.745Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ac"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd4f",
+  "type": "text",
+  "name": "info(HY2-VY16A)",
+  "message": "FL : HY2-VY16A\nManufacturer : TRENCH ELECTRIC\nModel No. : TEV115H\nRatio : 577/1000/577/1000:1\nวันที่เริ่มใช้งาน : 5/11/1999\nDescription : CVT, W/C 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 6\nC1 Cap. : 6\nC2 Cap. : 78",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.746Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.746Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ad"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd50",
+  "type": "text",
+  "name": "info(HY2-VY19A)",
+  "message": "FL : HY2-VY19A\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 84\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.747Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.747Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ae"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd51",
+  "type": "text",
+  "name": "info(HY2-VY19A)",
+  "message": "FL : HY2-VY19A\nManufacturer : HAEFELY\nModel No. : TEVF115\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 2/6/2000\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.750Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.750Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518af"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd52",
+  "type": "text",
+  "name": "info(HY2-VY19A)",
+  "message": "FL : HY2-VY19A\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 84\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.763Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.763Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b0"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd53",
+  "type": "text",
+  "name": "info(HY2-VY2A)",
+  "message": "FL : HY2-VY2A\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 17/9/1986\nDescription : CVT, W/C 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.765Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.765Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b1"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd54",
+  "type": "text",
+  "name": "info(HY2-VY3A)",
+  "message": "FL : HY2-VY3A\nManufacturer : TRENCH\nModel No. : TEVF115H\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 19/5/2005\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 83\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.766Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.766Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b2"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd55",
+  "type": "text",
+  "name": "info(HY2-VY3B)",
+  "message": "FL : HY2-VY3B\nManufacturer : TRENCH\nModel No. : TEVF115H\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 19/5/2005\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 87\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.767Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.767Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b3"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd56",
+  "type": "text",
+  "name": "info(HY2-VY4B)",
+  "message": "FL : HY2-VY4B\nManufacturer : HAEFELY TRENCH\nModel No. : CVE123\nRatio : 119.58/69 V\nวันที่เริ่มใช้งาน : 28/6/2003\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 42\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.768Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.768Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b4"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd57",
+  "type": "text",
+  "name": "info(HY2-VY6A)",
+  "message": "FL : HY2-VY6A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 21/1/1998\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 77\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.769Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.769Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b5"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd58",
+  "type": "text",
+  "name": "info(HY2-VY7A)",
+  "message": "FL : HY2-VY7A\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 84\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.770Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.770Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b6"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd59",
+  "type": "text",
+  "name": "info(HY2-VY8A)",
+  "message": "FL : HY2-VY8A\nManufacturer : trench\nModel No. : TCVT145\nRatio : 69000:69\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 6\nC1 Cap. : 6\nC2 Cap. : 69",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.771Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.771Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b7"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd5a",
+  "type": "text",
+  "name": "info(HY2-VY8B)",
+  "message": "FL : HY2-VY8B\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : 119.5/69 VAC\nวันที่เริ่มใช้งาน : 27/6/2015\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.772Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.772Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b8"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd5b",
+  "type": "text",
+  "name": "info(HY2-VY8B)",
+  "message": "FL : HY2-VY8B\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 27/6/2015\nDescription : \nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.773Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.773Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518b9"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd5c",
+  "type": "text",
+  "name": "info(HY2-VZ11A)",
+  "message": "FL : HY2-VZ11A\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.774Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.774Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ba"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd5d",
+  "type": "text",
+  "name": "info(HY2-VZ11A)",
+  "message": "FL : HY2-VZ11A\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.775Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.775Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518bb"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd5e",
+  "type": "text",
+  "name": "info(HY2-VZ11A)",
+  "message": "FL : HY2-VZ11A\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.776Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.776Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518bc"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd5f",
+  "type": "text",
+  "name": "info(HY2-VZ12A)",
+  "message": "FL : HY2-VZ12A\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.777Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.777Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518bd"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd60",
+  "type": "text",
+  "name": "info(HY2-VZ12A)",
+  "message": "FL : HY2-VZ12A\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.778Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.778Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518be"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd61",
+  "type": "text",
+  "name": "info(HY2-VZ12A)",
+  "message": "FL : HY2-VZ12A\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.779Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.779Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518bf"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd62",
+  "type": "text",
+  "name": "info(HY2-VZ1A)",
+  "message": "FL : HY2-VZ1A\nManufacturer : TRENCH\nModel No. : TEV230\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 27/8/1993\nDescription : CVT, W/O 230KV 150<VA≤300\nCore : 2\nTotal Cap. : 83\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.782Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.782Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c0"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd63",
+  "type": "text",
+  "name": "info(HY2-VZ2B)",
+  "message": "FL : HY2-VZ2B\nManufacturer : TOSHIBA\nModel No. : VZR-AM200AL\nRatio : 115/66.4 V\nวันที่เริ่มใช้งาน : 22/1/1989\nDescription : CVT, W/O 230KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.783Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.783Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c1"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd64",
+  "type": "text",
+  "name": "info(HY2-VZ2B)",
+  "message": "FL : HY2-VZ2B\nManufacturer : TOSHIBA\nModel No. : VZR-AM200AL\nRatio : 115/66.4 V\nวันที่เริ่มใช้งาน : 22/1/1989\nDescription : CVT, W/O 230KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.784Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.784Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c2"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd65",
+  "type": "text",
+  "name": "info(HY2-VZ2B)",
+  "message": "FL : HY2-VZ2B\nManufacturer : TOSHIBA\nModel No. : VZR-AM200AL\nRatio : 115/66.4 V\nวันที่เริ่มใช้งาน : 22/1/1989\nDescription : CVT, W/O 230KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.785Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.785Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c3"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd66",
+  "type": "text",
+  "name": "info(HY2-VZ3A)",
+  "message": "FL : HY2-VZ3A\nManufacturer : TRENCH ELECTRIC\nModel No. : TEV230\nRatio : 1155/2000,1155/2000:1\nวันที่เริ่มใช้งาน : 23/11/1992\nDescription : CVT, W/O 230KV 150<VA≤300\nCore : 2\nTotal Cap. : 3\nC1 Cap. : 3\nC2 Cap. : 83",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.785Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.785Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c4"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd67",
+  "type": "text",
+  "name": "info(HY2-VZ3A)",
+  "message": "FL : HY2-VZ3A\nManufacturer : TRENCH\nModel No. : TEV230\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 23/7/1993\nDescription : CVT, W/O 230KV 150<VA≤300\nCore : 2\nTotal Cap. : 82\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.786Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.786Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c5"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd68",
+  "type": "text",
+  "name": "info(HY2-VZ3A)",
+  "message": "FL : HY2-VZ3A\nManufacturer : TRENCH\nModel No. : TEV230\nRatio : \nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 230KV 150<VA≤300\nCore : 2\nTotal Cap. : 3\nC1 Cap. : 3\nC2 Cap. : 80",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.787Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.787Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c6"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd69",
+  "type": "text",
+  "name": "info(HY2-VZ4A)",
+  "message": "FL : HY2-VZ4A\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 28/9/2008\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 74\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.791Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.791Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c7"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd6a",
+  "type": "text",
+  "name": "info(HY2-VZ6A)",
+  "message": "FL : HY2-VZ6A\nManufacturer : TRENCH\nModel No. : TEV230\nRatio : \nวันที่เริ่มใช้งาน : 1/1/1992\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : \nTotal Cap. : 3\nC1 Cap. : 3\nC2 Cap. : 82",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.792Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.792Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c8"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd6b",
+  "type": "text",
+  "name": "info(HY2-VZ6A)",
+  "message": "FL : HY2-VZ6A\nManufacturer : TRENCH ELECTRIC\nModel No. : TEV230\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 230KV 150<VA≤300\nCore : 2\nTotal Cap. : 3\nC1 Cap. : 3\nC2 Cap. : 81",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.792Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.792Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518c9"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd6c",
+  "type": "text",
+  "name": "info(HY2-VZ6A)",
+  "message": "FL : HY2-VZ6A\nManufacturer : TRENCH\nModel No. : TEV230\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 3\nC1 Cap. : 3\nC2 Cap. : 85",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.793Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.793Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ca"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd6d",
+  "type": "text",
+  "name": "info(HY2-VZ6B)",
+  "message": "FL : HY2-VZ6B\nManufacturer : TRENCH\nModel No. : TEVF230H\nRatio : 138:119.5/69\nวันที่เริ่มใช้งาน : 18/7/2010\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 3\nC1 Cap. : 7\nC2 Cap. : 86",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.793Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.793Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518cb"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd6e",
+  "type": "text",
+  "name": "info(HY2-VZ6B)",
+  "message": "FL : HY2-VZ6B\nManufacturer : TRENCH\nModel No. : TEVF230H\nRatio : 138:119.5/69\nวันที่เริ่มใช้งาน : 18/7/2010\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 3\nC1 Cap. : 3\nC2 Cap. : 85",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.793Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.793Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518cc"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd6f",
+  "type": "text",
+  "name": "info(HY2-VZ6B)",
+  "message": "FL : HY2-VZ6B\nManufacturer : TRENCH\nModel No. : TEVF230H\nRatio : 138:119.5/69\nวันที่เริ่มใช้งาน : 18/7/2010\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 3\nC1 Cap. : 3\nC2 Cap. : 86",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.794Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.794Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518cd"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd70",
+  "type": "text",
+  "name": "info(NW-CY3A)",
+  "message": "FL : NW-CY3A\nManufacturer : TRENCH\nModel No. : TECF115\nRatio : \nวันที่เริ่มใช้งาน : 16/7/1995\nDescription : CVT, CC 115KV 0<VA≤12.5\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.794Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.794Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ce"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd71",
+  "type": "text",
+  "name": "info(NW-CY3A)",
+  "message": "FL : NW-CY3A\nManufacturer : HAEFELY TRENCH\nModel No. : \nRatio : \nวันที่เริ่มใช้งาน : 16/7/1995\nDescription : CVT, CC 115KV 0<VA≤12.5\nCore : \nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.794Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.794Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518cf"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd72",
+  "type": "text",
+  "name": "info(NW-VW1A)",
+  "message": "FL : NW-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 21/6/2017\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.795Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.795Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d0"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd73",
+  "type": "text",
+  "name": "info(NW-VW1A)",
+  "message": "FL : NW-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 21/6/2017\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.795Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.795Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d1"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd74",
+  "type": "text",
+  "name": "info(NW-VW1A)",
+  "message": "FL : NW-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 21/6/2017\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.795Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.795Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d2"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd75",
+  "type": "text",
+  "name": "info(NW-VW3A)",
+  "message": "FL : NW-VW3A\nManufacturer : PRECISEE ELECTRI\nModel No. : VOG-36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 20/5/2002\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.796Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.796Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d3"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd76",
+  "type": "text",
+  "name": "info(NW-VW3A)",
+  "message": "FL : NW-VW3A\nManufacturer : PRECISEE ELECTRI\nModel No. : VOG-36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 20/5/2002\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.796Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.796Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d4"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd77",
+  "type": "text",
+  "name": "info(NW-VW3A)",
+  "message": "FL : NW-VW3A\nManufacturer : PRECISEE ELECTRI\nModel No. : VOG-36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 20/5/2002\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.797Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.797Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d5"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd78",
+  "type": "text",
+  "name": "info(NW-VY2B)",
+  "message": "FL : NW-VY2B\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.798Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.798Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d6"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd79",
+  "type": "text",
+  "name": "info(NW-VY2B)",
+  "message": "FL : NW-VY2B\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.799Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.799Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d7"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd7a",
+  "type": "text",
+  "name": "info(NW-VY3A)",
+  "message": "FL : NW-VY3A\nManufacturer : TRENCH ELECTRIC\nModel No. : TEVF115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 16/7/1995\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 82\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.800Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.800Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d8"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd7b",
+  "type": "text",
+  "name": "info(NW-VY4A)",
+  "message": "FL : NW-VY4A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 30/4/2015\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.802Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.802Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518d9"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd7c",
+  "type": "text",
+  "name": "info(NW-VY7A)",
+  "message": "FL : NW-VY7A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 577-1000\nวันที่เริ่มใช้งาน : 23/8/2000\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.802Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.802Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518da"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd7d",
+  "type": "text",
+  "name": "info(PTN-CY5A)",
+  "message": "FL : PTN-CY5A\nManufacturer : TRENCH ELECTRIC\nModel No. : TEC115\nRatio : \nวันที่เริ่มใช้งาน : 11/12/1992\nDescription : CVT, CC 115KV 0<VA≤12.5\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.803Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.803Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518db"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd7e",
+  "type": "text",
+  "name": "info(PTN-CY7A)",
+  "message": "FL : PTN-CY7A\nManufacturer : TRENCH\nModel No. : TEC115\nRatio : \nวันที่เริ่มใช้งาน : 1/10/1992\nDescription : CVT, CC 115KV 0<VA≤12.5\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.804Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.804Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518dc"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd7f",
+  "type": "text",
+  "name": "info(PTN-CY8A)",
+  "message": "FL : PTN-CY8A\nManufacturer : TRENCH ELECTRIC\nModel No. : CVE123\nRatio : \nวันที่เริ่มใช้งาน : 27/1/1995\nDescription : CVT, CC 115KV 0<VA≤12.5\nCore : \nTotal Cap. : undefined\nC1 Cap. : 6\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.804Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.804Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518dd"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd80",
+  "type": "text",
+  "name": "info(PTN-VW1A)",
+  "message": "FL : PTN-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 21/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.805Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.805Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518de"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd81",
+  "type": "text",
+  "name": "info(PTN-VW1A)",
+  "message": "FL : PTN-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 21/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.806Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.806Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518df"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd82",
+  "type": "text",
+  "name": "info(PTN-VW1A)",
+  "message": "FL : PTN-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 21/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.807Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.807Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e0"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd83",
+  "type": "text",
+  "name": "info(PTN-VW2A)",
+  "message": "FL : PTN-VW2A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 22/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.807Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.807Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e1"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd84",
+  "type": "text",
+  "name": "info(PTN-VW2A)",
+  "message": "FL : PTN-VW2A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 22/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.808Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.808Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e2"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd85",
+  "type": "text",
+  "name": "info(PTN-VW2A)",
+  "message": "FL : PTN-VW2A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 22/6/2017\nDescription : VT, PT METERING 33KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.809Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.809Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e3"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd86",
+  "type": "text",
+  "name": "info(PTN-VY1A)",
+  "message": "FL : PTN-VY1A\nManufacturer : ARTECHE\nModel No. : DDB-123\nRatio : 6900/119.5/69\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.809Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.809Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e4"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd87",
+  "type": "text",
+  "name": "info(PTN-VY1A)",
+  "message": "FL : PTN-VY1A\nManufacturer : ARTECHE\nModel No. : DDB-123\nRatio : 6900/119.5/69\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.811Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.811Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e5"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd88",
+  "type": "text",
+  "name": "info(PTN-VY1A)",
+  "message": "FL : PTN-VY1A\nManufacturer : ARTECHE\nModel No. : DDB-123\nRatio : 6900/119.5/69\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.812Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.812Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e6"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd89",
+  "type": "text",
+  "name": "info(PTN-VY5A)",
+  "message": "FL : PTN-VY5A\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/C 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 7\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.813Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.813Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e7"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd8a",
+  "type": "text",
+  "name": "info(PTN-VY7A)",
+  "message": "FL : PTN-VY7A\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 84\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.813Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.813Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e8"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd8b",
+  "type": "text",
+  "name": "info(PTN-VY7B)",
+  "message": "FL : PTN-VY7B\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 79\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.814Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.814Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518e9"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd8c",
+  "type": "text",
+  "name": "info(PTN-VY7B)",
+  "message": "FL : PTN-VY7B\nManufacturer : TRENCH ELECTRIC\nModel No. : TEV115\nRatio : 577/1000:1\nวันที่เริ่มใช้งาน : 11/12/1992\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 83\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.814Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.814Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ea"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd8d",
+  "type": "text",
+  "name": "info(PTN-VY7B)",
+  "message": "FL : PTN-VY7B\nManufacturer : TRENCH\nModel No. : TEVF115\nRatio : 119.5/69 V\nวันที่เริ่มใช้งาน : 15/8/1996\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 86\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.814Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.814Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518eb"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd8e",
+  "type": "text",
+  "name": "info(PTN-VY8A)",
+  "message": "FL : PTN-VY8A\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 1/10/1992\nDescription : CVT, W/O 115KV VA>500\nCore : 2\nTotal Cap. : 83\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.815Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.815Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ec"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd8f",
+  "type": "text",
+  "name": "info(SKL-VW1A)",
+  "message": "FL : SKL-VW1A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1984\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.815Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.815Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ed"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd90",
+  "type": "text",
+  "name": "info(SKL-VW1A)",
+  "message": "FL : SKL-VW1A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1984\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.816Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.816Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ee"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd91",
+  "type": "text",
+  "name": "info(SKL-VW1A)",
+  "message": "FL : SKL-VW1A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1984\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.816Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.816Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ef"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd92",
+  "type": "text",
+  "name": "info(SKL-VW2A)",
+  "message": "FL : SKL-VW2A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1984\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.817Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.817Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f0"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd93",
+  "type": "text",
+  "name": "info(SKL-VW2A)",
+  "message": "FL : SKL-VW2A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1984\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.817Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.817Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f1"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd94",
+  "type": "text",
+  "name": "info(SKL-VW2A)",
+  "message": "FL : SKL-VW2A\nManufacturer : ASEA\nModel No. : EMFC36\nRatio : 300:01:00\nวันที่เริ่มใช้งาน : 1/1/1984\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.818Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.818Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f2"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd95",
+  "type": "text",
+  "name": "info(SKL-VW3A)",
+  "message": "FL : SKL-VW3A\nManufacturer : ABB\nModel No. : EMFC 36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 1/1/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.818Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.818Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f3"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd96",
+  "type": "text",
+  "name": "info(SKL-VW3A)",
+  "message": "FL : SKL-VW3A\nManufacturer : ABB\nModel No. : EMFC 36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 1/1/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.819Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.819Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f4"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd97",
+  "type": "text",
+  "name": "info(SKL-VW3A)",
+  "message": "FL : SKL-VW3A\nManufacturer : ABB\nModel No. : EMFC 36\nRatio : 300:1\nวันที่เริ่มใช้งาน : \nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.820Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.820Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f5"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd98",
+  "type": "text",
+  "name": "info(SKL-VY1A)",
+  "message": "FL : SKL-VY1A\nManufacturer : RITZ\nModel No. : OTCF-123.SM\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 17/9/2008\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 92\nC1 Cap. : 10\nC2 Cap. : 11",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.821Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.821Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f6"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd99",
+  "type": "text",
+  "name": "info(SKL-VY1A)",
+  "message": "FL : SKL-VY1A\nManufacturer : RITZ\nModel No. : OTCF-123.SM\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 17/9/2008\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 94\nC1 Cap. : 10\nC2 Cap. : 11",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.822Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.822Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f7"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd9a",
+  "type": "text",
+  "name": "info(SKL-VY1A)",
+  "message": "FL : SKL-VY1A\nManufacturer : RITZ\nModel No. : OTCF-123.SM\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 17/9/2008\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 91\nC1 Cap. : 10\nC2 Cap. : 11",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.823Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.823Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f8"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd9b",
+  "type": "text",
+  "name": "info(SKL-VY4A)",
+  "message": "FL : SKL-VY4A\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 1/1/1985\nDescription : CVT, W/C 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 77\nC1 Cap. : 6\nC2 Cap. : 6",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.823Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.823Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518f9"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd9c",
+  "type": "text",
+  "name": "info(SKL-VY6A)",
+  "message": "FL : SKL-VY6A\nManufacturer : TRENCH\nModel No. : TEV115\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 1/1/1985\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : 6\nC1 Cap. : 6\nC2 Cap. : 76",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.824Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.824Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518fa"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd9d",
+  "type": "text",
+  "name": "info(SKL-VY6B)",
+  "message": "FL : SKL-VY6B\nManufacturer : NISSIN\nModel No. : AM123-450NL\nRatio : 577/1000:1\nวันที่เริ่มใช้งาน : 21/2/1986\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.825Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.825Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518fb"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd9e",
+  "type": "text",
+  "name": "info(SKL-VY6B)",
+  "message": "FL : SKL-VY6B\nManufacturer : NISSIN\nModel No. : AM123-450NL\nRatio : 577/1000:1\nวันที่เริ่มใช้งาน : 21/2/1986\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.825Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.825Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518fc"
+  },
+  "id": "5f0e8d6bd9854c4787c3fd9f",
+  "type": "text",
+  "name": "info(SKL-VY6B)",
+  "message": "FL : SKL-VY6B\nManufacturer : NISSIN\nModel No. : AM123-450NL\nRatio : 577/1000:1\nวันที่เริ่มใช้งาน : 21/2/1986\nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.826Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.826Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518fd"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda0",
+  "type": "text",
+  "name": "info(SKL2-VZ1B)",
+  "message": "FL : SKL2-VZ1B\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 74\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.829Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.829Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518fe"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda1",
+  "type": "text",
+  "name": "info(SKL2-VZ1B)",
+  "message": "FL : SKL2-VZ1B\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 74\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.831Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.831Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f69518ff"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda2",
+  "type": "text",
+  "name": "info(SKL2-VZ1B)",
+  "message": "FL : SKL2-VZ1B\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.832Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.832Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951900"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda3",
+  "type": "text",
+  "name": "info(SKL2-VZ2A)",
+  "message": "FL : SKL2-VZ2A\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 75\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.832Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.832Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951901"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda4",
+  "type": "text",
+  "name": "info(SKL2-VZ2B)",
+  "message": "FL : SKL2-VZ2B\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 77\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.833Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.833Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951902"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda5",
+  "type": "text",
+  "name": "info(SKL2-VZ2B)",
+  "message": "FL : SKL2-VZ2B\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 75\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.833Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.833Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951903"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda6",
+  "type": "text",
+  "name": "info(SKL2-VZ2B)",
+  "message": "FL : SKL2-VZ2B\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.834Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.834Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951904"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda7",
+  "type": "text",
+  "name": "info(SKL2-VZ2C)",
+  "message": "FL : SKL2-VZ2C\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.834Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.834Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951905"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda8",
+  "type": "text",
+  "name": "info(SKL2-VZ2C)",
+  "message": "FL : SKL2-VZ2C\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 74\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.834Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.834Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951906"
+  },
+  "id": "5f0e8d6bd9854c4787c3fda9",
+  "type": "text",
+  "name": "info(SKL2-VZ2C)",
+  "message": "FL : SKL2-VZ2C\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 75\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.835Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.835Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951907"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdaa",
+  "type": "text",
+  "name": "info(SKL2-VZ2D)",
+  "message": "FL : SKL2-VZ2D\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 76\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.835Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.835Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951908"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdab",
+  "type": "text",
+  "name": "info(SKL2-VZ2D)",
+  "message": "FL : SKL2-VZ2D\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 75\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.836Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.836Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951909"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdac",
+  "type": "text",
+  "name": "info(SKL2-VZ2D)",
+  "message": "FL : SKL2-VZ2D\nManufacturer : RITZ\nModel No. : OTCF-245.SR\nRatio : 119.5/69\nวันที่เริ่มใช้งาน : 19/9/2007\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 73\nC1 Cap. : 3\nC2 Cap. : 3",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.836Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.836Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695190a"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdad",
+  "type": "text",
+  "name": "info(SKL2-VZ3B)",
+  "message": "FL : SKL2-VZ3B\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCP-245-SR\nRatio : 119.5 , 69\nวันที่เริ่มใช้งาน : 13/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD8W0J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.836Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.836Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695190b"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdae",
+  "type": "text",
+  "name": "info(SKL2-VZ3B)",
+  "message": "FL : SKL2-VZ3B\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCP-245-SR\nRatio : 119.5 , 69\nวันที่เริ่มใช้งาน : 13/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD8W0J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.836Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.836Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695190c"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdaf",
+  "type": "text",
+  "name": "info(SKL2-VZ3B)",
+  "message": "FL : SKL2-VZ3B\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCP-245-SR\nRatio : 119.5 , 69\nวันที่เริ่มใช้งาน : 13/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD8W0J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.837Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.837Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695190d"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb0",
+  "type": "text",
+  "name": "info(SKL2-VZ4B)",
+  "message": "FL : SKL2-VZ4B\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 20/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD8W0J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.837Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.837Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695190e"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb1",
+  "type": "text",
+  "name": "info(SKL2-VZ4B)",
+  "message": "FL : SKL2-VZ4B\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 20/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD8W0J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.837Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.837Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695190f"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb2",
+  "type": "text",
+  "name": "info(SKL2-VZ4B)",
+  "message": "FL : SKL2-VZ4B\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 300:1-3000:1\nวันที่เริ่มใช้งาน : 20/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD8W0J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.840Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.840Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951910"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb3",
+  "type": "text",
+  "name": "info(SKL2-VZ4C)",
+  "message": "FL : SKL2-VZ4C\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 24/4/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD800J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.841Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.841Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951911"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb4",
+  "type": "text",
+  "name": "info(SKL2-VZ4C)",
+  "message": "FL : SKL2-VZ4C\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 24/4/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD800J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.842Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.842Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951912"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb5",
+  "type": "text",
+  "name": "info(SKL2-VZ4C)",
+  "message": "FL : SKL2-VZ4C\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 24/4/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD800J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.842Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.842Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951913"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb6",
+  "type": "text",
+  "name": "info(SKL2-VZ4D)",
+  "message": "FL : SKL2-VZ4D\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 20/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD800J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.843Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.843Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951914"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb7",
+  "type": "text",
+  "name": "info(SKL2-VZ4D)",
+  "message": "FL : SKL2-VZ4D\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 20/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD800J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.846Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.846Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951915"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb8",
+  "type": "text",
+  "name": "info(SKL2-VZ4D)",
+  "message": "FL : SKL2-VZ4D\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 20/9/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD800J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.847Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.847Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951916"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdb9",
+  "type": "text",
+  "name": "info(SKL2-VZ6A)",
+  "message": "FL : SKL2-VZ6A\nManufacturer : ALSTOM GRID LTD. USA\nModel No. : OTCF-245-SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 26/4/2013\nDescription : 230kV CVT 138000:119.5/69V 2 wdg PD800J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.847Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.847Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951917"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdba",
+  "type": "text",
+  "name": "info(STU-CY3A)",
+  "message": "FL : STU-CY3A\nManufacturer : TRENCH\nModel No. : TEC115\nRatio : \nวันที่เริ่มใช้งาน : 1/1/1985\nDescription : CVT, CC 115KV 0<VA≤12.5\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.848Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.848Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951918"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdbb",
+  "type": "text",
+  "name": "info(STU-VW1A)",
+  "message": "FL : STU-VW1A\nManufacturer : Precise\nModel No. : VOG-36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 21/8/2012\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.849Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.849Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951919"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdbc",
+  "type": "text",
+  "name": "info(STU-VW1A)",
+  "message": "FL : STU-VW1A\nManufacturer : Precise\nModel No. : VOG-36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 21/8/2012\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.850Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.850Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695191a"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdbd",
+  "type": "text",
+  "name": "info(STU-VW1A)",
+  "message": "FL : STU-VW1A\nManufacturer : Precise\nModel No. : VOG-36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 21/8/2012\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.850Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.850Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695191b"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdbe",
+  "type": "text",
+  "name": "info(STU-VW2A)",
+  "message": "FL : STU-VW2A\nManufacturer : ABB\nModel No. : EMFC52\nRatio : 300:1(20125/67.08V)\nวันที่เริ่มใช้งาน : 26/8/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.851Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.851Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695191c"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdbf",
+  "type": "text",
+  "name": "info(STU-VW2A)",
+  "message": "FL : STU-VW2A\nManufacturer : ABB\nModel No. : EMFC52\nRatio : 300:1(20125/67.08V)\nวันที่เริ่มใช้งาน : 26/8/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.851Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.851Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695191d"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc0",
+  "type": "text",
+  "name": "info(STU-VW2A)",
+  "message": "FL : STU-VW2A\nManufacturer : ABB\nModel No. : EMFC52\nRatio : 300:1(20125/67.08V)\nวันที่เริ่มใช้งาน : 26/8/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.852Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.852Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695191e"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc1",
+  "type": "text",
+  "name": "info(STU-VY3A)",
+  "message": "FL : STU-VY3A\nManufacturer : TRENCH ELECTRIC\nModel No. : TEVF115\nRatio : 119.5/69V\nวันที่เริ่มใช้งาน : 21/12/1995\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 6\nC1 Cap. : 6\nC2 Cap. : 84",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.852Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.852Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695191f"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc2",
+  "type": "text",
+  "name": "info(STU-VY6A)",
+  "message": "FL : STU-VY6A\nManufacturer : RITZ\nModel No. : OTCF-123.SM\nRatio : 577/1000:1\nวันที่เริ่มใช้งาน : 28/8/2000\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 1\nTotal Cap. : 94\nC1 Cap. : 10\nC2 Cap. : 11",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.853Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.853Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951920"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc3",
+  "type": "text",
+  "name": "info(STU-VY6A)",
+  "message": "FL : STU-VY6A\nManufacturer : RITZ\nModel No. : OTCF-123.SM\nRatio : 577/1000:1\nวันที่เริ่มใช้งาน : 28/8/2000\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 1\nTotal Cap. : 92\nC1 Cap. : 10\nC2 Cap. : 11",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.854Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.854Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951921"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc4",
+  "type": "text",
+  "name": "info(STU-VY6A)",
+  "message": "FL : STU-VY6A\nManufacturer : RITZ\nModel No. : OTCF-123.SM\nRatio : \nวันที่เริ่มใช้งาน : 28/8/2000\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.854Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.854Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951922"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc5",
+  "type": "text",
+  "name": "info(SUK-CY4A)",
+  "message": "FL : SUK-CY4A\nManufacturer : TRENCH ELECTRIC\nModel No. : TECF115\nRatio : \nวันที่เริ่มใช้งาน : 21/12/1995\nDescription : CVT, CC 115KV 0<VA≤12.5\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.856Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.856Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951923"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc6",
+  "type": "text",
+  "name": "info(SUK-VW1A)",
+  "message": "FL : SUK-VW1A\nManufacturer : ABB\nModel No. : EMFC52\nRatio : 300:1(20125/67.08V)\nวันที่เริ่มใช้งาน : 21/12/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.856Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.856Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951924"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc7",
+  "type": "text",
+  "name": "info(SUK-VW2A)",
+  "message": "FL : SUK-VW2A\nManufacturer : ABB\nModel No. : EMFC36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 1/1/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.857Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.857Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951925"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc8",
+  "type": "text",
+  "name": "info(SUK-VW2A)",
+  "message": "FL : SUK-VW2A\nManufacturer : ABB\nModel No. : EMFC36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 1/1/1995\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.857Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.857Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951926"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdc9",
+  "type": "text",
+  "name": "info(SUK-VW2A)",
+  "message": "FL : SUK-VW2A\nManufacturer : ABB\nModel No. : EMFC36\nRatio : 300:1\nวันที่เริ่มใช้งาน : 1/1/1997\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.859Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.859Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951927"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdca",
+  "type": "text",
+  "name": "info(SUK-VY1B)",
+  "message": "FL : SUK-VY1B\nManufacturer : ALSTOM\nModel No. : OTCF_223.SR\nRatio : 69000:119.5/69V\nวันที่เริ่มใช้งาน : \nDescription : 115kV CVT 69000:119.5/69V 2 wdg PD 700J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.860Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.860Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951928"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdcb",
+  "type": "text",
+  "name": "info(SUK-VY1B)",
+  "message": "FL : SUK-VY1B\nManufacturer : ALSTOM\nModel No. : OTCF_223.SR\nRatio : 69000:119.5/69V\nวันที่เริ่มใช้งาน : \nDescription : 115kV CVT 69000:119.5/69V 2 wdg PD 700J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.860Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.860Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951929"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdcc",
+  "type": "text",
+  "name": "info(SUK-VY1B)",
+  "message": "FL : SUK-VY1B\nManufacturer : ALSTOM\nModel No. : OTCF_223.SR\nRatio : 69000:119.5/69V\nวันที่เริ่มใช้งาน : \nDescription : 115kV CVT 69000:119.5/69V 2 wdg PD 700J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.860Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.860Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695192a"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdcd",
+  "type": "text",
+  "name": "info(SUK-VY3A)",
+  "message": "FL : SUK-VY3A\nManufacturer : ALSTOM\nModel No. : OTCF_223.SR\nRatio : 69000:119.5/69V\nวันที่เริ่มใช้งาน : \nDescription : 115kV CVT 69000:119.5/69V 2 wdg PD7W0J\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.861Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.861Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695192b"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdce",
+  "type": "text",
+  "name": "info(SUK-VY4A)",
+  "message": "FL : SUK-VY4A\nManufacturer : TRENCH\nModel No. : TEVF115H\nRatio : \nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 35<VA≤75\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.863Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.863Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695192c"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdcf",
+  "type": "text",
+  "name": "info(YL1-VW1A)",
+  "message": "FL : YL1-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 14/9/2017\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.863Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.863Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695192d"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd0",
+  "type": "text",
+  "name": "info(YL1-VW1A)",
+  "message": "FL : YL1-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 14/9/2017\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.864Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.864Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695192e"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd1",
+  "type": "text",
+  "name": "info(YL1-VW1A)",
+  "message": "FL : YL1-VW1A\nManufacturer : PRECISE,\nModel No. : VOG-36\nRatio : 33000//110\nวันที่เริ่มใช้งาน : 14/9/2017\nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.864Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.864Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695192f"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd2",
+  "type": "text",
+  "name": "info(YL1-VW2A)",
+  "message": "FL : YL1-VW2A\nManufacturer : ABB\nModel No. : EMFC 36\nRatio : 300:1\nวันที่เริ่มใช้งาน : \nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.865Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.865Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951930"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd3",
+  "type": "text",
+  "name": "info(YL1-VW2A)",
+  "message": "FL : YL1-VW2A\nManufacturer : ABB\nModel No. : EMFC 36\nRatio : 300:1\nวันที่เริ่มใช้งาน : \nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.865Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.865Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951931"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd4",
+  "type": "text",
+  "name": "info(YL1-VW2A)",
+  "message": "FL : YL1-VW2A\nManufacturer : ABB\nModel No. : EMFC 36\nRatio : 300:1\nวันที่เริ่มใช้งาน : \nDescription : VT, PT METERING 33KV 35<VA≤75\nCore : 1\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.866Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.866Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951932"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd5",
+  "type": "text",
+  "name": "info(YL1-VY2B)",
+  "message": "FL : YL1-VY2B\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 10/9/2015\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.866Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.866Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951933"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd6",
+  "type": "text",
+  "name": "info(YL1-VY3A)",
+  "message": "FL : YL1-VY3A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 9/9/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.867Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.867Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951934"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd7",
+  "type": "text",
+  "name": "info(YL1-VY3A)",
+  "message": "FL : YL1-VY3A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 11/9/2015\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.867Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.867Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951935"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd8",
+  "type": "text",
+  "name": "info(YL1-VY3A)",
+  "message": "FL : YL1-VY3A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 11/9/2015\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : \nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.868Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.868Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951936"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdd9",
+  "type": "text",
+  "name": "info(YL1-VY4A)",
+  "message": "FL : YL1-VY4A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 12/9/2015\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.868Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.868Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951937"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdda",
+  "type": "text",
+  "name": "info(YL1-VY4A)",
+  "message": "FL : YL1-VY4A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 12/9/2015\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.869Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.869Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951938"
+  },
+  "id": "5f0e8d6bd9854c4787c3fddb",
+  "type": "text",
+  "name": "info(YL1-VY4A)",
+  "message": "FL : YL1-VY4A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 12/9/2015\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.870Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.870Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951939"
+  },
+  "id": "5f0e8d6bd9854c4787c3fddc",
+  "type": "text",
+  "name": "info(YL1-VY6A)",
+  "message": "FL : YL1-VY6A\nManufacturer : RITZ\nModel No. : SHCI_123\nRatio : 6900:69/119.5\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.870Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.870Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695193a"
+  },
+  "id": "5f0e8d6bd9854c4787c3fddd",
+  "type": "text",
+  "name": "info(YL1-VY6A)",
+  "message": "FL : YL1-VY6A\nManufacturer : RITZ\nModel No. : SHCI_123\nRatio : 6900:69/119.5\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.870Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.870Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695193b"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdde",
+  "type": "text",
+  "name": "info(YL1-VY6A)",
+  "message": "FL : YL1-VY6A\nManufacturer : RITZ\nModel No. : SHCI_123\nRatio : 6900:69/119.5\nวันที่เริ่มใช้งาน : \nDescription : CVT, W/O 115KV 150<VA≤300\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.874Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.874Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695193c"
+  },
+  "id": "5f0e8d6bd9854c4787c3fddf",
+  "type": "text",
+  "name": "info(YL1-VY7A)",
+  "message": "FL : YL1-VY7A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 13/9/2015\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.874Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.874Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695193d"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde0",
+  "type": "text",
+  "name": "info(YL1-VY7A)",
+  "message": "FL : YL1-VY7A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 13/9/2015\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.875Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.875Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695193e"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde1",
+  "type": "text",
+  "name": "info(YL1-VY7A)",
+  "message": "FL : YL1-VY7A\nManufacturer : EMEK\nModel No. : KGT-125\nRatio : \nวันที่เริ่มใช้งาน : 8/9/2018\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 8\nC1 Cap. : 9\nC2 Cap. : 49",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.875Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.875Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695193f"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde2",
+  "type": "text",
+  "name": "info(YL1-VY8A)",
+  "message": "FL : YL1-VY8A\nManufacturer : Pacific Power Co.,Ltd.\nModel No. : OCTF-123.SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 11/9/1956\nDescription : \nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.876Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.876Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951940"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde3",
+  "type": "text",
+  "name": "info(YL1-VY8A)",
+  "message": "FL : YL1-VY8A\nManufacturer : Pacific Power Co.,Ltd.\nModel No. : OCTF-123.SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 11/9/1956\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.876Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.876Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951941"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde4",
+  "type": "text",
+  "name": "info(YL1-VY8A)",
+  "message": "FL : YL1-VY8A\nManufacturer : Pacific Power Co.,Ltd.\nModel No. : OCTF-123.SR\nRatio : 119.5, 69\nวันที่เริ่มใช้งาน : 11/9/1956\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.877Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.877Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951942"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde5",
+  "type": "text",
+  "name": "info(YL2-VY5A)",
+  "message": "FL : YL2-VY5A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.877Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.877Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951943"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde6",
+  "type": "text",
+  "name": "info(YL2-VY5A)",
+  "message": "FL : YL2-VY5A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.878Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.878Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951944"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde7",
+  "type": "text",
+  "name": "info(YL2-VY5A)",
+  "message": "FL : YL2-VY5A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.878Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.878Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951945"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde8",
+  "type": "text",
+  "name": "info(YL2-VY5B)",
+  "message": "FL : YL2-VY5B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 101\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.879Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.879Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951946"
+  },
+  "id": "5f0e8d6bd9854c4787c3fde9",
+  "type": "text",
+  "name": "info(YL2-VY5B)",
+  "message": "FL : YL2-VY5B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.879Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.879Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951947"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdea",
+  "type": "text",
+  "name": "info(YL2-VY5B)",
+  "message": "FL : YL2-VY5B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.880Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.880Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951948"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdeb",
+  "type": "text",
+  "name": "info(YL2-VY5C)",
+  "message": "FL : YL2-VY5C\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.880Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.880Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951949"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdec",
+  "type": "text",
+  "name": "info(YL2-VY5C)",
+  "message": "FL : YL2-VY5C\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.880Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.880Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695194a"
+  },
+  "id": "5f0e8d6bd9854c4787c3fded",
+  "type": "text",
+  "name": "info(YL2-VY5C)",
+  "message": "FL : YL2-VY5C\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.880Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.880Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695194b"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdee",
+  "type": "text",
+  "name": "info(YL2-VY5D)",
+  "message": "FL : YL2-VY5D\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.881Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.881Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695194c"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdef",
+  "type": "text",
+  "name": "info(YL2-VY5D)",
+  "message": "FL : YL2-VY5D\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 97\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.881Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.881Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695194d"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf0",
+  "type": "text",
+  "name": "info(YL2-VY5D)",
+  "message": "FL : YL2-VY5D\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.881Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.881Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695194e"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf1",
+  "type": "text",
+  "name": "info(YL2-VY6A)",
+  "message": "FL : YL2-VY6A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.881Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.881Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695194f"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf2",
+  "type": "text",
+  "name": "info(YL2-VY6B)",
+  "message": "FL : YL2-VY6B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.882Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.882Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951950"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf3",
+  "type": "text",
+  "name": "info(YL2-VY6B)",
+  "message": "FL : YL2-VY6B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.882Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.882Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951951"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf4",
+  "type": "text",
+  "name": "info(YL2-VY6B)",
+  "message": "FL : YL2-VY6B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.882Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.882Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951952"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf5",
+  "type": "text",
+  "name": "info(YL2-VY7A)",
+  "message": "FL : YL2-VY7A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.883Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.883Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951953"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf6",
+  "type": "text",
+  "name": "info(YL2-VY7B)",
+  "message": "FL : YL2-VY7B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.884Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.884Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951954"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf7",
+  "type": "text",
+  "name": "info(YL2-VY7B)",
+  "message": "FL : YL2-VY7B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 100\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.884Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.884Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951955"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf8",
+  "type": "text",
+  "name": "info(YL2-VY7B)",
+  "message": "FL : YL2-VY7B\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.885Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.885Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951956"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdf9",
+  "type": "text",
+  "name": "info(YL2-VY8A)",
+  "message": "FL : YL2-VY8A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 97\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.892Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.892Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951957"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdfa",
+  "type": "text",
+  "name": "info(YL2-VY8A)",
+  "message": "FL : YL2-VY8A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.892Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.892Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951958"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdfb",
+  "type": "text",
+  "name": "info(YL2-VY8A)",
+  "message": "FL : YL2-VY8A\nManufacturer : RITZ\nModel No. : SHCR123\nRatio : 69000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 115KV 35<VA≤75\nCore : 2\nTotal Cap. : 100\nC1 Cap. : 7\nC2 Cap. : 8",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.892Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.892Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951959"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdfc",
+  "type": "text",
+  "name": "info(YL2-VZ5A)",
+  "message": "FL : YL2-VZ5A\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 96\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.893Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.893Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695195a"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdfd",
+  "type": "text",
+  "name": "info(YL2-VZ5B)",
+  "message": "FL : YL2-VZ5B\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 96\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.893Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.893Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695195b"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdfe",
+  "type": "text",
+  "name": "info(YL2-VZ5B)",
+  "message": "FL : YL2-VZ5B\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : \nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : \nTotal Cap. : undefined\nC1 Cap. : undefined\nC2 Cap. : undefined",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.894Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.894Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695195c"
+  },
+  "id": "5f0e8d6bd9854c4787c3fdff",
+  "type": "text",
+  "name": "info(YL2-VZ5B)",
+  "message": "FL : YL2-VZ5B\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 98\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.894Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.894Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695195d"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe00",
+  "type": "text",
+  "name": "info(YL2-VZ6A)",
+  "message": "FL : YL2-VZ6A\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 96\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.895Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.895Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695195e"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe01",
+  "type": "text",
+  "name": "info(YL2-VZ6B)",
+  "message": "FL : YL2-VZ6B\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.895Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.895Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f695195f"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe02",
+  "type": "text",
+  "name": "info(YL2-VZ6B)",
+  "message": "FL : YL2-VZ6B\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 95\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.895Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.895Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951960"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe03",
+  "type": "text",
+  "name": "info(YL2-VZ6B)",
+  "message": "FL : YL2-VZ6B\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/C 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 97\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.896Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.896Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951961"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe04",
+  "type": "text",
+  "name": "info(YL2-VZ6C)",
+  "message": "FL : YL2-VZ6C\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.896Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.896Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951962"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe05",
+  "type": "text",
+  "name": "info(YL2-VZ6C)",
+  "message": "FL : YL2-VZ6C\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 97\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.896Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.896Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951963"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe06",
+  "type": "text",
+  "name": "info(YL2-VZ6C)",
+  "message": "FL : YL2-VZ6C\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 97\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.897Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.897Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951964"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe07",
+  "type": "text",
+  "name": "info(YL2-VZ6D)",
+  "message": "FL : YL2-VZ6D\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 96\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.897Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.897Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951965"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe08",
+  "type": "text",
+  "name": "info(YL2-VZ6D)",
+  "message": "FL : YL2-VZ6D\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 97\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.897Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.897Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f0e92b9d4438b54f6951966"
+  },
+  "id": "5f0e8d6bd9854c4787c3fe09",
+  "type": "text",
+  "name": "info(YL2-VZ6D)",
+  "message": "FL : YL2-VZ6D\nManufacturer : RITZ\nModel No. : SHCR245\nRatio : 138000:119.5/69\nวันที่เริ่มใช้งาน : 1/5/2001\nDescription : CVT, W/O 230KV 35<VA≤75\nCore : 2\nTotal Cap. : 99\nC1 Cap. : 3\nC2 Cap. : 4",
+  "data": "",
+  "createTime": {
+    "$date": "2020-07-15T05:23:05.898Z"
+  },
+  "updateTime": {
+    "$date": "2020-07-15T05:23:05.898Z"
+  },
+  "packageId": "",
+  "stickerId": "",
+  "originalContentUrl": "",
+  "previewImageUrl": "",
+  "duration": "0",
+  "title": "",
+  "address": "",
+  "latitude": "0",
+  "longitude": "0",
+  "continue": "",
+  "status": "Active",
+  "__v": 0
+}]

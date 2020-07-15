@@ -140,9 +140,108 @@ block content
                                                                         button(type="submit").btn.btn-danger.btn-sm.deleteCT
                                                                             i.fas.fa-trash-alt
                             #nav-pt.tab-pane.fade(role="tabpanel" aria-labelledby="nav-pt-tab")
-                                p tap3
+                                .container-fluid.no-padding
+                                    .row.no-padding-top
+                                        .col-12
+                                            a#addPT(href="/equipment/CB/") 
+                                                button.btn.btn-success ADD
+                                            table.PT(
+                                                data-toggle="table"
+                                                data-pagination="true"
+                                                data-search="true"
+                                                data-advanced-search="true"
+                                                data-id-table="advancedTable"
+                                                data-filter-control="true"
+                                                data-filter-show-clear="true"
+                                                data-locale="th-TH"
+                                                data-toolbar="#addPT"
+                                                data-pagination-pre-text="Previous"
+                                                data-pagination-next-text="Next"
+                                                data-pagination-h-align="left"
+                                                data-pagination-detail-h-align="right"
+                                                data-page-list="[10,20,30,40,50,All]"
+                                                
+                                                )
+                                                thead
+                                                    tr
+                                                        th(data-field="sub_name" data-sortable="true" data-filter-control="select" ) Sub.
+                                                        th(data-field="FL" data-sortable="true" data-filter-control="input") FL
+                                                        th(data-field="Phase" data-sortable="true" ) Phase
+                                                        th(data-field="Manufacturer" data-sortable="true"  ) Manufacturer
+                                                        th(data-field="Model" data-sortable="true" ) Model
+                                                        th(data-field="Ratio" data-sortable="true" ) Ratio
+                                                        th(data-field="Voltage" data-sortable="true" ) Voltage
+                                                        th(data-field="Action" ) Action
+                                                tbody
+                                                    each PT_data in obj.PT_datas
+                                                        tr
+                                                            td= PT_data.nameOfSub[0].sub_name
+                                                            td= PT_data.functional_location
+                                                            td= PT_data.phase_position
+                                                            td= PT_data.manufacturer
+                                                            td= PT_data.model_number
+                                                            td= PT_data.voltage_ratio
+                                                            td= PT_data.system_voltage
+                                                            td
+                                                                span(style="font-size: 4px")
+                                                                    a(href="#").btn.btn-warning.btn-sm.editPT
+                                                                        i.fas.fa-edit
+                                                                span
+                                                                span(style="font-size: 4px")
+                                                                    form(action="#" method="post")
+                                                                        button(type="submit").btn.btn-danger.btn-sm.deletePT
+                                                                            i.fas.fa-trash-alt
+
                             #nav-ds.tab-pane.fade(role="tabpanel" aria-labelledby="nav-ds-tab")
-                                p tap4
+                                .container-fluid.no-padding
+                                    .row.no-padding-top
+                                        .col-12
+                                            a#addDS(href="/equipment/CB/") 
+                                                button.btn.btn-success ADD
+                                            table.PT(
+                                                data-toggle="table"
+                                                data-pagination="true"
+                                                data-search="true"
+                                                data-advanced-search="true"
+                                                data-id-table="advancedTable"
+                                                data-filter-control="true"
+                                                data-filter-show-clear="true"
+                                                data-locale="th-TH"
+                                                data-toolbar="#addDS"
+                                                data-pagination-pre-text="Previous"
+                                                data-pagination-next-text="Next"
+                                                data-pagination-h-align="left"
+                                                data-pagination-detail-h-align="right"
+                                                data-page-list="[10,20,30,40,50,All]"
+                                                
+                                                )
+                                                thead
+                                                    tr
+                                                        th(data-field="sub_name" data-sortable="true" data-filter-control="select" ) Sub.
+                                                        th(data-field="FL" data-sortable="true" data-filter-control="input") FL
+                                                        th(data-field="Phase" data-sortable="true" ) Phase
+                                                        th(data-field="Manufacturer" data-sortable="true"  ) Manufacturer
+                                                        th(data-field="Model" data-sortable="true" ) Model
+                                                        th(data-field="Voltage" data-sortable="true" ) Voltage
+                                                        th(data-field="Action" ) Action
+                                                tbody
+                                                    each DS_data in obj.DS_datas
+                                                        tr
+                                                            td= DS_data.nameOfSub[0].sub_name
+                                                            td= DS_data.functional_location
+                                                            td= DS_data.phase_position
+                                                            td= DS_data.manufacturer
+                                                            td= DS_data.model_number
+                                                            td= DS_data.system_voltage
+                                                            td
+                                                                span(style="font-size: 4px")
+                                                                    a(href="#").btn.btn-warning.btn-sm.editDS
+                                                                        i.fas.fa-edit
+                                                                span
+                                                                span(style="font-size: 4px")
+                                                                    form(action="#" method="post")
+                                                                        button(type="submit").btn.btn-danger.btn-sm.deleteDS
+                                                                            i.fas.fa-trash-alt
                             #nav-tx.tab-pane.fade(role="tabpanel" aria-labelledby="nav-tx-tab")
                                 p tap5
 

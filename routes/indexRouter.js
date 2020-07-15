@@ -9,7 +9,8 @@ var YearData = require('../models/yearsModel');
 var LineMessage = require('../models/lineMessageModel');
 var CBModel = require('../models/cbModel');
 var CTModel = require('../models/ctModel');
-
+var PTModel = require('../models/ptModel');
+var DSModel = require('../models/dsModel');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
@@ -460,8 +461,95 @@ router.get('/addLineCT', function(req, res, next) {
 
 });
 
+// add PTdata to lineMessage
+router.get('/addLinePT', function(req, res, next) {
+  
+   
+  PTModel.find().exec((err,PT_data)=>{
+    if(err) console.log(err)
+    console.log(PT_data)
+    for(let i=0;i<PT_data.length;i++){
+      var lineMessageDoc = new LineMessage(
+        {
+          id : PT_data[i]._id,
+          type : "text",
+          name : "info("+PT_data[i].functional_location+")",
+          message : "FL : "+PT_data[i].functional_location+"\n"+"Manufacturer : "+PT_data[i].manufacturer+"\n"+"Model No. : "+PT_data[i].model_number+"\n"+"Ratio : "+PT_data[i].voltage_ratio+"\n"+"วันที่เริ่มใช้งาน : "+PT_data[i].start_date+"\n"+"Description : "+PT_data[i].description2+"\n"+"Core : "+PT_data[i].core+"\n"+"Total Cap. : "+PT_data[i].total_capacitance+"\n"+"C1 Cap. : "+PT_data[i].c1_capacitance+"\n"+"C2 Cap. : "+PT_data[i].c2_capacitance,
+          data : "",
+          createTime : Date.now(),
+          updateTime : Date.now(),
+          packageId : "",
+          stickerId : "",
+          originalContentUrl : "",
+          previewImageUrl : "",
+          duration : "0",
+          title : "",
+          address : "",
+          latitude : "0",
+          longitude : "0",
+          continue : "",
+          status : "Active"
+        });
+        lineMessageDoc.save((err,dataLine)=>{
+          if(err) console.log(err)
+          console.log(dataLine)
+        })
+    }
+    
+    
+     res.render('addLinePage',{ obj:
+      {
+        page : 'data_z3_eq'
+      }
+    })
+  })
 
+});
 
+// add DSdata to lineMessage
+router.get('/addLineDS', function(req, res, next) {
+  
+   
+  DSModel.find().exec((err,DS_data)=>{
+    if(err) console.log(err)
+    console.log(DS_data)
+    for(let i=0;i<DS_data.length;i++){
+      var lineMessageDoc = new LineMessage(
+        {
+          id : DS_data[i]._id,
+          type : "text",
+          name : "info("+DS_data[i].functional_location+")",
+          message : "FL : "+DS_data[i].functional_location+"\n"+"Manufacturer : "+DS_data[i].manufacturer+"\n"+"Model No. : "+DS_data[i].model_number+"\n"+"System Voltage : "+DS_data[i].system_voltage+" kV"+"\n"+"วันที่เริ่มใช้งาน : "+DS_data[i].start_date+"\n"+"Description : "+DS_data[i].description2+"\n"+"Operating Type : "+DS_data[i].operating_type,
+          data : "",
+          createTime : Date.now(),
+          updateTime : Date.now(),
+          packageId : "",
+          stickerId : "",
+          originalContentUrl : "",
+          previewImageUrl : "",
+          duration : "0",
+          title : "",
+          address : "",
+          latitude : "0",
+          longitude : "0",
+          continue : "",
+          status : "Active"
+        });
+        lineMessageDoc.save((err,dataLine)=>{
+          if(err) console.log(err)
+          console.log(dataLine)
+        })
+    }
+    
+    
+     res.render('addLinePage',{ obj:
+      {
+        page : 'data_z3_eq'
+      }
+    })
+  })
+
+});
 
 
 module.exports = router;

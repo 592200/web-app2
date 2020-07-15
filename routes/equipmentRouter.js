@@ -6,6 +6,8 @@ var CBModel = require('../models/cbModel');
 var Subs = require('../models/substationModel');
 var LineMessage = require('../models/lineMessageModel');
 var CTModel = require('../models/ctModel');
+var PTModel = require('../models/ptModel');
+var DSModel = require('../models/dsModel');
 
 /* GET equipment first page. */
 router.get('/', function(req, res, next) {
@@ -37,16 +39,44 @@ router.get('/', function(req, res, next) {
                 
             ]),(err,CT_data)=>{
                 if(err) console.log(err)
-                console.log(CT_data)
+                PTModel.aggregate(([
+                    {
+                        $lookup: {
+                        from : 'substations', 
+                        localField : 'sub_id', 
+                        foreignField : 'id', 
+                        as : 'nameOfSub'
+                        }
+                    }
+                    
+                ]),(err,PT_data)=>{
+                    if(err) console.log(err)
+                    DSModel.aggregate(([
+                        {
+                            $lookup: {
+                            from : 'substations', 
+                            localField : 'sub_id', 
+                            foreignField : 'id', 
+                            as : 'nameOfSub'
+                            }
+                        }
+                    
+                    ]),(err,DS_data)=>{
+                        if(err) console.log(err)
+                        console.log(DS_data)
             //console.log(CB_data[0].nameOfSub)
         
-                res.render('equipment',{obj : 
-                    {
-                    page : 'data_z3_eq',
-                    CB_datas : CB_data,
-                    CT_datas : CT_data
-                    }
-                })
+                            res.render('equipment',{obj : 
+                                {
+                                page : 'data_z3_eq',
+                                CB_datas : CB_data,
+                                CT_datas : CT_data,
+                                PT_datas : PT_data,
+                                DS_datas : DS_data
+                                }
+                            })
+                        })
+                    })
             })
         })
     })
