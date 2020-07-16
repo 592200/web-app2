@@ -30,10 +30,8 @@ html
   
     
   body
-      
-    
+
     .page
-    
       //- Main Navbar
       header.header
         nav.navbar
@@ -73,12 +71,12 @@ html
           span.heading(style="font-size:14px") หัวข้อ
             ul.list-unstyled
               li(class=(pageNo=='index'? 'active':''))
-                a(href="/")
+                a(href="/"  onclick="$(this).loadingStatus()")
                   span(style="font-size: 16px")
                     i.fas.fa-home
                   |   &nbsp; หน้าหลัก
               li(class=(pageNo=='calenEdit'? 'active':''))
-                a(href="/calendarEdit")
+                a(href="/calendarEdit" onclick="$(this).loadingStatus()")
                   span(style="font-size: 16px")
                     i.fas.fa-calendar-alt
                   |   &nbsp; จัดการปฏิทิน
@@ -94,7 +92,7 @@ html
                         i.fas.fa-user-edit
                       |   &nbsp; ข้อมูลบุคลากร
                   li(class=(pageNo=='data_z3_eq'? 'active':''))
-                    a(href="/equipment") 
+                    a(href="/equipment" onclick="$(this).loadingStatus()") 
                       span(style="font-size: 14px")
                         i.fas.fa-wrench
                       |   &nbsp; ข้อมูลอุปกรณ์
@@ -105,7 +103,7 @@ html
                   |   &nbsp; รายงาน
                 ul#exampledropdownDropdown2(class= ((pageNo =='sta_ser'||pageNo =='report_week')? "collapse list-unstyled show" : "collapse list-unstyled"))
                   li(class=(pageNo=='sta_ser'? 'active':''))
-                    a(href="/station_service") 
+                    a(href="/station_service" onclick="$(this).loadingStatus()") 
                       span(style="font-size: 14px")
                         i.fas.fa-chart-bar
                       |   &nbsp; รายงาน Station Service
@@ -129,7 +127,6 @@ html
 
         
         block content
-
         
   
 

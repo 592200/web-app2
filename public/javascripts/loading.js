@@ -1,15 +1,27 @@
+
+
 $(document).ready(function(){
 
   $.ajax({
     beforeSend: function(){
       console.log('ajaxSend')
-      run_waitMe(1, 'win8');
+	  waitStatus();
     },
     complete: function(){
-      console.log('ajaxComplete')
-      $('.page').waitMe('hide');
+	  console.log('ajaxComplete')
+	  successStatus();
     }
   });
+
+ function waitStatus(){
+    run_waitMe(1, 'win8');
+
+ }
+ function successStatus(){
+	$('.page').waitMe('hide');
+	 
+ }
+
   // $("button,a").click(function(){
   //   console.log('click')
   //   run_waitMe(1, 'facebook');
@@ -58,5 +70,15 @@ $(document).ready(function(){
 			onClose: function(el) {}
 		});
   }
+
+  $.fn.loadingStatus = function() {
+	console.log('loadingStatusclick')
+	waitStatus();
+ }; 
+
+ $.fn.loadSuccess = function() {
+	console.log('loadSuccess')
+	successStatus();
+ }; 
 
 });
